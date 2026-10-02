@@ -1,0 +1,1223 @@
+﻿row,connection_id,change_type,method,n_pred,pred_span,gold_span,P,R,F1,hit
+0,1,multiple differences,L2 group anchor + divergence,5,ظلموا قولا غير الذي قيل,ظلموا فانزلنا علي الذين ظلموا يفسقون,0.2,0.16666666666666666,0.1818181818181818,1.0
+1,1,multiple differences,L2 group anchor + divergence,5,منهم قولا غير الذي قيل,ظلموا منهم فارسلنا عليهم يظلمون,0.2,0.2,0.20000000000000004,1.0
+2,2,addition & subtraction,L2 group anchor + divergence,4,واستكبر وكان من الكافرين,ابليس ابي واستكبر,0.25,0.3333333333333333,0.28571428571428575,1.0
+3,2,addition & subtraction,L2 group anchor + divergence,4,استكبر وكان من الكافرين,ابليس استكبر,0.25,0.5,0.3333333333333333,1.0
+4,3,multiple differences,L2 group anchor + divergence,4,واسماعيل واسحاق ويعقوب والاسباط,قولوا وما انزل الينا وما اوتي النبيون من ربهم,0.0,0.0,0.0,0.0
+5,3,multiple differences,L2 group anchor + divergence,4,واسماعيل واسحاق ويعقوب والاسباط,قل وما انزل علينا والنبيون من ربهم,0.0,0.0,0.0,0.0
+6,4,replacement,L2 group anchor + divergence,5,اكبر من القتل ولا يزالون,اكبر من القتل,0.6,1.0,0.7499999999999999,1.0
+7,4,replacement,L2 group anchor + divergence,5,اشد من القتل ولا تقاتلوهم,اشد من القتل,0.6,1.0,0.7499999999999999,1.0
+8,5,replacement,L2 group anchor + divergence,5,يبين الله لكم اياته لعلكم,كذلك يبين الله لكم اياته لعلكم تعقلون,1.0,0.7142857142857143,0.8333333333333333,1.0
+9,5,replacement,L2 group anchor + divergence,5,يبين الله لكم اياته لعلكم,كذلك يبين الله لكم اياته لعلكم تهتدون,1.0,0.7142857142857143,0.8333333333333333,1.0
+10,5,replacement,L2 group anchor + divergence,5,يبين الله لكم اياته والله,كذلك يبين الله لكم اياته والله عليم حكيم,1.0,0.625,0.7692307692307693,1.0
+11,5,replacement,L2 group anchor + divergence,5,يبين الله لكم اياته لعلكم,كذلك يبين الله لكم اياته لعلكم تشكرون,1.0,0.7142857142857143,0.8333333333333333,1.0
+12,6,order similarity,L2 group anchor + divergence,3,في الارض ولا,في الارض ولا في السماء,1.0,0.6,0.7499999999999999,1.0
+13,6,order similarity,L2 group anchor + divergence,3,في الارض ولا,في الارض ولا في السماء,1.0,0.6,0.7499999999999999,1.0
+14,6,order similarity,L2 group anchor + divergence,3,خلق الارض والسماوات,خلق الارض والسماوات,1.0,1.0,1.0,1.0
+15,6,order similarity,L2 group anchor + divergence,3,في الارض ولا,في الارض ولا في السماء,1.0,0.6,0.7499999999999999,1.0
+16,6,order similarity,L2 group anchor + divergence,3,في الارض ولا,في الارض ولا في السماء,1.0,0.6,0.7499999999999999,1.0
+17,7,replacement,L2 group anchor + divergence,6,الذين يكفرون بايات الله ويقتلون النبيين,ويقتلون النبيين بغير حق,0.3333333333333333,0.5,0.4,1.0
+18,7,replacement,L2 group anchor + divergence,6,كانوا يكفرون بايات الله ويقتلون الانبياء,ويقتلون الانبياء بغير حق,0.3333333333333333,0.5,0.4,1.0
+19,7,replacement,L2 group anchor + divergence,6,كانوا يكفرون بايات الله ويقتلون النبيين,ويقتلون النبيين بغير الحق,0.3333333333333333,0.5,0.4,1.0
+20,8,addition & subtraction,L2 group anchor + divergence,3,اطيعوا الله والرسول,اطيعوا الله والرسول,1.0,1.0,1.0,1.0
+21,8,addition & subtraction,L2 group anchor + divergence,3,واطيعوا الله والرسول,واطيعوا الله والرسول,1.0,1.0,1.0,1.0
+22,8,addition & subtraction,L2 group anchor + divergence,3,اطيعوا الله واطيعوا,اطيعوا الله واطيعوا الرسول,1.0,0.75,0.8571428571428571,1.0
+23,8,addition & subtraction,L2 group anchor + divergence,3,واطيعوا الله واطيعوا,واطيعوا الله واطيعوا الرسول واحذروا,1.0,0.6,0.7499999999999999,1.0
+24,8,addition & subtraction,L2 group anchor + divergence,3,اطيعوا الله واطيعوا,اطيعوا الله واطيعوا الرسول,1.0,0.75,0.8571428571428571,1.0
+25,8,addition & subtraction,L2 group anchor + divergence,3,اطيعوا الله واطيعوا,اطيعوا الله واطيعوا الرسول,1.0,0.75,0.8571428571428571,1.0
+26,8,addition & subtraction,L2 group anchor + divergence,3,واطيعوا الله واطيعوا,واطيعوا الله واطيعوا الرسول,1.0,0.75,0.8571428571428571,1.0
+27,9,replacement,L2 group anchor + divergence,4,الصالحات من ذكر او,من ذكر او انثي,0.75,0.75,0.75,1.0
+28,9,replacement,L2 group anchor + divergence,4,منكم من ذكر او,من ذكر او انثي,0.75,0.75,0.75,1.0
+29,9,replacement,L2 group anchor + divergence,4,صالحا من ذكر او,من ذكر او انثي,0.75,0.75,0.75,1.0
+30,9,replacement,L2 group anchor + divergence,4,صالحا من ذكر او,من ذكر او انثي,0.75,0.75,0.75,1.0
+31,9,replacement,L2 group anchor + divergence,4,خلقناكم من ذكر وانثي,من ذكر وانثي,0.75,1.0,0.8571428571428571,1.0
+32,10,addition & subtraction,L2 group anchor + divergence,5,الانهار خالدين فيها ابدا لهم,خالدين فيها ابدا,0.6,1.0,0.7499999999999999,1.0
+33,10,addition & subtraction,L2 group anchor + divergence,5,الانهار خالدين فيها ابدا وعد,خالدين فيها ابدا,0.6,1.0,0.7499999999999999,1.0
+34,10,addition & subtraction,L2 group anchor + divergence,5,جهنم خالدين فيها ابدا وكان,خالدين فيها ابدا,0.6,1.0,0.7499999999999999,1.0
+35,10,addition & subtraction,L2 group anchor + divergence,5,الانهار خالدين فيها ابدا رضي,خالدين فيها ابدا,0.6,1.0,0.7499999999999999,1.0
+36,10,addition & subtraction,L2 group anchor + divergence,4,خالدين فيها ابدا ان,خالدين فيها ابدا,0.75,1.0,0.8571428571428571,1.0
+37,10,addition & subtraction,L2 group anchor + divergence,5,الانهار خالدين فيها ابدا ذلك,خالدين فيها ابدا,0.6,1.0,0.7499999999999999,1.0
+38,10,addition & subtraction,L2 group anchor + divergence,4,خالدين فيها ابدا لا,خالدين فيها ابدا,0.75,1.0,0.8571428571428571,1.0
+39,10,addition & subtraction,L2 group anchor + divergence,5,الانهار خالدين فيها ابدا ذلك,خالدين فيها ابدا,0.6,1.0,0.7499999999999999,1.0
+40,10,addition & subtraction,L2 group anchor + divergence,5,الانهار خالدين فيها ابدا قد,خالدين فيها ابدا,0.6,1.0,0.7499999999999999,1.0
+41,10,addition & subtraction,L2 group anchor + divergence,4,جهنم خالدين فيها ابدا,خالدين فيها ابدا,0.75,1.0,0.8571428571428571,1.0
+42,10,addition & subtraction,L2 group anchor + divergence,5,الانهار خالدين فيها ابدا رضي,خالدين فيها ابدا,0.6,1.0,0.7499999999999999,1.0
+43,11,replacement,L2 group anchor + divergence,3,فكذبوه فانجيناه والذين,فانجيناه,0.3333333333333333,1.0,0.5,1.0
+44,11,replacement,L2 group anchor + divergence,2,فانجيناه ومن,فانجيناه,0.5,1.0,0.6666666666666666,1.0
+45,11,replacement,L2 group anchor + divergence,2,فانجيناه واصحاب,فانجيناه,0.5,1.0,0.6666666666666666,1.0
+46,11,replacement,L2 group anchor + divergence,2,فانجيناه واهله,فانجيناه,0.5,1.0,0.6666666666666666,1.0
+47,11,replacement,L2 group anchor + divergence,2,فانجيناه واهله,فانجيناه,0.5,1.0,0.6666666666666666,1.0
+48,11,replacement,L2 group anchor + divergence,2,فانجيناه والذين,فانجيناه,0.5,1.0,0.6666666666666666,1.0
+49,12,replacement,L2 group anchor + divergence,5,اشركنا ولا اباءنا ولا حرمنا,لو شاء الله ما اشركنا,0.2,0.2,0.20000000000000004,1.0
+50,12,replacement,L2 group anchor + divergence,5,نحن ولا اباءنا ولا حرمنا,لو شاء الله ما عبدنا,0.0,0.0,0.0,0.0
+51,13,replacement,L2 group anchor + divergence,4,قالوا ارجه واخاه وارسل,ارجه واخاه وارسل,0.75,1.0,0.8571428571428571,1.0
+52,13,replacement,L2 group anchor + divergence,4,قالوا ارجه واخاه وابعث,ارجه واخاه وابعث,0.75,1.0,0.8571428571428571,1.0
+53,14,order change,L2 group anchor + divergence,5,وجاهدوا في سبيل الله باموالهم,في سبيل الله باموالهم وانفسهم,0.8,0.8,0.8000000000000002,1.0
+54,14,order change,L2 group anchor + divergence,5,والمجاهدون في سبيل الله باموالهم,في سبيل الله باموالهم وانفسهم,0.8,0.8,0.8000000000000002,1.0
+55,14,order change,L2 group anchor + divergence,5,وتجاهدون في سبيل الله باموالكم,في سبيل الله باموالكم وانفسكم,0.8,0.8,0.8000000000000002,1.0
+56,15,replacement,L2 group anchor + divergence,5,قل من يرزقكم من السماء,من يرزقكم من السماء والارض,0.8,0.8,0.8000000000000002,1.0
+57,15,replacement,L2 group anchor + divergence,5,قل من يرزقكم من السماوات,من يرزقكم من السماوات والارض,0.8,0.8,0.8000000000000002,1.0
+58,16,replacement,L2 group anchor + divergence,4,ايه من ربه انما,لولا انزل عليه ايه,0.25,0.25,0.25,1.0
+59,16,replacement,L2 group anchor + divergence,4,ايه من ربه قل,لولا انزل عليه ايه,0.25,0.25,0.25,1.0
+60,16,replacement,L2 group anchor + divergence,4,ايه من ربه فقل,لولا انزل عليه ايه,0.25,0.25,0.25,1.0
+61,16,replacement,L2 group anchor + divergence,4,ايات من ربه قل,لولا انزل عليه ايات,0.25,0.25,0.25,1.0
+62,16,replacement,L2 group anchor + divergence,4,ايه من ربه قل,لولا نزل عليه ايه,0.25,0.25,0.25,1.0
+63,17,replacement,L2 group anchor + divergence,4,عليكم عذاب يوم اليم,عذاب يوم اليم,0.75,1.0,0.8571428571428571,1.0
+64,17,replacement,L2 group anchor + divergence,4,من عذاب يوم اليم,عذاب يوم اليم,0.75,1.0,0.8571428571428571,1.0
+65,18,replacement,L2 group anchor + divergence,3,كفروا لهم عذاب,مغفره واجر كبير,0.0,0.0,0.0,0.0
+66,18,replacement,L2 group anchor + divergence,3,اولءك لهم مغفره,مغفره واجر كبير,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0
+67,18,replacement,L2 group anchor + divergence,3,بالغيب لهم مغفره,مغفره واجر كبير,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0
+68,18,replacement,L2 group anchor + divergence,3,وانفقوا لهم اجر,وانفقوا لهم اجر كبير,1.0,0.75,0.8571428571428571,1.0
+69,18,replacement,L2 group anchor + divergence,0,,فيضاعفه له وله اجر كريم,0.0,0.0,0.0,0.0
+70,18,replacement,L2 group anchor + divergence,3,يضاعف لهم ولهم,يضاعف لهم ولهم اجر كريم,1.0,0.6,0.7499999999999999,1.0
+71,18,replacement,L2 group anchor + divergence,0,,بمغفره واجر كريم,0.0,0.0,0.0,0.0
+72,19,replacement,L2 group anchor + divergence,5,الا اسماء سميتموها انتم واباءكم,ما انزل الله بها,0.0,0.0,0.0,0.0
+73,19,replacement,L2 group anchor + divergence,5,الا اسماء سميتموها انتم واباءكم,ما انزل الله بها,0.0,0.0,0.0,0.0
+74,19,replacement,L2 group anchor + divergence,5,في اسماء سميتموها انتم واباءكم,ما نزل الله بها,0.0,0.0,0.0,0.0
+75,20,addition & subtraction,L2 group anchor + divergence,2,قال فانك,فانك من المنظرين,0.5,0.3333333333333333,0.4,1.0
+76,20,addition & subtraction,L2 group anchor + divergence,0,,الي يوم,0.0,0.0,0.0,0.0
+77,20,addition & subtraction,L2 group anchor + divergence,2,قال فانك,فانك من المنظرين,0.5,0.3333333333333333,0.4,1.0
+78,20,addition & subtraction,L2 group anchor + divergence,0,,الي يوم,0.0,0.0,0.0,0.0
+79,20,addition & subtraction,L2 group anchor + divergence,2,قال انظرني,انظرني الي يوم,0.5,0.3333333333333333,0.4,1.0
+80,20,addition & subtraction,L2 group anchor + divergence,2,قال انك,انك من المنظرين,0.5,0.3333333333333333,0.4,1.0
+81,21,replacement,L2 group anchor + divergence,5,السماوات والارض وما بينهما الا,خلقنا السماوات والارض,0.4,0.6666666666666666,0.5,1.0
+82,21,replacement,L2 group anchor + divergence,5,السماوات والارض وما بينهما لاعبين,خلقنا السماوات والارض,0.4,0.6666666666666666,0.5,1.0
+83,21,replacement,L2 group anchor + divergence,5,السماء والارض وما بينهما لاعبين,خلقنا السماء والارض,0.4,0.6666666666666666,0.5,1.0
+84,21,replacement,L2 group anchor + divergence,5,السماء والارض وما بينهما باطلا,خلقنا السماء والارض,0.4,0.6666666666666666,0.5,1.0
+85,22,replacement,L2 group anchor + divergence,3,الم يروا الي,الم يروا,0.6666666666666666,1.0,0.8,1.0
+86,22,replacement,L2 group anchor + divergence,3,الم يروا انا,الم يروا,0.6666666666666666,1.0,0.8,1.0
+87,22,replacement,L2 group anchor + divergence,3,الم يروا كم,الم يروا,0.6666666666666666,1.0,0.8,1.0
+88,22,replacement,L2 group anchor + divergence,4,خوار الم يروا انه,الم يروا,0.5,1.0,0.6666666666666666,1.0
+89,22,replacement,L2 group anchor + divergence,3,الم يروا كم,الم يروا,0.6666666666666666,1.0,0.8,1.0
+90,23,addition & subtraction,L2 group anchor + divergence,4,قال نعم وانكم اذا,وانكم اذا,0.5,1.0,0.6666666666666666,1.0
+91,23,addition & subtraction,L2 group anchor + divergence,4,قال نعم وانكم لمن,وانكم,0.25,1.0,0.4,1.0
+92,24,addition & subtraction,L2 group anchor + divergence,3,والق عصاك فلما,والق,0.3333333333333333,1.0,0.5,1.0
+93,24,addition & subtraction,L2 group anchor + divergence,3,الق عصاك فاذا,ان الق,0.3333333333333333,0.5,0.4,1.0
+94,24,addition & subtraction,L2 group anchor + divergence,3,الق عصاك فلما,وان الق,0.3333333333333333,0.5,0.4,1.0
+95,25,replacement,L2 group anchor + divergence,5,جيبك تخرج بيضاء من غير,وادخل يدك,0.0,0.0,0.0,0.0
+96,25,replacement,L2 group anchor + divergence,5,جيبك تخرج بيضاء من غير,اسلك يدك,0.0,0.0,0.0,0.0
+97,25,replacement,L2 group anchor + divergence,5,جناحك تخرج بيضاء من غير,واضمم يدك,0.0,0.0,0.0,0.0
+98,26,replacement,L2 group anchor + divergence,3,يا موسي انه,انه انا الله,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0
+99,26,replacement,L2 group anchor + divergence,4,ان يا موسي اني,اني انا الله,0.25,0.3333333333333333,0.28571428571428575,1.0
+100,27,multiple differences,L2 group anchor + divergence,3,اجل مسمي وان,يجري الي اجل,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0
+101,27,multiple differences,L2 group anchor + divergence,3,لاجل مسمي يدبر,يجري لاجل,0.3333333333333333,0.5,0.4,1.0
+102,27,multiple differences,L2 group anchor + divergence,3,لاجل مسمي ذلكم,يجري لاجل,0.3333333333333333,0.5,0.4,1.0
+103,27,multiple differences,L2 group anchor + divergence,3,لاجل مسمي الا,يجري لاجل,0.3333333333333333,0.5,0.4,1.0
+104,27,multiple differences,L2 group anchor + divergence,3,اجل مسمي لقضي,الي اجل,0.3333333333333333,0.5,0.4,1.0
+105,28,replacement,L2 group anchor + divergence,5,لهم ذوقوا عذاب النار الذي,عذاب النار الذي,0.6,1.0,0.7499999999999999,1.0
+106,28,replacement,L2 group anchor + divergence,5,ظلموا ذوقوا عذاب النار التي,عذاب النار التي,0.6,1.0,0.7499999999999999,1.0
+107,29,multiple differences,L2 group anchor + divergence,5,عليه من بيننا بل هو,االقي الذكر عليه,0.2,0.3333333333333333,0.25,1.0
+108,29,multiple differences,L2 group anchor + divergence,5,الذكر من بيننا بل هم,اانزل عليه الذكر,0.2,0.3333333333333333,0.25,1.0
+109,30,replacement,L2 group anchor + divergence,3,سنت الله التي,سنت الله التي,1.0,1.0,1.0,1.0
+110,30,replacement,L2 group anchor + divergence,3,سنه الله التي,سنه الله التي,1.0,1.0,1.0,1.0
+111,30,replacement,L2 group anchor + divergence,3,فرض الله له,سنه الله في الذين,0.0,0.0,0.0,0.0
+112,30,replacement,L2 group anchor + divergence,3,سنه الله في,سنه الله في الذين,1.0,0.75,0.8571428571428571,1.0
+114,32,addition & subtraction,L2 group anchor + divergence,5,بالله ولا باليوم الاخر ولا,لا يءمنون بالله ولا باليوم,0.6,0.6,0.6,1.0
+115,32,addition & subtraction,L2 group anchor + divergence,5,بالله ولا باليوم الاخر ومن,ولا يءمنون بالله ولا باليوم,0.6,0.6,0.6,1.0
+116,33,order change,L2 group anchor + divergence,4,الله فمن اضطر غير,به لغير الله,0.25,0.3333333333333333,0.28571428571428575,1.0
+117,33,order change,L2 group anchor + divergence,4,دينا فمن اضطر في,لغير الله به,0.0,0.0,0.0,0.0
+118,33,order change,L2 group anchor + divergence,4,به فمن اضطر غير,لغير الله به,0.25,0.3333333333333333,0.28571428571428575,1.0
+119,33,order change,L2 group anchor + divergence,4,به فمن اضطر غير,لغير الله به,0.25,0.3333333333333333,0.28571428571428575,1.0
+120,34,replacement,L2 group anchor + divergence,5,الذي جاءك من العلم ما,بعد الذي جاءك,0.4,0.6666666666666666,0.5,1.0
+121,34,replacement,L2 group anchor + divergence,5,ما جاءك من العلم انك,من بعد ما جاءك,0.4,0.5,0.4444444444444445,1.0
+122,34,replacement,L2 group anchor + divergence,5,ما جاءك من العلم فقل,من بعد ما جاءك,0.4,0.5,0.4444444444444445,1.0
+123,34,replacement,L2 group anchor + divergence,5,بعدما جاءك من العلم ما,بعدما جاءك,0.4,1.0,0.5714285714285715,1.0
+124,35,replacement,L2 group anchor + divergence,5,كذب رسل من قبلك جاءوا,فقد كذب,0.2,0.5,0.28571428571428575,1.0
+125,35,replacement,L2 group anchor + divergence,5,كذبت رسل من قبلك فصبروا,ولقد كذبت,0.2,0.5,0.28571428571428575,1.0
+126,35,replacement,L2 group anchor + divergence,5,كذبت رسل من قبلك والي,فقد كذبت,0.2,0.5,0.28571428571428575,1.0
+127,36,multiple differences,L2 group anchor + divergence,5,فجاءوهم بالبينات فما كانوا ليءمنوا,بما كذبوا به من قبل نطبع,0.0,0.0,0.0,0.0
+128,36,multiple differences,L2 group anchor + divergence,5,رسلهم بالبينات فما كانوا ليءمنوا,بما كذبوا من قبل يطبع الله,0.0,0.0,0.0,0.0
+129,37,replacement,L2 group anchor + divergence,3,بما اغويتني لازينن,قال رب بما اغويتني,0.6666666666666666,0.5,0.5714285714285715,1.0
+130,37,replacement,L2 group anchor + divergence,3,فبما اغويتني لاقعدن,قال فبما اغويتني,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+131,38,multiple differences,L2 group anchor + divergence,4,اليك ثم لا تجد,به علينا وكيلا,0.0,0.0,0.0,0.0
+132,38,multiple differences,L2 group anchor + divergence,4,كفرتم ثم لا تجدوا,علينا به تبيعا,0.0,0.0,0.0,0.0
+133,39,replacement,L2 group anchor + divergence,5,امكثوا اني انست نارا لعلي,بقبس,0.0,0.0,0.0,0.0
+134,39,replacement,L2 group anchor + divergence,5,لاهله اني انست نارا ساتيكم,بخبر,0.0,0.0,0.0,0.0
+135,39,replacement,L2 group anchor + divergence,5,امكثوا اني انست نارا لعلي,بخبر,0.0,0.0,0.0,0.0
+136,40,order change,L2 group anchor + divergence,4,بالله بيني وبينكم شهيدا,بيني وبينكم شهيدا,0.75,1.0,0.8571428571428571,1.0
+137,40,order change,L2 group anchor + divergence,4,شهيدا بيني وبينكم ومن,شهيدا بيني وبينكم,0.75,1.0,0.8571428571428571,1.0
+138,40,order change,L2 group anchor + divergence,4,شهيدا بيني وبينكم انه,شهيدا بيني وبينكم,0.75,1.0,0.8571428571428571,1.0
+139,40,order change,L2 group anchor + divergence,4,شهيدا بيني وبينكم وهو,شهيدا بيني وبينكم,0.75,1.0,0.8571428571428571,1.0
+140,41,replacement,L2 group anchor + divergence,4,تجزي كل نفس بما,كل نفس بما كسبت,0.75,0.75,0.75,1.0
+141,41,replacement,L2 group anchor + divergence,4,ولتجزي كل نفس بما,كل نفس بما كسبت,0.75,0.75,0.75,1.0
+142,41,replacement,L2 group anchor + divergence,4,علي كل نفس بما,كل نفس بما كسبت,0.75,0.75,0.75,1.0
+143,41,replacement,L2 group anchor + divergence,3,كل نفس بما,كل نفس بما كسبت,1.0,0.75,0.8571428571428571,1.0
+144,41,replacement,L2 group anchor + divergence,4,توفي كل نفس ما,كل نفس ما كسبت,0.75,0.75,0.75,1.0
+145,41,replacement,L2 group anchor + divergence,4,ووفيت كل نفس ما,كل نفس ما كسبت,0.75,0.75,0.75,1.0
+146,41,replacement,L2 group anchor + divergence,4,توفي كل نفس ما,كل نفس ما كسبت,0.75,0.75,0.75,1.0
+147,41,replacement,L2 group anchor + divergence,4,الله كل نفس ما,كل نفس ما كسبت,0.75,0.75,0.75,1.0
+148,42,replacement,L2 group anchor + divergence,3,الحج وما تفعلوا,وما تفعلوا من خير,0.6666666666666666,0.5,0.5714285714285715,1.0
+149,42,replacement,L2 group anchor + divergence,3,السبيل وما تفعلوا,وما تفعلوا من خير فان الله به عليم,0.6666666666666666,0.25,0.36363636363636365,1.0
+150,42,replacement,L2 group anchor + divergence,2,وما يفعلوا,وما يفعلوا من خير والله عليم,1.0,0.3333333333333333,0.5,1.0
+151,42,replacement,L2 group anchor + divergence,3,فيهن وما يتلي,وما تفعلوا من خير فان الله كان به عليما,0.0,0.0,0.0,0.0
+152,42,replacement,L2 group anchor + divergence,3,يشاء وما تنفقوا,وما تنفقوا من خير,0.6666666666666666,0.25,0.36363636363636365,1.0
+153,42,replacement,L2 group anchor + divergence,3,الحافا وما تنفقوا,وما تنفقوا من خير فان الله به عليم,0.6666666666666666,0.25,0.36363636363636365,1.0
+154,42,replacement,L2 group anchor + divergence,3,تحبون وما تنفقوا,وما تنفقوا من شيء فان الله به عليم,0.6666666666666666,0.25,0.36363636363636365,1.0
+155,42,replacement,L2 group anchor + divergence,3,يعلمهم وما تنفقوا,وما تنفقوا من شيء,0.6666666666666666,0.5,0.5714285714285715,1.0
+156,43,replacement,L2 group anchor + divergence,3,فمن تبع هداي,فمن تبع,0.6666666666666666,1.0,0.8,1.0
+157,43,replacement,L2 group anchor + divergence,3,لمن تبع دينكم,لمن تبع,0.6666666666666666,1.0,0.8,1.0
+158,44,replacement,L2 group anchor + divergence,3,تكن من الممترين,فلا تكن,0.3333333333333333,0.5,0.4,1.0
+159,44,replacement,L2 group anchor + divergence,3,تكونن من الممترين,فلا تكونن,0.3333333333333333,0.5,0.4,1.0
+160,44,replacement,L2 group anchor + divergence,3,تكونن من الممترين,فلا تكونن,0.3333333333333333,0.5,0.4,1.0
+161,45,replacement,L2 group anchor + divergence,4,واحذروا فان توليتم فاعلموا,فان توليتم,0.5,1.0,0.6666666666666666,1.0
+162,45,replacement,L2 group anchor + divergence,3,فان توليتم فما,فان توليتم,0.6666666666666666,1.0,0.8,1.0
+163,45,replacement,L2 group anchor + divergence,4,الرسول فان توليتم فانما,فان توليتم,0.5,1.0,0.6666666666666666,1.0
+164,46,replacement,L2 group anchor + divergence,3,تبدون وما تكتمون,ما تبدون وما تكتمون,1.0,0.75,0.8571428571428571,1.0
+165,46,replacement,L2 group anchor + divergence,3,تبدون وما تكتمون,ما تبدون وما تكتمون,1.0,0.75,0.8571428571428571,1.0
+166,46,replacement,L2 group anchor + divergence,3,تخفون وما تعلنون,ما تخفون وما تعلنون,1.0,0.75,0.8571428571428571,1.0
+167,46,replacement,L2 group anchor + divergence,3,تسرون وما تعلنون,ما تسرون وما تعلنون,1.0,0.75,0.8571428571428571,1.0
+168,46,replacement,L2 group anchor + divergence,3,تسرون وما تعلنون,ما تسرون وما تعلنون,1.0,0.75,0.8571428571428571,1.0
+169,47,addition & subtraction,L2 group anchor + divergence,4,فاصبحوا في ديارهم جاثمين,واخذت,0.0,0.0,0.0,0.0
+170,47,addition & subtraction,L2 group anchor + divergence,4,فاصبحوا في ديارهم جاثمين,واخذ,0.0,0.0,0.0,0.0
+171,48,replacement,L2 group anchor + divergence,3,قليلا ما تشكرون,قليلا ما تشكرون,1.0,1.0,1.0,1.0
+172,48,replacement,L2 group anchor + divergence,3,قليلا ما تشكرون,قليلا ما تشكرون,1.0,1.0,1.0,1.0
+173,48,replacement,L2 group anchor + divergence,3,قليلا ما تشكرون,قليلا ما تشكرون,1.0,1.0,1.0,1.0
+174,48,replacement,L2 group anchor + divergence,3,قليلا ما تشكرون,قليلا ما تشكرون,1.0,1.0,1.0,1.0
+175,48,replacement,L2 group anchor + divergence,3,اتبعوا ما انزل,قليلا ما تذكرون,0.0,0.0,0.0,0.0
+176,48,replacement,L2 group anchor + divergence,3,قليلا ما تذكرون,قليلا ما تذكرون,1.0,1.0,1.0,1.0
+177,48,replacement,L2 group anchor + divergence,3,قليلا ما تذكرون,قليلا ما تذكرون,1.0,1.0,1.0,1.0
+178,48,replacement,L2 group anchor + divergence,3,قليلا ما تتذكرون,قليلا ما تتذكرون,1.0,1.0,1.0,1.0
+179,48,replacement,L2 group anchor + divergence,3,فقليلا ما يءمنون,فقليلا ما يءمنون,1.0,1.0,1.0,1.0
+180,48,replacement,L2 group anchor + divergence,3,قليلا ما تءمنون,قليلا ما تءمنون,1.0,1.0,1.0,1.0
+181,49,replacement,L2 group anchor + divergence,4,اين ما كنتم تدعون,ما كنتم تدعون,0.75,1.0,0.8571428571428571,1.0
+182,49,replacement,L2 group anchor + divergence,4,افرايتم ما كنتم تعبدون,ما كنتم تعبدون,0.75,1.0,0.8571428571428571,1.0
+183,49,replacement,L2 group anchor + divergence,4,اين ما كنتم تشركون,ما كنتم تشركون,0.75,1.0,0.8571428571428571,1.0
+184,50,addition & subtraction,L2 group anchor + divergence,3,كنا ترابا اانا,كنا ترابا,0.6666666666666666,1.0,0.8,1.0
+185,50,addition & subtraction,L2 group anchor + divergence,3,كنا ترابا واباءنا,كنا ترابا,0.6666666666666666,1.0,0.8,1.0
+186,50,addition & subtraction,L2 group anchor + divergence,3,وكنا ترابا ذلك,وكنا ترابا,0.6666666666666666,1.0,0.8,1.0
+187,50,addition & subtraction,L2 group anchor + divergence,3,وكنا ترابا وعظاما,وكنا ترابا وعظاما,1.0,1.0,1.0,1.0
+188,50,addition & subtraction,L2 group anchor + divergence,3,وكنا ترابا وعظاما,وكنا ترابا وعظاما,1.0,1.0,1.0,1.0
+189,50,addition & subtraction,L2 group anchor + divergence,3,وكنا ترابا وعظاما,وكنا ترابا وعظاما,1.0,1.0,1.0,1.0
+190,50,addition & subtraction,L2 group anchor + divergence,3,وكنا ترابا وعظاما,وكنا ترابا وعظاما,1.0,1.0,1.0,1.0
+191,51,replacement,L2 group anchor + divergence,4,سيروا في الارض ثم,ثم انظروا,0.25,0.5,0.3333333333333333,1.0
+192,51,replacement,L2 group anchor + divergence,4,فسيروا في الارض فانظروا,فانظروا,0.25,1.0,0.4,1.0
+193,51,replacement,L2 group anchor + divergence,4,فسيروا في الارض فانظروا,فانظروا,0.25,1.0,0.4,1.0
+194,51,replacement,L2 group anchor + divergence,4,سيروا في الارض فانظروا,فانظروا,0.25,1.0,0.4,1.0
+195,51,replacement,L2 group anchor + divergence,4,سيروا في الارض فانظروا,فانظروا,0.25,1.0,0.4,1.0
+196,51,replacement,L2 group anchor + divergence,4,سيروا في الارض فانظروا,فانظروا,0.25,1.0,0.4,1.0
+197,52,replacement,L2 group anchor + divergence,6,لاقطعن ايديكم وارجلكم من خلاف ثم,ثم لاصلبنكم,0.16666666666666666,0.5,0.25,1.0
+198,52,replacement,L2 group anchor + divergence,6,فلاقطعن ايديكم وارجلكم من خلاف ولاصلبنكم,ولاصلبنكم,0.16666666666666666,1.0,0.2857142857142857,1.0
+199,52,replacement,L2 group anchor + divergence,6,لاقطعن ايديكم وارجلكم من خلاف ولاصلبنكم,ولاصلبنكم,0.16666666666666666,1.0,0.2857142857142857,1.0
+200,53,replacement,L2 group anchor + divergence,4,عالم الغيب والشهاده فينبءكم,وسيري ورسوله ثم تردون,0.0,0.0,0.0,0.0
+201,53,replacement,L2 group anchor + divergence,4,عالم الغيب والشهاده فينبءكم,فسيري ورسوله والمءمنون وستردون,0.0,0.0,0.0,0.0
+202,54,replacement,L2 group anchor + divergence,4,قل ارايتم ان كان,ثم كفرتم,0.0,0.0,0.0,0.0
+203,54,replacement,L2 group anchor + divergence,4,قل ارايتم ان كان,وكفرتم,0.0,0.0,0.0,0.0
+204,55,addition & subtraction,L2 group anchor + divergence,3,وان تك حسنه,تك,0.3333333333333333,1.0,0.5,1.0
+205,55,addition & subtraction,L2 group anchor + divergence,3,فلا تك في,تك,0.3333333333333333,1.0,0.5,1.0
+206,55,addition & subtraction,L2 group anchor + divergence,3,فلا تك في,تك,0.3333333333333333,1.0,0.5,1.0
+207,55,addition & subtraction,L2 group anchor + divergence,3,ولا تك في,تك,0.3333333333333333,1.0,0.5,1.0
+208,55,addition & subtraction,L2 group anchor + divergence,3,ولم تك شيءا,تك,0.3333333333333333,1.0,0.5,1.0
+209,55,addition & subtraction,L2 group anchor + divergence,3,ان تك مثقال,تك,0.3333333333333333,1.0,0.5,1.0
+210,55,addition & subtraction,L2 group anchor + divergence,3,اولم تك تاتيكم,تك,0.3333333333333333,1.0,0.5,1.0
+211,56,addition & subtraction,L2 group anchor + divergence,3,الم تروا كيف,الم تروا,0.6666666666666666,1.0,0.8,1.0
+212,56,addition & subtraction,L2 group anchor + divergence,3,الم تروا ان,الم تروا,0.6666666666666666,1.0,0.8,1.0
+213,57,replacement,L2 group anchor + divergence,3,وجاءهم البينات والله,وجاءهم البينات,0.6666666666666666,1.0,0.8,1.0
+214,57,replacement,L2 group anchor + divergence,3,جاءهم البينات واولءك,جاءهم البينات,0.6666666666666666,1.0,0.8,1.0
+215,57,replacement,L2 group anchor + divergence,3,جاءتهم البينات بغيا,جاءتهم البينات,0.6666666666666666,1.0,0.8,1.0
+216,57,replacement,L2 group anchor + divergence,3,مريم البينات وايدناه,جاءتهم البينات,0.0,0.0,0.0,0.0
+217,57,replacement,L2 group anchor + divergence,3,جاءتهم البينات فعفونا,جاءتهم البينات,0.6666666666666666,1.0,0.8,1.0
+218,58,replacement,L2 group anchor + divergence,3,جاءها نودي ان,جاءها نودي,0.6666666666666666,1.0,0.8,1.0
+219,58,replacement,L2 group anchor + divergence,3,اتاها نودي يا,اتاها نودي,0.6666666666666666,1.0,0.8,1.0
+220,58,replacement,L2 group anchor + divergence,3,اتاها نودي من,اتاها نودي,0.6666666666666666,1.0,0.8,1.0
+221,59,addition & subtraction,L2 group anchor + divergence,4,زمرا حتي اذا جاءوها,حتي اذا جاءوها فتحت,0.75,0.75,0.75,1.0
+222,59,addition & subtraction,L2 group anchor + divergence,4,زمرا حتي اذا جاءوها,حتي اذا جاءوها وفتحت,0.75,0.75,0.75,1.0
+223,59,addition & subtraction,L2 group anchor + divergence,3,حتي اذا ما,اذا ما جاءوها,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+224,60,replacement,L2 group anchor + divergence,4,عليهم وكفي بالله حسيبا,وكفي بالله حسيبا,0.75,1.0,0.8571428571428571,1.0
+225,60,replacement,L2 group anchor + divergence,4,الله وكفي بالله حسيبا,وكفي بالله حسيبا,0.75,1.0,0.8571428571428571,1.0
+226,61,order change,L2 group anchor + divergence,3,انه حكيم عليم,حكيم عليم,0.6666666666666666,1.0,0.8,1.0
+227,61,order change,L2 group anchor + divergence,3,لدن حكيم عليم,حكيم عليم,0.6666666666666666,1.0,0.8,1.0
+228,61,order change,L2 group anchor + divergence,0,,الحكيم العليم,0.0,0.0,0.0,0.0
+229,61,order change,L2 group anchor + divergence,0,,الحكيم العليم,0.0,0.0,0.0,0.0
+230,61,order change,L2 group anchor + divergence,3,ربك حكيم عليم,حكيم عليم,0.6666666666666666,1.0,0.8,1.0
+231,61,order change,L2 group anchor + divergence,3,ربك حكيم عليم,حكيم عليم,0.6666666666666666,1.0,0.8,1.0
+232,61,order change,L2 group anchor + divergence,3,انه حكيم عليم,حكيم عليم,0.6666666666666666,1.0,0.8,1.0
+233,62,replacement,L2 group anchor + divergence,4,ووصينا الانسان بوالديه حسنا,الانسان بوالديه حسنا,0.75,1.0,0.8571428571428571,1.0
+234,62,replacement,L2 group anchor + divergence,4,ووصينا الانسان بوالديه احسانا,الانسان بوالديه احسانا,0.75,1.0,0.8571428571428571,1.0
+235,62,replacement,L2 group anchor + divergence,4,ووصينا الانسان بوالديه حملته,الانسان بوالديه,0.5,1.0,0.6666666666666666,1.0
+236,63,replacement,L2 group anchor + divergence,3,فبشرناه بغلام حليم,بغلام حليم,0.6666666666666666,1.0,0.8,1.0
+237,63,replacement,L2 group anchor + divergence,3,نبشرك بغلام عليم,بغلام عليم,0.6666666666666666,1.0,0.8,1.0
+238,63,replacement,L2 group anchor + divergence,3,وبشروه بغلام عليم,بغلام عليم,0.6666666666666666,1.0,0.8,1.0
+239,64,multiple differences,L2 group anchor + divergence,6,فذرهم حتي يلاقوا يومهم الذي فيه,فذرهم حتي يلاقوا يصعقون,0.5,0.75,0.6,1.0
+240,64,multiple differences,L2 group anchor + divergence,6,ويلعبوا حتي يلاقوا يومهم الذي يوعدون,فذرهم يخوضوا ويلعبوا حتي يلاقوا يوعدون,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+241,64,multiple differences,L2 group anchor + divergence,6,ويلعبوا حتي يلاقوا يومهم الذي يوعدون,فذرهم يخوضوا ويلعبوا حتي يلاقوا يوعدون,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+242,65,order change,L2 group anchor + divergence,6,ربكم لا اله الا هو خالق,لا اله الا هو خالق كل شيء,0.8333333333333334,0.7142857142857143,0.7692307692307692,1.0
+243,65,order change,L2 group anchor + divergence,6,شيء لا اله الا هو فاني,خالق كل شيء لا اله الا هو,0.8333333333333334,0.7142857142857143,0.7692307692307692,1.0
+244,66,replacement,L2 group anchor + divergence,4,ولا تقتلوا اولادكم خشيه,خشيه املاق,0.25,0.5,0.3333333333333333,1.0
+245,66,replacement,L2 group anchor + divergence,5,احسانا ولا تقتلوا اولادكم من,من املاق,0.2,0.5,0.28571428571428575,1.0
+246,67,replacement,L2 group anchor + divergence,5,وارادوا به كيدا فجعلناهم الاخسرين,فجعلناهم الاخسرين,0.4,1.0,0.5714285714285715,1.0
+247,67,replacement,L2 group anchor + divergence,5,فارادوا به كيدا فجعلناهم الاسفلين,فجعلناهم الاسفلين,0.4,1.0,0.5714285714285715,1.0
+248,68,replacement,L2 group anchor + divergence,5,من جاء بالحسنه فله عشر,من جاء بالحسنه فله عشر,1.0,1.0,1.0,1.0
+249,68,replacement,L2 group anchor + divergence,5,من جاء بالحسنه فله خير,من جاء بالحسنه فله خير,1.0,1.0,1.0,1.0
+250,68,replacement,L2 group anchor + divergence,5,من جاء بالحسنه فله خير,من جاء بالحسنه فله خير,1.0,1.0,1.0,1.0
+251,69,replacement,L2 group anchor + divergence,3,نفسك تضرعا وخيفه,تضرعا وخيفه,0.6666666666666666,1.0,0.8,1.0
+252,69,replacement,L2 group anchor + divergence,3,تدعونه تضرعا وخفيه,تضرعا وخفيه,0.6666666666666666,1.0,0.8,1.0
+253,69,replacement,L2 group anchor + divergence,3,ربكم تضرعا وخفيه,تضرعا وخفيه,0.6666666666666666,1.0,0.8,1.0
+254,70,replacement,L2 group anchor + divergence,3,خروج من سبيل,خروج من سبيل,1.0,1.0,1.0,1.0
+255,70,replacement,L2 group anchor + divergence,3,مرد من سبيل,مرد من سبيل,1.0,1.0,1.0,1.0
+256,71,replacement,L2 group anchor + divergence,4,الصيحه فاصبحوا في ديارهم,ديارهم جاثمين,0.25,0.5,0.3333333333333333,1.0
+257,71,replacement,L2 group anchor + divergence,4,الصيحه فاصبحوا في ديارهم,ديارهم جاثمين,0.25,0.5,0.3333333333333333,1.0
+258,71,replacement,L2 group anchor + divergence,4,الرجفه فاصبحوا في دارهم,دارهم جاثمين,0.25,0.5,0.3333333333333333,1.0
+259,71,replacement,L2 group anchor + divergence,4,الرجفه فاصبحوا في دارهم,دارهم جاثمين,0.25,0.5,0.3333333333333333,1.0
+260,71,replacement,L2 group anchor + divergence,4,الرجفه فاصبحوا في دارهم,دارهم جاثمين,0.25,0.5,0.3333333333333333,1.0
+261,72,addition & subtraction,L2 group anchor + divergence,5,نحن ولا اباءنا ولا حرمنا,ولا حرمنا من دونه من شيء,0.4,0.3333333333333333,0.3636363636363636,1.0
+262,72,addition & subtraction,L2 group anchor + divergence,5,اشركنا ولا اباءنا ولا حرمنا,ولا حرمنا من شيء,0.4,0.5,0.4444444444444445,1.0
+263,73,replacement,L2 group anchor + divergence,5,فاذا مس الانسان ضر دعانا,ضر دعانا,0.4,1.0,0.5714285714285715,1.0
+264,73,replacement,L2 group anchor + divergence,5,واذا مس الانسان ضر دعا,ضر دعا,0.4,1.0,0.5714285714285715,1.0
+265,74,replacement,L2 group anchor + divergence,5,اجرا ان هو الا ذكري,ان هو الا ذكري للعالمين,0.8,0.8,0.8000000000000002,1.0
+266,74,replacement,L2 group anchor + divergence,5,اجر ان هو الا ذكر,ان هو الا ذكر للعالمين,0.8,0.8,0.8000000000000002,1.0
+267,74,replacement,L2 group anchor + divergence,4,ان هو الا ذكر,ان هو الا ذكر للعالمين,1.0,0.8,0.888888888888889,1.0
+268,74,replacement,L2 group anchor + divergence,4,ان هو الا ذكر,ان هو الا ذكر للعالمين,1.0,0.8,0.888888888888889,1.0
+269,75,addition & subtraction,L2 group anchor + divergence,5,اذ قال لابيه وقومه ماذا,اذ قال لابيه وقومه ماذا تعبدون,1.0,0.8333333333333334,0.9090909090909091,1.0
+270,75,addition & subtraction,L2 group anchor + divergence,5,اذ قال لابيه وقومه ما,اذ قال لابيه وقومه ما تعبدون,1.0,0.8333333333333334,0.9090909090909091,1.0
+272,77,replacement,L2 group anchor + divergence,2,ورزق كريم,رزق كريم,0.5,1.0,0.6666666666666666,1.0
+273,77,replacement,L2 group anchor + divergence,2,ورزق كريم,رزق كريم,0.5,1.0,0.6666666666666666,1.0
+274,77,replacement,L2 group anchor + divergence,2,ورزق كريم,رزق كريم,0.5,1.0,0.6666666666666666,1.0
+275,77,replacement,L2 group anchor + divergence,2,ورزق كريم,رزق كريم,0.5,1.0,0.6666666666666666,1.0
+276,77,replacement,L2 group anchor + divergence,2,ورزق كريم,رزق كريم,0.5,1.0,0.6666666666666666,1.0
+277,77,replacement,L2 group anchor + divergence,2,واجر كريم,اجر كريم,0.5,1.0,0.6666666666666666,1.0
+278,77,replacement,L2 group anchor + divergence,2,اجر كريم,اجر كريم,1.0,1.0,1.0,1.0
+279,77,replacement,L2 group anchor + divergence,2,اجر كريم,اجر كريم,1.0,1.0,1.0,1.0
+280,78,replacement,L2 group anchor + divergence,3,فرددناه الي امه,رددناه,0.0,0.0,0.0,0.0
+281,78,replacement,L2 group anchor + divergence,3,رددت الي ربي,رددت,0.3333333333333333,1.0,0.5,1.0
+282,78,replacement,L2 group anchor + divergence,3,رجعت الي ربي,رجعت,0.3333333333333333,1.0,0.5,1.0
+283,78,replacement,L2 group anchor + divergence,3,فرجعناك الي امك,فرجعناك,0.3333333333333333,1.0,0.5,1.0
+284,79,order change,L2 group anchor + divergence,5,رجل من اقصي المدينه يسعي,رجل من اقصي المدينه,0.8,1.0,0.888888888888889,1.0
+285,79,order change,L2 group anchor + divergence,5,وجاء من اقصي المدينه رجل,من اقصي المدينه رجل,0.8,1.0,0.888888888888889,1.0
+286,80,addition & subtraction,L2 group anchor + divergence,4,ام عندهم خزاءن رحمه,خزاءن رحمه ربك,0.5,0.6666666666666666,0.5714285714285715,1.0
+287,80,addition & subtraction,L2 group anchor + divergence,4,ام عندهم خزاءن ربك,خزاءن ربك,0.5,1.0,0.6666666666666666,1.0
+288,81,replacement,L2 group anchor + divergence,0,,الرجز,0.0,0.0,0.0,0.0
+289,81,replacement,L2 group anchor + divergence,4,فلما كشفنا عنهم الرجز,الرجز,0.25,1.0,0.4,1.0
+290,81,replacement,L2 group anchor + divergence,0,,الرجز,0.0,0.0,0.0,0.0
+291,81,replacement,L2 group anchor + divergence,4,فلما كشفنا عنهم العذاب,العذاب,0.25,1.0,0.4,1.0
+292,82,addition & subtraction,L2 group anchor + divergence,4,فتقطعوا امرهم بينهم زبرا,تقطعوا امرهم بينهم زبرا,0.75,1.0,0.8571428571428571,1.0
+293,82,addition & subtraction,L2 group anchor + divergence,4,وتقطعوا امرهم بينهم كل,تقطعوا امرهم بينهم,0.5,1.0,0.6666666666666666,1.0
+294,83,replacement,L2 group anchor + divergence,3,من جنات وعيون,وعيون,0.3333333333333333,1.0,0.5,1.0
+295,83,replacement,L2 group anchor + divergence,0,,وكنوز,0.0,0.0,0.0,0.0
+296,83,replacement,L2 group anchor + divergence,3,في جنات وعيون,وعيون,0.3333333333333333,1.0,0.5,1.0
+297,83,replacement,L2 group anchor + divergence,0,,وزروع,0.0,0.0,0.0,0.0
+298,83,replacement,L2 group anchor + divergence,3,من جنات وعيون,وعيون,0.3333333333333333,1.0,0.5,1.0
+299,83,replacement,L2 group anchor + divergence,0,,وزروع,0.0,0.0,0.0,0.0
+300,84,replacement,L2 group anchor + divergence,3,منهم اولءك سوف,اولءك سوف يءتيهم,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+301,84,replacement,L2 group anchor + divergence,3,الاخر اولءك سنءتيهم,اولءك سنءتيهم,0.6666666666666666,1.0,0.8,1.0
+302,85,replacement,L2 group anchor + divergence,5,علي مكانتكم اني عامل سوف,اني عامل سوف,0.6,1.0,0.7499999999999999,1.0
+303,85,replacement,L2 group anchor + divergence,5,علي مكانتكم اني عامل فسوف,اني عامل فسوف,0.6,1.0,0.7499999999999999,1.0
+304,85,replacement,L2 group anchor + divergence,5,علي مكانتكم اني عامل فسوف,اني عامل فسوف,0.6,1.0,0.7499999999999999,1.0
+305,86,replacement,L2 group anchor + divergence,5,لاهله اني انست نارا ساتيكم,ساتيكم,0.2,1.0,0.33333333333333337,1.0
+306,86,replacement,L2 group anchor + divergence,5,امكثوا اني انست نارا لعلي,لعلي اتيكم,0.2,0.5,0.28571428571428575,1.0
+307,86,replacement,L2 group anchor + divergence,5,امكثوا اني انست نارا لعلي,لعلي اتيكم,0.2,0.5,0.28571428571428575,1.0
+308,87,replacement,L2 group anchor + divergence,2,شقاق بعيد,لفي شقاق بعيد,1.0,0.6666666666666666,0.8,1.0
+309,87,replacement,L2 group anchor + divergence,2,شقاق بعيد,لفي شقاق بعيد,1.0,0.6666666666666666,0.8,1.0
+310,87,replacement,L2 group anchor + divergence,2,شقاق بعيد,في شقاق بعيد,1.0,0.6666666666666666,0.8,1.0
+311,87,replacement,L2 group anchor + divergence,2,ضلال بعيد,في ضلال بعيد,1.0,0.6666666666666666,0.8,1.0
+312,87,replacement,L2 group anchor + divergence,2,ضلال بعيد,لفي ضلال بعيد,1.0,0.6666666666666666,0.8,1.0
+313,87,replacement,L2 group anchor + divergence,2,ضلال بعيد,في ضلال بعيد,1.0,0.6666666666666666,0.8,1.0
+314,88,order change,L2 group anchor + divergence,5,لتكونوا شهداء علي الناس ويكون,الرسول عليكم شهيدا,0.0,0.0,0.0,0.0
+315,88,order change,L2 group anchor + divergence,5,وتكونوا شهداء علي الناس فاقيموا,الرسول شهيدا عليكم,0.0,0.0,0.0,0.0
+316,89,order change,L2 group anchor + divergence,4,بشهيد وجءنا بك علي,علي هءلاء شهيدا,0.25,0.3333333333333333,0.28571428571428575,1.0
+317,89,order change,L2 group anchor + divergence,4,انفسهم وجءنا بك شهيدا,شهيدا علي هءلاء,0.25,0.3333333333333333,0.28571428571428575,1.0
+318,90,multiple differences,L2 group anchor + divergence,4,علي كل شيء قدير,تخفوا ما في صدوركم او تبدوه,0.0,0.0,0.0,0.0
+319,90,multiple differences,L2 group anchor + divergence,4,علي كل شيء قدير,تبدوا ما في انفسكم او تخفوه,0.0,0.0,0.0,0.0
+321,92,replacement,L2 group anchor + divergence,5,عليك ستجدني ان شاء الله,ان شاء الله من الصالحين,0.6,0.6,0.6,1.0
+322,92,replacement,L2 group anchor + divergence,5,تءمر ستجدني ان شاء الله,ان شاء الله من الصابرين,0.6,0.6,0.6,1.0
+323,93,replacement,L2 group anchor + divergence,3,لفي ضلال بعيد,ضلال بعيد,0.6666666666666666,1.0,0.8,1.0
+324,93,replacement,L2 group anchor + divergence,3,في ضلال بعيد,ضلال بعيد,0.6666666666666666,1.0,0.8,1.0
+325,93,replacement,L2 group anchor + divergence,3,في ضلال بعيد,ضلال بعيد,0.6666666666666666,1.0,0.8,1.0
+326,94,replacement,L2 group anchor + divergence,3,والله يحب المطهرين,يحب المطهرين,0.6666666666666666,1.0,0.8,1.0
+327,94,replacement,L2 group anchor + divergence,3,الله يحب التوابين,يحب المتطهرين,0.3333333333333333,0.5,0.4,1.0
+328,95,replacement,L2 group anchor + divergence,3,تسطع عليه صبرا,تسطع,0.3333333333333333,1.0,0.5,1.0
+329,95,replacement,L2 group anchor + divergence,3,تستطع عليه صبرا,تستطع,0.3333333333333333,1.0,0.5,1.0
+331,97,replacement,L2 group anchor + divergence,4,العذاب ولا هم ينظرون,ولا هم ينظرون,0.75,1.0,0.8571428571428571,1.0
+332,97,replacement,L2 group anchor + divergence,4,العذاب ولا هم ينظرون,ولا هم ينظرون,0.75,1.0,0.8571428571428571,1.0
+333,97,replacement,L2 group anchor + divergence,4,عنهم ولا هم ينظرون,ولا هم ينظرون,0.75,1.0,0.8571428571428571,1.0
+334,97,replacement,L2 group anchor + divergence,4,ردها ولا هم ينظرون,ولا هم ينظرون,0.75,1.0,0.8571428571428571,1.0
+335,97,replacement,L2 group anchor + divergence,4,ايمانهم ولا هم ينظرون,ولا هم ينظرون,0.75,1.0,0.8571428571428571,1.0
+336,98,replacement,L2 group anchor + divergence,4,انه لا يفلح الظالمون,لا يفلح الظالمون,0.75,1.0,0.8571428571428571,1.0
+337,98,replacement,L2 group anchor + divergence,4,انه لا يفلح الظالمون,لا يفلح الظالمون,0.75,1.0,0.8571428571428571,1.0
+338,98,replacement,L2 group anchor + divergence,4,انه لا يفلح الظالمون,لا يفلح الظالمون,0.75,1.0,0.8571428571428571,1.0
+339,98,replacement,L2 group anchor + divergence,4,انه لا يفلح الظالمون,لا يفلح الظالمون,0.75,1.0,0.8571428571428571,1.0
+340,98,replacement,L2 group anchor + divergence,4,انه لا يفلح الكافرون,لا يفلح الكافرون,0.75,1.0,0.8571428571428571,1.0
+341,98,replacement,L2 group anchor + divergence,4,ويكانه لا يفلح الكافرون,لا يفلح الكافرون,0.75,1.0,0.8571428571428571,1.0
+342,99,replacement,L2 group anchor + divergence,4,طهرا بيتي للطاءفين والعاكفين,للطاءفين والعاكفين,0.5,1.0,0.6666666666666666,1.0
+343,99,replacement,L2 group anchor + divergence,4,وطهر بيتي للطاءفين والقاءمين,للطاءفين والقاءمين,0.5,1.0,0.6666666666666666,1.0
+344,100,order change,L2 group anchor + divergence,3,واسحاق ان ربك,عليم حكيم,0.0,0.0,0.0,0.0
+345,100,order change,L2 group anchor + divergence,3,الله ان ياتيني,العليم الحكيم,0.0,0.0,0.0,0.0
+346,100,order change,L2 group anchor + divergence,3,بعد ان نزغ,العليم الحكيم,0.0,0.0,0.0,0.0
+347,101,replacement,L2 group anchor + divergence,5,وتوفي كل نفس ما عملت,كل نفس ما عملت,0.8,1.0,0.888888888888889,1.0
+348,101,replacement,L2 group anchor + divergence,5,ووفيت كل نفس ما عملت,كل نفس ما عملت,0.8,1.0,0.888888888888889,1.0
+349,101,replacement,L2 group anchor + divergence,5,توفي كل نفس ما كسبت,كل نفس ما كسبت,0.8,1.0,0.888888888888889,1.0
+350,101,replacement,L2 group anchor + divergence,5,ووفيت كل نفس ما كسبت,كل نفس ما كسبت,0.8,1.0,0.888888888888889,1.0
+351,101,replacement,L2 group anchor + divergence,5,توفي كل نفس ما كسبت,كل نفس ما كسبت,0.8,1.0,0.888888888888889,1.0
+352,101,replacement,L2 group anchor + divergence,5,الله كل نفس ما كسبت,كل نفس ما كسبت,0.8,1.0,0.888888888888889,1.0
+353,102,replacement,L2 group anchor + divergence,4,فاصابهم سيءات ما عملوا,سيءات ما عملوا,0.75,1.0,0.8571428571428571,1.0
+354,102,replacement,L2 group anchor + divergence,4,لهم سيءات ما عملوا,سيءات ما عملوا,0.75,1.0,0.8571428571428571,1.0
+355,102,replacement,L2 group anchor + divergence,4,لهم سيءات ما كسبوا,سيءات ما كسبوا,0.75,1.0,0.8571428571428571,1.0
+356,102,replacement,L2 group anchor + divergence,4,فاصابهم سيءات ما كسبوا,سيءات ما كسبوا,0.75,0.5,0.6,1.0
+357,103,replacement,L2 group anchor + divergence,6,واتيناه اهله ومثلهم معهم رحمه من,اهله ومثلهم معهم رحمه من عندنا,0.8333333333333334,0.8333333333333334,0.8333333333333334,1.0
+358,103,replacement,L2 group anchor + divergence,6,له اهله ومثلهم معهم رحمه منا,اهله ومثلهم معهم رحمه منا,0.8333333333333334,1.0,0.9090909090909091,1.0
+359,104,replacement,L2 group anchor + divergence,2,انا فاعبدون,فاعبدون,0.5,1.0,0.6666666666666666,1.0
+360,104,replacement,L2 group anchor + divergence,2,ربكم فاعبدون,فاعبدون,0.5,1.0,0.6666666666666666,1.0
+361,104,replacement,L2 group anchor + divergence,2,فاياي فاعبدون,فاعبدون,0.5,1.0,0.6666666666666666,1.0
+362,105,replacement,L2 group anchor + divergence,4,مرجعكم فانبءكم بما كنتم,علي ان تشرك,0.0,0.0,0.0,0.0
+363,105,replacement,L2 group anchor + divergence,4,مرجعكم فانبءكم بما كنتم,لتشرك,0.0,0.0,0.0,0.0
+364,106,replacement,L2 group anchor + divergence,5,ان المتقين في جنات وعيون,ان المتقين في جنات وعيون,1.0,1.0,1.0,1.0
+365,106,replacement,L2 group anchor + divergence,5,ان المتقين في جنات ونعيم,ان المتقين في جنات ونعيم,1.0,1.0,1.0,1.0
+366,107,replacement,L2 group anchor + divergence,3,والله غفور حليم,غفور حليم,0.6666666666666666,1.0,0.8,1.0
+367,107,replacement,L2 group anchor + divergence,3,الله غفور حليم,غفور حليم,0.6666666666666666,1.0,0.8,1.0
+368,107,replacement,L2 group anchor + divergence,3,الله غفور حليم,غفور حليم,0.6666666666666666,1.0,0.8,1.0
+369,107,replacement,L2 group anchor + divergence,3,والله غفور حليم,غفور حليم,0.6666666666666666,1.0,0.8,1.0
+370,108,replacement,L2 group anchor + divergence,4,الغني ذو الرحمه ان,وربك الغني ذو الرحمه,0.75,0.75,0.75,1.0
+371,108,replacement,L2 group anchor + divergence,4,الغفور ذو الرحمه لو,وربك الغفور ذو الرحمه,0.75,0.75,0.75,1.0
+372,109,replacement,L2 group anchor + divergence,5,مهلك القري بظلم واهلها غافلون,واهلها غافلون,0.4,1.0,0.5714285714285715,1.0
+373,109,replacement,L2 group anchor + divergence,5,ليهلك القري بظلم واهلها مصلحون,واهلها مصلحون,0.4,1.0,0.5714285714285715,1.0
+374,110,replacement,L2 group anchor + divergence,3,ويطوف عليهم غلمان,ويطوف عليهم غلمان,1.0,1.0,1.0,1.0
+375,110,replacement,L2 group anchor + divergence,3,يطوف عليهم ولدان,يطوف عليهم ولدان,1.0,1.0,1.0,1.0
+376,110,replacement,L2 group anchor + divergence,3,ويطوف عليهم ولدان,ويطوف عليهم ولدان,1.0,1.0,1.0,1.0
+377,111,replacement,L2 group anchor + divergence,5,بهذا فمن اظلم ممن افتري,فمن اظلم,0.4,1.0,0.5714285714285715,1.0
+378,111,replacement,L2 group anchor + divergence,5,ورحمه فمن اظلم ممن كذب,فمن اظلم,0.4,1.0,0.5714285714285715,1.0
+379,111,replacement,L2 group anchor + divergence,4,فمن اظلم ممن افتري,فمن اظلم,0.5,1.0,0.6666666666666666,1.0
+380,111,replacement,L2 group anchor + divergence,4,فمن اظلم ممن افتري,فمن اظلم,0.5,1.0,0.6666666666666666,1.0
+381,111,replacement,L2 group anchor + divergence,5,بين فمن اظلم ممن افتري,فمن اظلم,0.4,1.0,0.5714285714285715,1.0
+382,111,replacement,L2 group anchor + divergence,4,فمن اظلم ممن كذب,فمن اظلم,0.5,1.0,0.6666666666666666,1.0
+383,112,multiple differences,L2 group anchor + divergence,6,به قبل ان اذن لكم ان,قال فرعون امنتم به,0.16666666666666666,0.25,0.2,1.0
+384,112,multiple differences,L2 group anchor + divergence,6,له قبل ان اذن لكم انه,قال امنتم له,0.16666666666666666,0.3333333333333333,0.2222222222222222,1.0
+385,112,multiple differences,L2 group anchor + divergence,6,له قبل ان اذن لكم انه,قال امنتم له,0.16666666666666666,0.3333333333333333,0.2222222222222222,1.0
+386,113,replacement,L2 group anchor + divergence,2,فسوف تعلمون,فسوف تعلمون,1.0,1.0,1.0,1.0
+387,113,replacement,L2 group anchor + divergence,3,فلسوف تعلمون لاقطعن,فلسوف تعلمون,0.6666666666666666,1.0,0.8,1.0
+388,113,replacement,L2 group anchor + divergence,3,فسوف تعلمون من,اني عامل فسوف تعلمون,0.6666666666666666,0.5,0.5714285714285715,1.0
+389,113,replacement,L2 group anchor + divergence,2,فسوف تعلمون,اني عامل فسوف تعلمون,1.0,0.5,0.6666666666666666,1.0
+390,113,replacement,L2 group anchor + divergence,3,سوف تعلمون من,اني عامل سوف تعلمون,0.6666666666666666,0.5,0.5714285714285715,1.0
+391,114,multiple differences,L2 group anchor + divergence,4,وتزهق انفسهم وهم كافرون,فلا تعجبك ولا اولادهم ليعذبهم في الحياه الدنيا,0.0,0.0,0.0,0.0
+392,114,multiple differences,L2 group anchor + divergence,4,وتزهق انفسهم وهم كافرون,ولا تعجبك واولادهم ان يعذبهم في الدنيا,0.0,0.0,0.0,0.0
+393,115,replacement,L2 group anchor + divergence,4,فقال الملا الذين كفروا,فقال الملا,0.5,1.0,0.6666666666666666,1.0
+394,115,replacement,L2 group anchor + divergence,4,فقال الملا الذين كفروا,فقال الملا,0.5,1.0,0.6666666666666666,1.0
+395,116,replacement,L2 group anchor + divergence,5,افلم يسيروا في الارض فينظروا,افلم يسيروا,0.4,1.0,0.5714285714285715,1.0
+396,116,replacement,L2 group anchor + divergence,5,افلم يسيروا في الارض فتكون,افلم يسيروا,0.4,1.0,0.5714285714285715,1.0
+397,116,replacement,L2 group anchor + divergence,5,افلم يسيروا في الارض فينظروا,افلم يسيروا,0.4,1.0,0.5714285714285715,1.0
+398,116,replacement,L2 group anchor + divergence,5,افلم يسيروا في الارض فينظروا,افلم يسيروا,0.4,1.0,0.5714285714285715,1.0
+399,116,replacement,L2 group anchor + divergence,5,اولم يسيروا في الارض فينظروا,اولم يسيروا,0.4,1.0,0.5714285714285715,1.0
+400,116,replacement,L2 group anchor + divergence,5,اولم يسيروا في الارض فينظروا,اولم يسيروا,0.4,1.0,0.5714285714285715,1.0
+401,116,replacement,L2 group anchor + divergence,5,اولم يسيروا في الارض فينظروا,اولم يسيروا,0.4,1.0,0.5714285714285715,1.0
+402,117,addition & subtraction,L2 group anchor + divergence,5,هو الذي جعلكم خلاءف في,جعلكم خلاءف في الارض,0.6,0.75,0.6666666666666665,1.0
+403,117,addition & subtraction,L2 group anchor + divergence,5,وهو الذي جعلكم خلاءف الارض,جعلكم خلاءف الارض,0.6,1.0,0.7499999999999999,1.0
+404,118,replacement,L2 group anchor + divergence,4,فلنفسه ومن ضل فانما,فمن اهتدي فلنفسه,0.25,0.3333333333333333,0.28571428571428575,1.0
+405,118,replacement,L2 group anchor + divergence,4,لنفسه ومن ضل فانما,فمن اهتدي فانما يهتدي لنفسه,0.25,0.2,0.22222222222222224,1.0
+406,118,replacement,L2 group anchor + divergence,4,لنفسه ومن ضل فقل,فمن اهتدي فانما يهتدي لنفسه,0.25,0.2,0.22222222222222224,1.0
+407,118,replacement,L2 group anchor + divergence,4,لنفسه ومن ضل فانما,من اهتدي فانما يهتدي لنفسه,0.25,0.2,0.22222222222222224,1.0
+408,119,replacement,L2 group anchor + divergence,2,فبءس المصير,فبءس المصير,1.0,1.0,1.0,1.0
+409,119,replacement,L2 group anchor + divergence,2,ولبءس المصير,ولبءس المصير,1.0,1.0,1.0,1.0
+410,120,replacement,L2 group anchor + divergence,5,فاقبل بعضهم علي بعض يتلاومون,فاقبل بعضهم علي بعض يتلاومون,1.0,1.0,1.0,1.0
+411,120,replacement,L2 group anchor + divergence,5,فاقبل بعضهم علي بعض يتساءلون,فاقبل بعضهم علي بعض يتساءلون,1.0,1.0,1.0,1.0
+412,121,replacement,L2 group anchor + divergence,4,بما اتاهم ربهم ووقاهم,فاكهين بما اتاهم,0.5,0.6666666666666666,0.5714285714285715,1.0
+413,121,replacement,L2 group anchor + divergence,4,ما اتاهم ربهم انهم,اخذين ما اتاهم,0.5,0.6666666666666666,0.5714285714285715,1.0
+414,122,multiple differences,L2 group anchor + divergence,5,رغدا وادخلوا الباب سجدا وقولوا,واذ قلنا ادخلوا فكلوا حيث شءتم رغدا وادخلوا الباب سجدا وقولوا حطه خطاياكم وسنزيد,1.0,0.35714285714285715,0.5263157894736842,1.0
+415,122,multiple differences,L2 group anchor + divergence,5,حطه وادخلوا الباب سجدا نغفر,واذ قيل لهم اسكنوا وكلوا حيث شءتم وقولوا حطه وادخلوا الباب سجدا خطيءاتكم سنزيد,0.8,0.2857142857142857,0.4210526315789473,1.0
+416,123,replacement,L2 group anchor + divergence,5,الذين امنوا كونوا قوامين بالقسط,قوامين بالقسط شهداء لله,0.4,0.5,0.4444444444444445,1.0
+417,123,replacement,L2 group anchor + divergence,5,الذين امنوا كونوا قوامين لله,قوامين لله شهداء بالقسط,0.4,0.5,0.4444444444444445,1.0
+418,124,replacement,L2 group anchor + divergence,5,فرعون ان هذا لساحر عليم,الملا من قوم فرعون,0.2,0.25,0.22222222222222224,1.0
+419,124,replacement,L2 group anchor + divergence,5,حوله ان هذا لساحر عليم,للملا حوله,0.2,0.5,0.28571428571428575,1.0
+420,125,replacement,L2 group anchor + divergence,3,قضي بينهم بالقسط,قضي بينهم بالقسط,1.0,1.0,1.0,1.0
+421,125,replacement,L2 group anchor + divergence,3,وقضي بينهم بالقسط,وقضي بينهم بالقسط,1.0,1.0,1.0,1.0
+422,125,replacement,L2 group anchor + divergence,3,وقضي بينهم بالحق,وقضي بينهم بالحق,1.0,1.0,1.0,1.0
+423,125,replacement,L2 group anchor + divergence,3,وقضي بينهم بالحق,وقضي بينهم بالحق,1.0,1.0,1.0,1.0
+424,126,replacement,L2 group anchor + divergence,4,الدنيا ولعذاب الاخره اشق,ولعذاب الاخره اشق,0.75,1.0,0.8571428571428571,1.0
+425,126,replacement,L2 group anchor + divergence,4,ربه ولعذاب الاخره اشد,ولعذاب الاخره اشد وابقي,0.75,0.75,0.75,1.0
+426,126,replacement,L2 group anchor + divergence,4,الدنيا ولعذاب الاخره اكبر,ولعذاب الاخره اكبر,0.75,1.0,0.8571428571428571,1.0
+427,126,replacement,L2 group anchor + divergence,4,الدنيا ولعذاب الاخره اخزي,ولعذاب الاخره اخزي,0.75,1.0,0.8571428571428571,1.0
+428,126,replacement,L2 group anchor + divergence,4,العذاب ولعذاب الاخره اكبر,ولعذاب الاخره اكبر,0.75,1.0,0.8571428571428571,1.0
+429,127,replacement,L2 group anchor + divergence,3,ورسوله ومن يشاق,ومن يشاق الله,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+430,127,replacement,L2 group anchor + divergence,2,ومن يشاقق,ومن يشاقق الرسول,1.0,0.6666666666666666,0.8,1.0
+431,127,replacement,L2 group anchor + divergence,3,ورسوله ومن يشاقق,ومن يشاقق الله ورسوله,0.6666666666666666,0.5,0.5714285714285715,1.0
+432,128,replacement,L2 group anchor + divergence,3,ارسلنا قبلك من,ارسلنا قبلك,0.6666666666666666,1.0,0.8,1.0
+433,128,replacement,L2 group anchor + divergence,3,ارسلنا قبلك الا,ارسلنا قبلك,0.6666666666666666,1.0,0.8,1.0
+434,128,replacement,L2 group anchor + divergence,3,ارسلنا قبلك من,ارسلنا قبلك,0.6666666666666666,1.0,0.8,1.0
+435,128,replacement,L2 group anchor + divergence,3,اليهم قبلك من,ارسلنا اليهم قبلك,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+437,130,addition & subtraction,L2 group anchor + divergence,4,بالغيب ان الله قوي,ان الله قوي عزيز,0.75,0.75,0.75,1.0
+438,130,addition & subtraction,L2 group anchor + divergence,4,ورسلي ان الله قوي,ان الله قوي عزيز,0.75,0.75,0.75,1.0
+439,130,addition & subtraction,L2 group anchor + divergence,4,ينصره ان الله لقوي,ان الله لقوي عزيز,0.75,0.75,0.75,1.0
+440,130,addition & subtraction,L2 group anchor + divergence,4,قدره ان الله لقوي,ان الله لقوي عزيز,0.75,0.75,0.75,1.0
+441,131,replacement,L2 group anchor + divergence,5,الله مصدق لما معهم وكانوا,ولما جاءهم كتاب,0.0,0.0,0.0,0.0
+442,131,replacement,L2 group anchor + divergence,5,الله مصدق لما معهم نبذ,ولما جاءهم رسول,0.0,0.0,0.0,0.0
+443,132,replacement,L2 group anchor + divergence,4,كداب ال فرعون والذين,قبلهم كذبوا باياتنا,0.0,0.0,0.0,0.0
+444,132,replacement,L2 group anchor + divergence,4,كداب ال فرعون والذين,قبلهم كذبوا بايات ربهم,0.0,0.0,0.0,0.0
+445,132,replacement,L2 group anchor + divergence,4,كداب ال فرعون والذين,قبلهم كفروا بايات الله,0.0,0.0,0.0,0.0
+446,133,addition & subtraction,L2 group anchor + divergence,3,ولكن انفسهم يظلمون,ولكن انفسهم,0.6666666666666666,1.0,0.8,1.0
+447,133,addition & subtraction,L2 group anchor + divergence,3,كانوا انفسهم يظلمون,ولكن كانوا انفسهم,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+448,133,addition & subtraction,L2 group anchor + divergence,3,كانوا انفسهم يظلمون,ولكن كانوا انفسهم,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+449,133,addition & subtraction,L2 group anchor + divergence,3,كانوا انفسهم يظلمون,فما كان الله ليظلمهم ولكن كانوا انفسهم,0.6666666666666666,0.2857142857142857,0.4,1.0
+450,133,addition & subtraction,L2 group anchor + divergence,3,كانوا انفسهم يظلمون,ولكن كانوا انفسهم,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+451,133,addition & subtraction,L2 group anchor + divergence,3,كانوا انفسهم يظلمون,ولكن كانوا انفسهم,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+452,133,addition & subtraction,L2 group anchor + divergence,3,كانوا انفسهم يظلمون,وما كان الله ليظلمهم ولكن كانوا انفسهم,0.6666666666666666,0.2857142857142857,0.4,1.0
+453,133,addition & subtraction,L2 group anchor + divergence,3,كانوا انفسهم يظلمون,فما كان الله ليظلمهم ولكن كانوا انفسهم,0.6666666666666666,0.2857142857142857,0.4,1.0
+454,134,replacement,L2 group anchor + divergence,5,كذب الذين من قبلهم حتي,كذلك كذب الذين,0.4,0.6666666666666666,0.5,1.0
+455,134,replacement,L2 group anchor + divergence,5,كذب الذين من قبلهم فانظر,كذلك كذب الذين,0.4,0.6666666666666666,0.5,1.0
+456,134,replacement,L2 group anchor + divergence,5,فعل الذين من قبلهم فهل,كذلك فعل الذين,0.4,0.6666666666666666,0.5,1.0
+457,135,addition & subtraction,L2 group anchor + divergence,5,تكون فتنه ويكون الدين كله,ويكون الدين كله لله,0.6,0.75,0.6666666666666665,1.0
+458,135,addition & subtraction,L2 group anchor + divergence,5,تكون فتنه ويكون الدين لله,ويكون الدين لله,0.6,1.0,0.7499999999999999,1.0
+459,136,multiple differences,L2 group anchor + divergence,4,فينظروا كيف كان عاقبه,الذين من قبلهم كانوا اشد منهم,0.0,0.0,0.0,0.0
+460,136,multiple differences,L2 group anchor + divergence,4,فينظروا كيف كان عاقبه,الذين من قبلهم وكانوا اشد منهم,0.0,0.0,0.0,0.0
+461,136,multiple differences,L2 group anchor + divergence,4,فينظروا كيف كان عاقبه,الذين كانوا من قبلهم كانوا هم اشد منهم,0.0,0.0,0.0,0.0
+462,136,multiple differences,L2 group anchor + divergence,4,فينظروا كيف كان عاقبه,الذين من قبلهم كانوا اكثر منهم واشد,0.0,0.0,0.0,0.0
+463,137,replacement,L2 group anchor + divergence,5,فيها من كل زوج كريم,زوج كريم,0.4,1.0,0.5714285714285715,1.0
+464,137,replacement,L2 group anchor + divergence,5,فيها من كل زوج كريم,زوج كريم,0.4,1.0,0.5714285714285715,1.0
+465,137,replacement,L2 group anchor + divergence,5,وانبتت من كل زوج بهيج,زوج بهيج,0.4,1.0,0.5714285714285715,1.0
+466,137,replacement,L2 group anchor + divergence,5,فيها من كل زوج بهيج,زوج بهيج,0.4,1.0,0.5714285714285715,1.0
+467,138,addition & subtraction,L2 group anchor + divergence,6,ولي مستكبرا كان لم يسمعها كان,كان لم يسمعها كان في اذنيه وقرا,0.6666666666666666,0.5714285714285714,0.6153846153846153,1.0
+468,138,addition & subtraction,L2 group anchor + divergence,6,يصر مستكبرا كان لم يسمعها فبشره,كان لم يسمعها,0.5,1.0,0.6666666666666666,1.0
+469,139,replacement,L2 group anchor + divergence,5,الارض جميعا ومثله معه ليفتدوا,ومثله معه ليفتدوا به,0.6,0.75,0.6666666666666665,1.0
+470,139,replacement,L2 group anchor + divergence,5,الارض جميعا ومثله معه لافتدوا,ومثله معه لافتدوا به,0.6,0.75,0.6666666666666665,1.0
+471,139,replacement,L2 group anchor + divergence,5,الارض جميعا ومثله معه لافتدوا,ومثله معه لافتدوا به,0.6,0.75,0.6666666666666665,1.0
+472,140,addition & subtraction,L2 group anchor + divergence,5,لا اقول لكم عندي خزاءن,ولا اقول لكم اني ملك,0.0,0.0,0.0,0.0
+473,140,addition & subtraction,L2 group anchor + divergence,5,ولا اقول لكم عندي خزاءن,ولا اقول اني ملك,0.0,0.0,0.0,0.0
+474,141,replacement,L2 group anchor + divergence,2,قال ما,الا تسجد,0.0,0.0,0.0,0.0
+475,141,replacement,L2 group anchor + divergence,2,قال يا,ان تسجد,0.0,0.0,0.0,0.0
+476,141,replacement,L2 group anchor + divergence,2,قال يا,ما لك الا تكون مع الساجدين,0.0,0.0,0.0,0.0
+477,142,order change,L2 group anchor + divergence,4,وغرتهم الحياه الدنيا فاليوم,لهوا ولعبا,0.0,0.0,0.0,0.0
+478,142,order change,L2 group anchor + divergence,4,هذه الحياه الدنيا الا,لهو ولعب,0.0,0.0,0.0,0.0
+479,142,order change,L2 group anchor + divergence,4,وغرتهم الحياه الدنيا وذكر,لعبا ولهوا,0.0,0.0,0.0,0.0
+480,142,order change,L2 group anchor + divergence,4,انما الحياه الدنيا لعب,لعب ولهو,0.25,0.5,0.3333333333333333,1.0
+481,142,order change,L2 group anchor + divergence,4,انما الحياه الدنيا لعب,لعب ولهو,0.25,0.5,0.3333333333333333,1.0
+482,143,addition & subtraction,L2 group anchor + divergence,4,لقد ارسلنا نوحا الي,لقد ارسلنا نوحا,0.75,1.0,0.8571428571428571,1.0
+483,143,addition & subtraction,L2 group anchor + divergence,4,ولقد ارسلنا نوحا الي,ولقد ارسلنا نوحا,0.75,1.0,0.8571428571428571,1.0
+484,143,addition & subtraction,L2 group anchor + divergence,4,ولقد ارسلنا نوحا الي,ولقد ارسلنا نوحا,0.75,1.0,0.8571428571428571,1.0
+485,143,addition & subtraction,L2 group anchor + divergence,4,ولقد ارسلنا نوحا الي,ولقد ارسلنا نوحا,0.75,1.0,0.8571428571428571,1.0
+486,143,addition & subtraction,L2 group anchor + divergence,4,ولقد ارسلنا نوحا وابراهيم,ولقد ارسلنا نوحا,0.75,1.0,0.8571428571428571,1.0
+487,144,addition & subtraction,L2 group anchor + divergence,5,هذه لعنه ويوم القيامه بءس,واتبعوا في هذه لعنه,0.4,0.5,0.4444444444444445,1.0
+488,144,addition & subtraction,L2 group anchor + divergence,5,الدنيا لعنه ويوم القيامه الا,واتبعوا في هذه الدنيا لعنه,0.4,0.4,0.4000000000000001,1.0
+489,144,addition & subtraction,L2 group anchor + divergence,5,الدنيا لعنه ويوم القيامه هم,واتبعناهم في هذه الدنيا لعنه,0.4,0.4,0.4000000000000001,1.0
+490,145,replacement,L2 group anchor + divergence,3,ان في ذلك,لايه للمءمنين,0.0,0.0,0.0,0.0
+491,145,replacement,L2 group anchor + divergence,4,بالحق ان في ذلك,لايه للمءمنين,0.0,0.0,0.0,0.0
+492,145,replacement,L2 group anchor + divergence,3,ان في السماوات,لايات للمءمنين,0.0,0.0,0.0,0.0
+493,146,replacement,L2 group anchor + divergence,6,وجعل لكم السمع والابصار والافءده لعلكم,والافءده لعلكم تشكرون,0.3333333333333333,0.6666666666666666,0.4444444444444444,1.0
+494,146,replacement,L2 group anchor + divergence,6,انشا لكم السمع والابصار والافءده قليلا,والافءده قليلا ما تشكرون,0.3333333333333333,0.5,0.4,1.0
+495,146,replacement,L2 group anchor + divergence,6,وجعل لكم السمع والابصار والافءده قليلا,والافءده قليلا ما تشكرون,0.3333333333333333,0.5,0.4,1.0
+496,146,replacement,L2 group anchor + divergence,6,وجعل لكم السمع والابصار والافءده قليلا,والافءده قليلا ما تشكرون,0.3333333333333333,0.5,0.4,1.0
+498,148,order change,L2 group anchor + divergence,5,للناس في هذا القران من,للناس في هذا القران,0.8,1.0,0.888888888888889,1.0
+499,148,order change,L2 group anchor + divergence,5,صرفنا في هذا القران للناس,في هذا القران للناس,0.8,1.0,0.888888888888889,1.0
+500,149,addition & subtraction,L2 group anchor + divergence,6,قال الذين كفروا للذين امنوا اي,قال الذين كفروا للذين امنوا,0.8333333333333334,1.0,0.9090909090909091,1.0
+501,149,addition & subtraction,L2 group anchor + divergence,6,وقال الذين كفروا للذين امنوا اتبعوا,وقال الذين كفروا للذين امنوا,0.8333333333333334,1.0,0.9090909090909091,1.0
+502,149,addition & subtraction,L2 group anchor + divergence,6,قال الذين كفروا للذين امنوا انطعم,قال الذين كفروا للذين امنوا,0.8333333333333334,1.0,0.9090909090909091,1.0
+503,149,addition & subtraction,L2 group anchor + divergence,6,وقال الذين كفروا للذين امنوا لو,وقال الذين كفروا للذين امنوا,0.8333333333333334,1.0,0.9090909090909091,1.0
+504,150,addition & subtraction,L2 group anchor + divergence,3,انك لعلي هدي,لعلي هدي,0.6666666666666666,1.0,0.8,1.0
+505,150,addition & subtraction,L2 group anchor + divergence,3,اياكم لعلي هدي,لعلي هدي,0.6666666666666666,1.0,0.8,1.0
+506,150,addition & subtraction,L2 group anchor + divergence,3,وانك لعلي خلق,لعلي خلق,0.6666666666666666,1.0,0.8,1.0
+507,151,addition & subtraction,L2 group anchor + divergence,5,الله يبسط الرزق لمن يشاء,لمن يشاء من عباده ويقدر له,0.4,0.3333333333333333,0.3636363636363636,1.0
+508,151,addition & subtraction,L2 group anchor + divergence,5,ربي يبسط الرزق لمن يشاء,لمن يشاء من عباده ويقدر له,0.4,0.3333333333333333,0.3636363636363636,1.0
+509,152,addition & subtraction,L2 group anchor + divergence,4,الله ان كنتم صادقين,بسوره من مثله,0.0,0.0,0.0,0.0
+510,152,addition & subtraction,L2 group anchor + divergence,4,الله ان كنتم صادقين,بسوره مثله,0.0,0.0,0.0,0.0
+511,153,addition & subtraction,L2 group anchor + divergence,3,من سيءاتكم والله,عنكم من سيءاتكم,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+512,153,addition & subtraction,L2 group anchor + divergence,3,عنكم سيءاتكم وندخلكم,عنكم سيءاتكم,0.6666666666666666,1.0,0.8,1.0
+513,153,addition & subtraction,L2 group anchor + divergence,3,عنكم سيءاتكم ولادخلنكم,عنكم سيءاتكم,0.6666666666666666,1.0,0.8,1.0
+514,153,addition & subtraction,L2 group anchor + divergence,3,عنكم سيءاتكم ويغفر,عنكم سيءاتكم,0.6666666666666666,1.0,0.8,1.0
+515,153,addition & subtraction,L2 group anchor + divergence,3,عنكم سيءاتكم ويدخلكم,عنكم سيءاتكم,0.6666666666666666,1.0,0.8,1.0
+516,154,addition & subtraction,L2 group anchor + divergence,5,ظلموا قولا غير الذي قيل,ظلموا قولا,0.4,1.0,0.5714285714285715,1.0
+517,154,addition & subtraction,L2 group anchor + divergence,5,منهم قولا غير الذي قيل,ظلموا منهم قولا,0.4,0.6666666666666666,0.5,1.0
+518,155,replacement,L2 group anchor + divergence,3,الله ما لا,معدوده,0.0,0.0,0.0,0.0
+519,155,replacement,L2 group anchor + divergence,0,,معدودات,0.0,0.0,0.0,0.0
+520,155,replacement,L2 group anchor + divergence,3,دينهم ما كانوا,معدودات,0.0,0.0,0.0,0.0
+521,155,replacement,L2 group anchor + divergence,3,علي ما رزقهم,معلومات,0.0,0.0,0.0,0.0
+522,156,replacement,L2 group anchor + divergence,3,هدي وبشري للمءمنين,هدي وبشري للمءمنين,1.0,1.0,1.0,1.0
+523,156,replacement,L2 group anchor + divergence,3,وهدي وبشري للمءمنين,وهدي وبشري للمءمنين,1.0,1.0,1.0,1.0
+524,156,replacement,L2 group anchor + divergence,0,,هدي ورحمه للمحسنين,0.0,0.0,0.0,0.0
+525,156,replacement,L2 group anchor + divergence,3,ورحمه وبشري للمسلمين,وهدي ورحمه وبشري للمسلمين,1.0,0.75,0.8571428571428571,1.0
+526,156,replacement,L2 group anchor + divergence,3,وهدي وبشري للمسلمين,وهدي وبشري للمسلمين,1.0,1.0,1.0,1.0
+527,157,addition & subtraction,L2 group anchor + divergence,4,سفر فعده من ايام,منكم مريضا,0.0,0.0,0.0,0.0
+528,157,addition & subtraction,L2 group anchor + divergence,4,سفر فعده من ايام,مريضا,0.0,0.0,0.0,0.0
+529,158,addition & subtraction,L2 group anchor + divergence,4,من في السماوات ومن,من في السماوات ومن في الارض,1.0,0.6666666666666666,0.8,1.0
+530,158,addition & subtraction,L2 group anchor + divergence,4,من في السماوات ومن,من في السماوات ومن في الارض,1.0,0.6666666666666666,0.8,1.0
+531,158,addition & subtraction,L2 group anchor + divergence,4,من في السماوات ومن,من في السماوات ومن في الارض,1.0,0.6666666666666666,0.8,1.0
+532,158,addition & subtraction,L2 group anchor + divergence,4,من في السماوات ومن,من في السماوات ومن في الارض,1.0,0.6666666666666666,0.8,1.0
+533,158,addition & subtraction,L2 group anchor + divergence,4,من في السماوات والارض,من في السماوات والارض,1.0,1.0,1.0,1.0
+534,158,addition & subtraction,L2 group anchor + divergence,4,من في السماوات والارض,من في السماوات والارض,1.0,1.0,1.0,1.0
+535,158,addition & subtraction,L2 group anchor + divergence,4,من في السماوات والارض,من في السماوات والارض,1.0,1.0,1.0,1.0
+536,158,addition & subtraction,L2 group anchor + divergence,4,من في السماوات والارض,من في السماوات والارض,1.0,1.0,1.0,1.0
+537,158,addition & subtraction,L2 group anchor + divergence,4,من في السماوات والارض,من في السماوات والارض,1.0,1.0,1.0,1.0
+538,158,addition & subtraction,L2 group anchor + divergence,4,من في السماوات والارض,من في السماوات والارض,1.0,1.0,1.0,1.0
+539,158,addition & subtraction,L2 group anchor + divergence,4,من في السماوات والارض,من في السماوات والارض,1.0,1.0,1.0,1.0
+540,158,addition & subtraction,L2 group anchor + divergence,4,من في السماوات والارض,من في السماوات والارض,1.0,1.0,1.0,1.0
+541,158,addition & subtraction,L2 group anchor + divergence,4,بمن في السماوات والارض,بمن في السماوات والارض,1.0,1.0,1.0,1.0
+542,159,addition & subtraction,L2 group anchor + divergence,6,له ما في السماوات والارض كل,ما في السماوات والارض,0.6666666666666666,1.0,0.8,1.0
+543,159,addition & subtraction,L2 group anchor + divergence,6,لله ما في السماوات والارض وكان,ما في السماوات والارض,0.6666666666666666,1.0,0.8,1.0
+544,159,addition & subtraction,L2 group anchor + divergence,6,لمن ما في السماوات والارض قل,ما في السماوات والارض,0.6666666666666666,1.0,0.8,1.0
+545,159,addition & subtraction,L2 group anchor + divergence,6,لله ما في السماوات والارض الا,ما في السماوات والارض,0.6666666666666666,1.0,0.8,1.0
+546,159,addition & subtraction,L2 group anchor + divergence,6,وله ما في السماوات والارض وله,ما في السماوات والارض,0.6666666666666666,1.0,0.8,1.0
+547,159,addition & subtraction,L2 group anchor + divergence,6,لله ما في السماوات والارض قد,ما في السماوات والارض,0.6666666666666666,1.0,0.8,1.0
+548,159,addition & subtraction,L2 group anchor + divergence,6,يعلم ما في السماوات والارض والذين,ما في السماوات والارض,0.6666666666666666,1.0,0.8,1.0
+549,159,addition & subtraction,L2 group anchor + divergence,6,لله ما في السماوات والارض ان,ما في السماوات والارض,0.6666666666666666,1.0,0.8,1.0
+550,159,addition & subtraction,L2 group anchor + divergence,6,لله ما في السماوات والارض وهو,ما في السماوات والارض,0.6666666666666666,1.0,0.8,1.0
+551,159,addition & subtraction,L2 group anchor + divergence,6,له ما في السماوات والارض وهو,ما في السماوات والارض,0.6666666666666666,1.0,0.8,1.0
+552,159,addition & subtraction,L2 group anchor + divergence,6,يعلم ما في السماوات والارض ويعلم,ما في السماوات والارض,0.6666666666666666,1.0,0.8,1.0
+553,160,replacement,L2 group anchor + divergence,3,ولهم عذاب مقيم,عذاب مقيم,0.6666666666666666,1.0,0.8,1.0
+554,160,replacement,L2 group anchor + divergence,3,ولهم عذاب مقيم,عذاب مقيم,0.6666666666666666,1.0,0.8,1.0
+555,160,replacement,L2 group anchor + divergence,3,عليه عذاب مقيم,عذاب مقيم,0.6666666666666666,1.0,0.8,1.0
+556,160,replacement,L2 group anchor + divergence,3,عليه عذاب مقيم,عذاب مقيم,0.6666666666666666,1.0,0.8,1.0
+557,160,replacement,L2 group anchor + divergence,3,في عذاب مقيم,عذاب مقيم,0.6666666666666666,1.0,0.8,1.0
+558,161,replacement,L2 group anchor + divergence,3,جعلنا لكم عليهم,واولءكم,0.0,0.0,0.0,0.0
+559,161,replacement,L2 group anchor + divergence,3,ام لكم براءه,اولءكم,0.0,0.0,0.0,0.0
+560,162,replacement,L2 group anchor + divergence,6,والنوي يخرج الحي من الميت ومخرج,ومخرج الميت من الحي,0.16666666666666666,0.25,0.2,1.0
+561,162,replacement,L2 group anchor + divergence,6,ومن يخرج الحي من الميت ويخرج,ويخرج الميت من الحي,0.16666666666666666,0.25,0.2,1.0
+562,162,replacement,L2 group anchor + divergence,5,يخرج الحي من الميت ويخرج,ويخرج الميت من الحي,0.2,0.25,0.22222222222222224,1.0
+563,163,replacement,L2 group anchor + divergence,4,من قبلهم من قرن,من قبلهم من قرن,1.0,1.0,1.0,1.0
+564,163,replacement,L2 group anchor + divergence,4,من قبلهم من قرن,من قبلهم من قرن,1.0,1.0,1.0,1.0
+565,163,replacement,L2 group anchor + divergence,4,من قبلهم من القرون,من قبلهم من القرون,1.0,1.0,1.0,1.0
+566,163,replacement,L2 group anchor + divergence,4,اهلكنا قبلهم من قرن,قبلهم من قرن,0.75,1.0,0.8571428571428571,1.0
+567,163,replacement,L2 group anchor + divergence,4,اهلكنا قبلهم من قرن,قبلهم من قرن,0.75,1.0,0.8571428571428571,1.0
+568,163,replacement,L2 group anchor + divergence,4,اهلكنا قبلهم من قرن,قبلهم من قرن,0.75,1.0,0.8571428571428571,1.0
+569,163,replacement,L2 group anchor + divergence,4,اهلكنا قبلهم من القرون,قبلهم من القرون,0.75,1.0,0.8571428571428571,1.0
+570,163,replacement,L2 group anchor + divergence,4,اهلكنا قبلهم من القرون,قبلهم من القرون,0.75,1.0,0.8571428571428571,1.0
+571,164,replacement,L2 group anchor + divergence,3,وجعلنا الانهار تجري,تجري من تحتهم,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0
+572,164,replacement,L2 group anchor + divergence,3,تحتهم الانهار وقالوا,تجري من تحتهم,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0
+573,164,replacement,L2 group anchor + divergence,3,تحتهم الانهار في,تجري من تحتهم,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0
+574,164,replacement,L2 group anchor + divergence,3,تحتهم الانهار يحلون,تجري من تحتهم,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0
+575,164,replacement,L2 group anchor + divergence,3,تحتها الانهار خالدين,تجري تحتها,0.3333333333333333,0.5,0.4,1.0
+577,166,replacement,L2 group anchor + divergence,5,فانظروا كيف كان عاقبه المجرمين,عاقبه المجرمين,0.4,1.0,0.5714285714285715,1.0
+578,166,replacement,L2 group anchor + divergence,5,فانظر كيف كان عاقبه المجرمين,عاقبه المجرمين,0.4,1.0,0.5714285714285715,1.0
+579,167,addition & subtraction,L2 group anchor + divergence,5,لهم من دون الله من,من دون الله من اولياء,0.8,0.8,0.8000000000000002,1.0
+580,167,addition & subtraction,L2 group anchor + divergence,5,لكم من دون الله من,من دون الله من اولياء,0.8,0.8,0.8000000000000002,1.0
+581,167,addition & subtraction,L2 group anchor + divergence,5,اتخذوا من دون الله اولياء,من دون الله اولياء,0.8,1.0,0.888888888888889,1.0
+582,167,addition & subtraction,L2 group anchor + divergence,5,اتخذوا من دون الله اولياء,من دون الله اولياء,0.8,1.0,0.888888888888889,1.0
+583,168,addition & subtraction,L2 group anchor + divergence,3,من ذنوبكم ويءخركم,ليغفر لكم من ذنوبكم,0.6666666666666666,0.5,0.5714285714285715,1.0
+584,168,addition & subtraction,L2 group anchor + divergence,3,من ذنوبكم ويجركم,يغفر لكم من ذنوبكم,0.6666666666666666,0.5,0.5714285714285715,1.0
+585,168,addition & subtraction,L2 group anchor + divergence,3,من ذنوبكم ويءخركم,يغفر لكم من ذنوبكم,0.6666666666666666,0.5,0.5714285714285715,1.0
+586,168,addition & subtraction,L2 group anchor + divergence,3,لكم ذنوبكم والله,ويغفر لكم ذنوبكم,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+587,168,addition & subtraction,L2 group anchor + divergence,3,لكم ذنوبكم ومن,ويغفر لكم ذنوبكم,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+588,168,addition & subtraction,L2 group anchor + divergence,3,لكم ذنوبكم ويدخلكم,يغفر لكم ذنوبكم,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+589,169,replacement,L2 group anchor + divergence,5,من كل امه شهيدا ثم,نبعث من كل امه,0.6,0.75,0.6666666666666665,1.0
+590,169,replacement,L2 group anchor + divergence,5,في كل امه شهيدا عليهم,نبعث في كل امه,0.6,0.75,0.6666666666666665,1.0
+591,170,multiple differences,L2 group anchor + divergence,6,منه حليه تلبسونها وتري الفلك مواخر,وتري الفلك مواخر فيه ولتبتغوا,0.5,0.6,0.5454545454545454,1.0
+592,170,multiple differences,L2 group anchor + divergence,6,وتستخرجون حليه تلبسونها وتري الفلك فيه,وتري الفلك فيه مواخر لتبتغوا,0.5,0.6,0.5454545454545454,1.0
+593,171,replacement,L2 group anchor + divergence,2,قوما اخرين,وانشانا بعدها قوما,0.5,0.3333333333333333,0.4,1.0
+594,171,replacement,L2 group anchor + divergence,2,قرنا اخرين,وانشانا من بعدهم قرنا,0.5,0.25,0.3333333333333333,1.0
+595,171,replacement,L2 group anchor + divergence,2,قرنا اخرين,انشانا من بعدهم قرنا,0.5,0.25,0.3333333333333333,1.0
+596,171,replacement,L2 group anchor + divergence,2,قرونا اخرين,انشانا من بعدهم قرونا,0.5,0.25,0.3333333333333333,1.0
+597,172,replacement,L2 group anchor + divergence,6,واتيناه اهله ومثلهم معهم رحمه من,رحمه من عندنا,0.3333333333333333,0.6666666666666666,0.4444444444444444,1.0
+598,172,replacement,L2 group anchor + divergence,6,له اهله ومثلهم معهم رحمه منا,رحمه منا,0.3333333333333333,1.0,0.5,1.0
+599,173,addition & subtraction,L2 group anchor + divergence,5,يرد الي ارذل العمر لكيلا,يعلم من بعد,0.0,0.0,0.0,0.0
+600,173,addition & subtraction,L2 group anchor + divergence,5,يرد الي ارذل العمر لكي,يعلم بعد,0.0,0.0,0.0,0.0
+601,174,addition & subtraction,L2 group anchor + divergence,4,كلما ارادوا ان يخرجوا,يخرجوا منها من غم,0.25,0.25,0.25,1.0
+602,174,addition & subtraction,L2 group anchor + divergence,5,النار كلما ارادوا ان يخرجوا,يخرجوا منها,0.2,0.5,0.28571428571428575,1.0
+603,175,replacement,L2 group anchor + divergence,3,وكنا ترابا وعظاما,اانا لمبعوثون,0.0,0.0,0.0,0.0
+604,175,replacement,L2 group anchor + divergence,3,كنا ترابا واباءنا,اءنا لمخرجون,0.0,0.0,0.0,0.0
+605,176,addition & subtraction,L2 group anchor + divergence,6,ما انت الا بشر مثلنا فات,ما انت الا,0.5,1.0,0.6666666666666666,1.0
+606,176,addition & subtraction,L2 group anchor + divergence,6,وما انت الا بشر مثلنا وان,وما انت الا,0.5,1.0,0.6666666666666666,1.0
+608,178,addition & subtraction,L2 group anchor + divergence,4,بمن جاء بالهدي من,اعلم بمن بالهدي من عنده,0.75,0.6,0.6666666666666665,1.0
+609,178,addition & subtraction,L2 group anchor + divergence,4,من جاء بالهدي ومن,اعلم من بالهدي,0.5,0.6666666666666666,0.5714285714285715,1.0
+610,179,addition & subtraction,L2 group anchor + divergence,5,ماء فاحيا به الارض من,فاحيا به الارض من بعد موتها,0.8,0.6666666666666666,0.7272727272727272,1.0
+611,179,addition & subtraction,L2 group anchor + divergence,5,ماء فاحيا به الارض بعد,فاحيا به الارض بعد موتها,0.8,0.8,0.8000000000000002,1.0
+612,179,addition & subtraction,L2 group anchor + divergence,5,ماء فاحيا به الارض بعد,فاحيا به الارض بعد موتها,0.8,0.8,0.8000000000000002,1.0
+613,179,addition & subtraction,L2 group anchor + divergence,5,رزق فاحيا به الارض بعد,فاحيا به الارض بعد موتها,0.8,0.8,0.8000000000000002,1.0
+614,180,addition & subtraction,L2 group anchor + divergence,6,بانهم كانت تاتيهم رسلهم بالبينات فكفروا,بانهم كانت,0.3333333333333333,1.0,0.5,1.0
+615,180,addition & subtraction,L2 group anchor + divergence,6,بانه كانت تاتيهم رسلهم بالبينات فقالوا,بانه كانت,0.3333333333333333,1.0,0.5,1.0
+616,181,addition & subtraction,L2 group anchor + divergence,4,منكم من نساءهم ما,يظاهرون منكم,0.25,0.5,0.3333333333333333,1.0
+617,181,addition & subtraction,L2 group anchor + divergence,4,يظاهرون من نساءهم ثم,يظاهرون,0.25,1.0,0.4,1.0
+618,182,addition & subtraction,L2 group anchor + divergence,4,في اموالهم حق معلوم,اموالهم حق معلوم,0.75,1.0,0.8571428571428571,1.0
+619,182,addition & subtraction,L2 group anchor + divergence,4,وفي اموالهم حق للساءل,اموالهم حق,0.5,1.0,0.6666666666666666,1.0
+620,183,order change,L2 group anchor + divergence,5,الذين امنوا والذين هادوا والنصاري,والنصاري والصابءين,0.2,0.5,0.28571428571428575,1.0
+621,183,order change,L2 group anchor + divergence,5,الذين امنوا والذين هادوا والصابءين,والصابءين والنصاري,0.2,0.5,0.28571428571428575,1.0
+622,183,order change,L2 group anchor + divergence,5,الذين امنوا والذين هادوا والصابءون,والصابءون والنصاري,0.2,0.5,0.28571428571428575,1.0
+623,184,replacement,L2 group anchor + divergence,4,كيف نصرف الايات ثم,نصرف الايات,0.5,1.0,0.6666666666666666,1.0
+624,184,replacement,L2 group anchor + divergence,4,كيف نصرف الايات لعلهم,نصرف الايات,0.5,1.0,0.6666666666666666,1.0
+625,184,replacement,L2 group anchor + divergence,4,وكذلك نصرف الايات وليقولوا,نصرف الايات,0.5,1.0,0.6666666666666666,1.0
+626,184,replacement,L2 group anchor + divergence,4,كذلك نصرف الايات لقوم,نصرف الايات,0.5,1.0,0.6666666666666666,1.0
+627,185,order change,L2 group anchor + divergence,3,ينفعنا ولا يضرنا,ما لا ينفعنا ولا يضرنا,1.0,0.6,0.7499999999999999,1.0
+628,185,order change,L2 group anchor + divergence,3,نفعا ولا ضرا,نفعا ولا ضرا,1.0,1.0,1.0,1.0
+629,185,order change,L2 group anchor + divergence,2,ولا تدع,ما لا ينفعك ولا يضرك,0.0,0.0,0.0,0.0
+630,185,order change,L2 group anchor + divergence,3,نفعا ولا ضرا,نفعا ولا ضرا,1.0,1.0,1.0,1.0
+631,185,order change,L2 group anchor + divergence,3,شيءا ولا يضركم,ما لا ينفعكم شيءا ولا يضركم,1.0,0.5,0.6666666666666666,1.0
+632,185,order change,L2 group anchor + divergence,3,ينفعهم ولا يضرهم,ما لا ينفعهم ولا يضرهم,1.0,0.6,0.7499999999999999,1.0
+633,185,order change,L2 group anchor + divergence,0,,او ينفعونكم او يضرون,0.0,0.0,0.0,0.0
+634,185,order change,L2 group anchor + divergence,3,نفعا ولا ضرا,نفعا ولا ضرا,1.0,1.0,1.0,1.0
+635,185,order change,L2 group anchor + divergence,3,يضرهم ولا ينفعهم,ما يضرهم ولا ينفعهم,1.0,0.75,0.8571428571428571,1.0
+636,185,order change,L2 group anchor + divergence,3,ضرا ولا نفعا,ضرا ولا نفعا,1.0,1.0,1.0,1.0
+637,185,order change,L2 group anchor + divergence,3,يضرهم ولا ينفعهم,ما لا يضرهم ولا ينفعهم,1.0,0.6,0.7499999999999999,1.0
+638,185,order change,L2 group anchor + divergence,3,ضرا ولا نفعا,ضرا ولا نفعا,1.0,1.0,1.0,1.0
+639,185,order change,L2 group anchor + divergence,3,قولا ولا يملك,ضرا ولا نفعا,0.0,0.0,0.0,0.0
+640,185,order change,L2 group anchor + divergence,0,,ما لا يضره وما لا ينفعه,0.0,0.0,0.0,0.0
+641,185,order change,L2 group anchor + divergence,0,,لمن ضره اقرب من نفعه,0.0,0.0,0.0,0.0
+642,185,order change,L2 group anchor + divergence,3,يخلقون ولا يملكون,ضرا ولا نفعا,0.0,0.0,0.0,0.0
+643,185,order change,L2 group anchor + divergence,0,,اراد بكم ضرا او اراد بكم نفعا,0.0,0.0,0.0,0.0
+644,186,replacement,L2 group anchor + divergence,5,ارسلنا في قريه من نبي,في قريه من نبي,0.8,1.0,0.888888888888889,1.0
+645,186,replacement,L2 group anchor + divergence,5,ارسلنا في قريه من نذير,في قريه من نذير,0.8,1.0,0.888888888888889,1.0
+646,186,replacement,L2 group anchor + divergence,5,قبلك في قريه من نذير,في قريه من نذير,0.8,1.0,0.888888888888889,1.0
+647,187,addition & subtraction,L2 group anchor + divergence,5,وانا لفي شك مما تدعوننا,وانا لفي شك تدعوننا,0.8,1.0,0.888888888888889,1.0
+648,187,addition & subtraction,L2 group anchor + divergence,5,واننا لفي شك مما تدعونا,واننا لفي شك تدعونا,0.8,1.0,0.888888888888889,1.0
+649,188,replacement,L2 group anchor + divergence,4,نسلكه في قلوب المجرمين,نسلكه,0.25,1.0,0.4,1.0
+650,188,replacement,L2 group anchor + divergence,4,سلكناه في قلوب المجرمين,سلكناه,0.25,1.0,0.4,1.0
+651,189,replacement,L2 group anchor + divergence,3,انجيناكم من عدوكم,ونزلنا عليكم المن والسلوي,0.0,0.0,0.0,0.0
+652,189,replacement,L2 group anchor + divergence,3,عليهم من انفسهم,ونزلنا عليك الكتاب,0.0,0.0,0.0,0.0
+653,189,replacement,L2 group anchor + divergence,3,ونزلنا من السماء,ونزلنا من السماء,1.0,1.0,1.0,1.0
+654,189,replacement,L2 group anchor + divergence,3,كلوا من طيبات,وانزلنا عليكم المن والسلوي,0.0,0.0,0.0,0.0
+655,189,replacement,L2 group anchor + divergence,0,,انزلنا عليك الكتاب,0.0,0.0,0.0,0.0
+656,189,replacement,L2 group anchor + divergence,3,فيها من كل,وانزلنا من السماء,0.0,0.0,0.0,0.0
+657,190,order change,L2 group anchor + divergence,4,هذا الا اساطير الاولين,لقد وعدنا نحن واباءنا هذا,0.0,0.0,0.0,0.0
+658,190,order change,L2 group anchor + divergence,4,هذا الا اساطير الاولين,لقد وعدنا هذا نحن واباءنا,0.0,0.0,0.0,0.0
+659,191,addition & subtraction,L2 group anchor + divergence,5,تكن في ضيق مما يمكرون,ولا تكن,0.2,0.5,0.28571428571428575,1.0
+660,191,addition & subtraction,L2 group anchor + divergence,5,تك في ضيق مما يمكرون,ولا تك,0.2,0.5,0.28571428571428575,1.0
+661,192,replacement,L2 group anchor + divergence,5,وقلنا ما نزل الله من,ما نزل الله,0.6,1.0,0.7499999999999999,1.0
+662,192,replacement,L2 group anchor + divergence,5,واباءكم ما نزل الله بها,ما نزل الله,0.6,1.0,0.7499999999999999,1.0
+663,192,replacement,L2 group anchor + divergence,5,كرهوا ما نزل الله سنطيعكم,ما نزل الله,0.6,1.0,0.7499999999999999,1.0
+664,193,replacement,L2 group anchor + divergence,3,ها انتم اولاء,ها انتم اولاء,1.0,1.0,1.0,1.0
+665,193,replacement,L2 group anchor + divergence,3,ها انتم هءلاء,ها انتم هءلاء,1.0,1.0,1.0,1.0
+666,193,replacement,L2 group anchor + divergence,3,ها انتم هءلاء,ها انتم هءلاء,1.0,1.0,1.0,1.0
+667,193,replacement,L2 group anchor + divergence,3,ها انتم هءلاء,ها انتم هءلاء,1.0,1.0,1.0,1.0
+668,194,addition & subtraction,L2 group anchor + divergence,3,هو الفوز العظيم,ذلك هو الفوز العظيم,1.0,0.75,0.8571428571428571,1.0
+669,194,addition & subtraction,L2 group anchor + divergence,3,هو الفوز العظيم,ذلك هو الفوز العظيم,1.0,0.75,0.8571428571428571,1.0
+670,194,addition & subtraction,L2 group anchor + divergence,3,هو الفوز العظيم,ذلك هو الفوز العظيم,1.0,0.75,0.8571428571428571,1.0
+671,194,addition & subtraction,L2 group anchor + divergence,3,هو الفوز العظيم,ذلك هو الفوز العظيم,1.0,0.75,0.8571428571428571,1.0
+672,194,addition & subtraction,L2 group anchor + divergence,3,هو الفوز العظيم,وذلك هو الفوز العظيم,1.0,0.75,0.8571428571428571,1.0
+673,194,addition & subtraction,L2 group anchor + divergence,3,هو الفوز العظيم,وذلك هو الفوز العظيم,1.0,0.75,0.8571428571428571,1.0
+674,194,addition & subtraction,L2 group anchor + divergence,3,وذلك الفوز العظيم,وذلك الفوز العظيم,1.0,1.0,1.0,1.0
+675,194,addition & subtraction,L2 group anchor + divergence,3,ذلك الفوز العظيم,ذلك الفوز العظيم,1.0,1.0,1.0,1.0
+676,194,addition & subtraction,L2 group anchor + divergence,3,ذلك الفوز العظيم,ذلك الفوز العظيم,1.0,1.0,1.0,1.0
+677,194,addition & subtraction,L2 group anchor + divergence,3,ذلك الفوز العظيم,ذلك الفوز العظيم,1.0,1.0,1.0,1.0
+678,194,addition & subtraction,L2 group anchor + divergence,3,ذلك الفوز العظيم,ذلك الفوز العظيم,1.0,1.0,1.0,1.0
+679,194,addition & subtraction,L2 group anchor + divergence,3,ذلك الفوز العظيم,ذلك الفوز العظيم,1.0,1.0,1.0,1.0
+681,196,replacement,L2 group anchor + divergence,4,قريتكم انهم اناس يتطهرون,اخرجوهم,0.0,0.0,0.0,0.0
+682,196,replacement,L2 group anchor + divergence,4,قريتكم انهم اناس يتطهرون,اخرجوا ال,0.0,0.0,0.0,0.0
+683,197,addition & subtraction,L2 group anchor + divergence,4,بالله وهم بالاخره هم,وهم بالاخره هم كافرون,0.75,0.75,0.75,1.0
+684,197,addition & subtraction,L2 group anchor + divergence,4,عوجا وهم بالاخره هم,وهم بالاخره هم كافرون,0.75,0.75,0.75,1.0
+685,197,addition & subtraction,L2 group anchor + divergence,4,الزكاه وهم بالاخره هم,وهم بالاخره هم كافرون,0.75,0.75,0.75,1.0
+686,197,addition & subtraction,L2 group anchor + divergence,4,عوجا وهم بالاخره كافرون,وهم بالاخره كافرون,0.75,1.0,0.8571428571428571,1.0
+687,198,replacement,L2 group anchor + divergence,4,الانعام لعبره نسقيكم مما,بطونه,0.0,0.0,0.0,0.0
+688,198,replacement,L2 group anchor + divergence,4,الانعام لعبره نسقيكم مما,بطونها,0.0,0.0,0.0,0.0
+689,199,addition & subtraction,L2 group anchor + divergence,4,الله هو العلي الكبير,دونه هو الباطل,0.0,0.0,0.0,0.0
+690,199,addition & subtraction,L2 group anchor + divergence,4,الله هو العلي الكبير,دونه الباطل,0.0,0.0,0.0,0.0
+691,200,replacement,L2 group anchor + divergence,4,كف ايديهم عنكم وايديكم,ايديهم عنكم وايديكم عنهم,0.75,0.75,0.75,1.0
+692,200,replacement,L2 group anchor + divergence,4,فكف ايديهم عنكم واتقوا,ايديهم عنكم,0.5,1.0,0.6666666666666666,1.0
+693,201,replacement,L2 group anchor + divergence,5,التي احصنت فرجها فنفخنا فيه,فنفخنا فيه,0.4,1.0,0.5714285714285715,1.0
+694,201,replacement,L2 group anchor + divergence,5,والتي احصنت فرجها فنفخنا فيها,فنفخنا فيها,0.4,1.0,0.5714285714285715,1.0
+695,202,replacement,L2 group anchor + divergence,3,الي جهنم وبءس,وبءس المهاد,0.3333333333333333,0.5,0.4,1.0
+696,202,replacement,L2 group anchor + divergence,3,ماواهم جهنم وبءس,وبءس المهاد,0.3333333333333333,0.5,0.4,1.0
+697,202,replacement,L2 group anchor + divergence,3,وماواهم جهنم وبءس,وبءس المهاد,0.3333333333333333,0.5,0.4,1.0
+698,202,replacement,L2 group anchor + divergence,2,جهنم يصلونها,وبءس القرار,0.0,0.0,0.0,0.0
+699,202,replacement,L2 group anchor + divergence,3,فحسبه جهنم ولبءس,ولبءس المهاد,0.3333333333333333,0.5,0.4,1.0
+700,202,replacement,L2 group anchor + divergence,2,جهنم يصلونها,فبءس المهاد,0.0,0.0,0.0,0.0
+701,202,replacement,L2 group anchor + divergence,0,,فبءس القرار,0.0,0.0,0.0,0.0
+702,203,replacement,L2 group anchor + divergence,5,رب اني يكون لي ولد,اني يكون لي ولد,0.8,1.0,0.888888888888889,1.0
+703,203,replacement,L2 group anchor + divergence,5,رب اني يكون لي غلام,اني يكون لي غلام,0.8,1.0,0.888888888888889,1.0
+704,203,replacement,L2 group anchor + divergence,5,رب اني يكون لي غلام,اني يكون لي غلام,0.8,1.0,0.888888888888889,1.0
+705,203,replacement,L2 group anchor + divergence,5,قالت اني يكون لي غلام,اني يكون لي غلام,0.8,1.0,0.888888888888889,1.0
+706,204,replacement,L2 group anchor + divergence,3,وكفي بالله وكيلا,وكفي بالله وكيلا,1.0,1.0,1.0,1.0
+707,204,replacement,L2 group anchor + divergence,3,وكفي بالله وكيلا,وكفي بالله وكيلا,1.0,1.0,1.0,1.0
+708,204,replacement,L2 group anchor + divergence,3,فامنوا بالله ورسله,وكفي بالله وكيلا,0.0,0.0,0.0,0.0
+709,204,replacement,L2 group anchor + divergence,3,وكفي بالله وكيلا,وكفي بالله وكيلا,1.0,1.0,1.0,1.0
+710,204,replacement,L2 group anchor + divergence,3,وكفي بالله وكيلا,وكفي بالله وكيلا,1.0,1.0,1.0,1.0
+711,204,replacement,L2 group anchor + divergence,3,وكفي بالله حسيبا,وكفي بالله حسيبا,1.0,1.0,1.0,1.0
+712,204,replacement,L2 group anchor + divergence,3,وكفي بالله حسيبا,وكفي بالله حسيبا,1.0,1.0,1.0,1.0
+713,204,replacement,L2 group anchor + divergence,3,وكفي بالله وليا,وكفي بالله وليا وكفي بالله نصيرا,1.0,0.5,0.6666666666666666,1.0
+714,204,replacement,L2 group anchor + divergence,3,وكفي بالله شهيدا,وكفي بالله شهيدا,1.0,1.0,1.0,1.0
+715,204,replacement,L2 group anchor + divergence,3,وكفي بالله شهيدا,وكفي بالله شهيدا,1.0,1.0,1.0,1.0
+716,204,replacement,L2 group anchor + divergence,3,فكفي بالله شهيدا,فكفي بالله شهيدا,1.0,1.0,1.0,1.0
+717,204,replacement,L2 group anchor + divergence,3,كفي بالله شهيدا,قل كفي بالله شهيدا,1.0,0.75,0.8571428571428571,1.0
+718,204,replacement,L2 group anchor + divergence,3,كفي بالله شهيدا,قل كفي بالله شهيدا,1.0,0.75,0.8571428571428571,1.0
+719,204,replacement,L2 group anchor + divergence,3,وكفي بالله شهيدا,وكفي بالله شهيدا,1.0,1.0,1.0,1.0
+720,205,replacement,L2 group anchor + divergence,3,اولم يهد للذين,اولم يهد,0.6666666666666666,1.0,0.8,1.0
+721,205,replacement,L2 group anchor + divergence,3,اولم يهد لهم,اولم يهد,0.6666666666666666,1.0,0.8,1.0
+722,205,replacement,L2 group anchor + divergence,3,افلم يهد لهم,افلم يهد,0.6666666666666666,1.0,0.8,1.0
+723,206,replacement,L2 group anchor + divergence,5,وما كان جواب قومه الا,وما كان جواب قومه,0.8,1.0,0.888888888888889,1.0
+724,206,replacement,L2 group anchor + divergence,5,فما كان جواب قومه الا,فما كان جواب قومه,0.8,1.0,0.888888888888889,1.0
+725,206,replacement,L2 group anchor + divergence,5,فما كان جواب قومه الا,فما كان جواب قومه,0.8,1.0,0.888888888888889,1.0
+726,206,replacement,L2 group anchor + divergence,5,فما كان جواب قومه الا,فما كان جواب قومه,0.8,1.0,0.888888888888889,1.0
+727,207,replacement,L2 group anchor + divergence,3,وجاء السحره فرعون,وجاء السحره,0.6666666666666666,1.0,0.8,1.0
+728,207,replacement,L2 group anchor + divergence,3,جاء السحره قال,فلما جاء السحره,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+729,207,replacement,L2 group anchor + divergence,3,جاء السحره قالوا,فلما جاء السحره,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+730,208,replacement,L2 group anchor + divergence,2,ولما بلغ,ولما بلغ اشده,1.0,0.6666666666666666,0.8,1.0
+731,208,replacement,L2 group anchor + divergence,2,ولما جهزهم,ولما جهزهم,1.0,1.0,1.0,1.0
+732,208,replacement,L2 group anchor + divergence,2,ولما فتحوا,ولما فتحوا,1.0,1.0,1.0,1.0
+733,208,replacement,L2 group anchor + divergence,2,ولما دخلوا,ولما دخلوا,1.0,1.0,1.0,1.0
+734,208,replacement,L2 group anchor + divergence,2,ولما دخلوا,ولما دخلوا,1.0,1.0,1.0,1.0
+735,208,replacement,L2 group anchor + divergence,2,ولما فصلت,ولما فصلت,1.0,1.0,1.0,1.0
+736,209,replacement,L2 group anchor + divergence,4,وتقطعوا امرهم بينهم كل,وتقطعوا امرهم,0.5,1.0,0.6666666666666666,1.0
+737,209,replacement,L2 group anchor + divergence,4,فتقطعوا امرهم بينهم زبرا,فتقطعوا امرهم,0.5,1.0,0.6666666666666666,1.0
+738,210,multiple differences,L2 group anchor + divergence,5,شيء فمتاع الحياه الدنيا وزينتها,وما اوتيتم من شيء الدنيا وزينتها,0.6,0.5,0.5454545454545454,1.0
+739,210,multiple differences,L2 group anchor + divergence,5,شيء فمتاع الحياه الدنيا وما,فما اوتيتم من شيء الدنيا,0.4,0.4,0.4000000000000001,1.0
+740,211,replacement,L2 group anchor + divergence,6,وعجبوا ان جاءهم منذر منهم وقال,وقال الكافرون هذا,0.16666666666666666,0.3333333333333333,0.2222222222222222,1.0
+741,211,replacement,L2 group anchor + divergence,6,عجبوا ان جاءهم منذر منهم فقال,فقال الكافرون هذا,0.16666666666666666,0.3333333333333333,0.2222222222222222,1.0
+742,212,replacement,L2 group anchor + divergence,3,الانسان ضر دعا,واذا مس الانسان ضر,0.6666666666666666,0.5,0.5714285714285715,1.0
+743,212,replacement,L2 group anchor + divergence,3,الانسان ضر دعانا,فاذا مس الانسان ضر,0.6666666666666666,0.5,0.5714285714285715,1.0
+744,212,replacement,L2 group anchor + divergence,3,الناس ضر دعوا,واذا مس الناس ضر,0.6666666666666666,0.5,0.5714285714285715,1.0
+745,212,replacement,L2 group anchor + divergence,3,الي ضر مسه,واذا مس الانسان الضر,0.0,0.0,0.0,0.0
+748,215,replacement,L2 group anchor + divergence,5,ان في ذلك لايه وما,ان في ذلك لايه,0.8,1.0,0.888888888888889,1.0
+749,215,replacement,L2 group anchor + divergence,5,ان في ذلك لايه وما,ان في ذلك لايه,0.8,1.0,0.888888888888889,1.0
+750,215,replacement,L2 group anchor + divergence,5,ان في ذلك لايه وما,ان في ذلك لايه,0.8,1.0,0.888888888888889,1.0
+751,215,replacement,L2 group anchor + divergence,5,ان في ذلك لايه وما,ان في ذلك لايه,0.8,1.0,0.888888888888889,1.0
+752,215,replacement,L2 group anchor + divergence,6,فاهلكناهم ان في ذلك لايه وما,ان في ذلك لايه,0.6666666666666666,1.0,0.8,1.0
+753,215,replacement,L2 group anchor + divergence,6,العذاب ان في ذلك لايه وما,ان في ذلك لايه,0.6666666666666666,1.0,0.8,1.0
+754,215,replacement,L2 group anchor + divergence,5,ان في ذلك لايه وما,ان في ذلك لايه,0.8,1.0,0.888888888888889,1.0
+755,215,replacement,L2 group anchor + divergence,5,ان في ذلك لايه وما,ان في ذلك لايه,0.8,1.0,0.888888888888889,1.0
+756,215,replacement,L2 group anchor + divergence,6,الثمرات ان في ذلك لايه لقوم,ان في ذلك لايه,0.6666666666666666,1.0,0.8,1.0
+757,215,replacement,L2 group anchor + divergence,6,الوانه ان في ذلك لايه لقوم,ان في ذلك لايه,0.6666666666666666,1.0,0.8,1.0
+758,215,replacement,L2 group anchor + divergence,6,موتها ان في ذلك لايه لقوم,ان في ذلك لايه,0.6666666666666666,1.0,0.8,1.0
+759,215,replacement,L2 group anchor + divergence,6,حسنا ان في ذلك لايه لقوم,ان في ذلك لايه,0.6666666666666666,1.0,0.8,1.0
+760,215,replacement,L2 group anchor + divergence,6,للناس ان في ذلك لايه لقوم,ان في ذلك لايه,0.6666666666666666,1.0,0.8,1.0
+761,215,replacement,L2 group anchor + divergence,6,الملاءكه ان في ذلك لايه لكم,ان في ذلك لايه,0.6666666666666666,1.0,0.8,1.0
+762,215,replacement,L2 group anchor + divergence,6,بيوتكم ان في ذلك لايه لكم,ان في ذلك لايه,0.6666666666666666,1.0,0.8,1.0
+763,215,replacement,L2 group anchor + divergence,5,ان في ذلك لايه لمن,ان في ذلك لايه,0.8,1.0,0.888888888888889,1.0
+764,215,replacement,L2 group anchor + divergence,5,ان في ذلك لايه للمءمنين,ان في ذلك لايه,0.8,1.0,0.888888888888889,1.0
+765,215,replacement,L2 group anchor + divergence,6,ظلموا ان في ذلك لايه لقوم,ان في ذلك لايه,0.6666666666666666,1.0,0.8,1.0
+766,215,replacement,L2 group anchor + divergence,6,بالحق ان في ذلك لايه للمءمنين,ان في ذلك لايه,0.6666666666666666,1.0,0.8,1.0
+767,215,replacement,L2 group anchor + divergence,6,السماء ان في ذلك لايه لكل,ان في ذلك لايه,0.6666666666666666,1.0,0.8,1.0
+768,216,multiple differences,L2 group anchor + divergence,4,تجزي نفس عن نفس,ولا يقبل منها شفاعه ولا يءخذ منها عدل,0.0,0.0,0.0,0.0
+769,216,multiple differences,L2 group anchor + divergence,4,تجزي نفس عن نفس,ولا يقبل منها عدل ولا تنفعها شفاعه,0.0,0.0,0.0,0.0
+770,217,replacement,L2 group anchor + divergence,5,يذبحون ابناءكم ويستحيون نساءكم وفي,يذبحون ابناءكم,0.4,1.0,0.5714285714285715,1.0
+771,217,replacement,L2 group anchor + divergence,5,ويذبحون ابناءكم ويستحيون نساءكم وفي,ويذبحون ابناءكم,0.4,1.0,0.5714285714285715,1.0
+772,217,replacement,L2 group anchor + divergence,5,يقتلون ابناءكم ويستحيون نساءكم وفي,يقتلون ابناءكم,0.4,1.0,0.5714285714285715,1.0
+773,218,addition & subtraction,L2 group anchor + divergence,5,واذ قال موسي لقومه يا,واذ قال موسي لقومه يا قوم,1.0,0.8333333333333334,0.9090909090909091,1.0
+774,218,addition & subtraction,L2 group anchor + divergence,5,واذ قال موسي لقومه يا,واذ قال موسي لقومه يا قوم,1.0,0.8333333333333334,0.9090909090909091,1.0
+775,218,addition & subtraction,L2 group anchor + divergence,5,واذ قال موسي لقومه يا,واذ قال موسي لقومه يا قوم,1.0,0.8333333333333334,0.9090909090909091,1.0
+776,218,addition & subtraction,L2 group anchor + divergence,5,واذ قال موسي لقومه ان,واذ قال موسي لقومه,0.8,1.0,0.888888888888889,1.0
+777,218,addition & subtraction,L2 group anchor + divergence,5,واذ قال موسي لقومه اذكروا,واذ قال موسي لقومه,0.8,1.0,0.888888888888889,1.0
+778,219,replacement,L2 group anchor + divergence,6,يضل عن سبيله وهو اعلم بالمهتدين,اعلم من يضل,0.16666666666666666,0.3333333333333333,0.2222222222222222,1.0
+779,219,replacement,L2 group anchor + divergence,6,ضل عن سبيله وهو اعلم بالمهتدين,اعلم بمن ضل,0.16666666666666666,0.3333333333333333,0.2222222222222222,1.0
+780,219,replacement,L2 group anchor + divergence,6,ضل عن سبيله وهو اعلم بمن,اعلم بمن ضل,0.16666666666666666,0.3333333333333333,0.2222222222222222,1.0
+781,219,replacement,L2 group anchor + divergence,6,ضل عن سبيله وهو اعلم بالمهتدين,اعلم بمن ضل,0.16666666666666666,0.3333333333333333,0.2222222222222222,1.0
+782,220,replacement,L2 group anchor + divergence,3,وتعالي عما يصفون,وتعالي عما يصفون,1.0,1.0,1.0,1.0
+783,220,replacement,L2 group anchor + divergence,3,الله عما يصفون,سبحان الله عما يصفون,1.0,0.75,0.8571428571428571,1.0
+784,220,replacement,L2 group anchor + divergence,3,الله عما يصفون,سبحان الله عما يصفون,1.0,0.75,0.8571428571428571,1.0
+785,221,replacement,L2 group anchor + divergence,4,ياتكم رسل منكم يقصون,منكم يقصون عليكم اياتي,0.5,0.5,0.5,1.0
+786,221,replacement,L2 group anchor + divergence,4,ياتينكم رسل منكم يقصون,منكم يقصون عليكم اياتي,0.5,0.5,0.5,1.0
+787,221,replacement,L2 group anchor + divergence,4,ياتكم رسل منكم يتلون,منكم يتلون عليكم ايات ربكم,0.5,0.4,0.4444444444444445,1.0
+788,222,replacement,L2 group anchor + divergence,5,اهلها بالباساء والضراء لعلهم يضرعون,لعلهم يضرعون,0.4,1.0,0.5714285714285715,1.0
+789,222,replacement,L2 group anchor + divergence,5,فاخذناهم بالباساء والضراء لعلهم يتضرعون,لعلهم يتضرعون,0.4,1.0,0.5714285714285715,1.0
+790,223,replacement,L2 group anchor + divergence,5,ايه ولكن اكثرهم لا يعلمون,ولكن اكثرهم لا يعلمون,0.8,1.0,0.888888888888889,1.0
+791,223,replacement,L2 group anchor + divergence,5,الله ولكن اكثرهم لا يعلمون,ولكن اكثرهم لا يعلمون,0.8,1.0,0.888888888888889,1.0
+792,223,replacement,L2 group anchor + divergence,5,المتقون ولكن اكثرهم لا يعلمون,ولكن اكثرهم لا يعلمون,0.8,1.0,0.888888888888889,1.0
+793,223,replacement,L2 group anchor + divergence,5,حق ولكن اكثرهم لا يعلمون,ولكن اكثرهم لا يعلمون,0.8,1.0,0.888888888888889,1.0
+794,223,replacement,L2 group anchor + divergence,5,حق ولكن اكثرهم لا يعلمون,ولكن اكثرهم لا يعلمون,0.8,1.0,0.888888888888889,1.0
+795,223,replacement,L2 group anchor + divergence,5,لدنا ولكن اكثرهم لا يعلمون,ولكن اكثرهم لا يعلمون,0.8,1.0,0.888888888888889,1.0
+796,223,replacement,L2 group anchor + divergence,5,ذلك ولكن اكثرهم لا يعلمون,ولكن اكثرهم لا يعلمون,0.8,1.0,0.888888888888889,1.0
+797,223,replacement,L2 group anchor + divergence,5,فتنه ولكن اكثرهم لا يعلمون,ولكن اكثرهم لا يعلمون,0.8,1.0,0.888888888888889,1.0
+798,223,replacement,L2 group anchor + divergence,5,بالحق ولكن اكثرهم لا يعلمون,ولكن اكثرهم لا يعلمون,0.8,1.0,0.888888888888889,1.0
+799,224,replacement,L2 group anchor + divergence,3,الناس لا يءمنون,ولكن اكثر الناس لا يءمنون,1.0,0.6,0.7499999999999999,1.0
+800,224,replacement,L2 group anchor + divergence,3,الناس لا يءمنون,ولكن اكثر الناس لا يءمنون,1.0,0.6,0.7499999999999999,1.0
+801,224,replacement,L2 group anchor + divergence,3,الناس لا يءمنون,ولكن اكثر الناس لا يءمنون,1.0,0.6,0.7499999999999999,1.0
+802,224,replacement,L2 group anchor + divergence,3,اكثرهم لا يءمنون,بل اكثرهم لا يءمنون,1.0,0.75,0.8571428571428571,1.0
+803,225,replacement,L2 group anchor + divergence,3,اكثرهم لا يشكرون,ولكن اكثرهم لا يشكرون,1.0,0.75,0.8571428571428571,1.0
+804,225,replacement,L2 group anchor + divergence,3,اكثرهم لا يشكرون,ولكن اكثرهم لا يشكرون,1.0,0.75,0.8571428571428571,1.0
+805,225,replacement,L2 group anchor + divergence,3,الناس لا يشكرون,ولكن اكثر الناس لا يشكرون,1.0,0.6,0.7499999999999999,1.0
+806,225,replacement,L2 group anchor + divergence,3,الناس لا يشكرون,ولكن اكثر الناس لا يشكرون,1.0,0.6,0.7499999999999999,1.0
+807,225,replacement,L2 group anchor + divergence,3,الناس لا يشكرون,ولكن اكثر الناس لا يشكرون,1.0,0.6,0.7499999999999999,1.0
+808,226,addition & subtraction,L2 group anchor + divergence,2,قال يا,قال يا ابليس ما لك,1.0,0.4,0.5714285714285715,1.0
+809,226,addition & subtraction,L2 group anchor + divergence,2,قال يا,قال يا ابليس ما منعك,1.0,0.4,0.5714285714285715,1.0
+810,226,addition & subtraction,L2 group anchor + divergence,2,قال ما,قال ما منعك,1.0,0.6666666666666666,0.8,1.0
+811,227,addition & subtraction,L2 group anchor + divergence,4,جنات عدن يدخلونها تجري,جنات عدن يدخلونها,0.75,1.0,0.8571428571428571,1.0
+812,227,addition & subtraction,L2 group anchor + divergence,4,جنات عدن يدخلونها ومن,جنات عدن يدخلونها,0.75,1.0,0.8571428571428571,1.0
+813,227,addition & subtraction,L2 group anchor + divergence,4,جنات عدن يدخلونها يحلون,جنات عدن يدخلونها,0.75,1.0,0.8571428571428571,1.0
+814,228,addition & subtraction,L2 group anchor + divergence,4,في سبيل الله وليعفوا,والمساكين,0.0,0.0,0.0,0.0
+815,228,addition & subtraction,L2 group anchor + divergence,4,وفي سبيل الله وابن,والمساكين,0.0,0.0,0.0,0.0
+816,229,replacement,L2 group anchor + divergence,3,سبلا لعلهم يهتدون,لعلهم يهتدون,0.6666666666666666,1.0,0.8,1.0
+817,229,replacement,L2 group anchor + divergence,3,الكتاب لعلهم يهتدون,لعلهم يهتدون,0.6666666666666666,1.0,0.8,1.0
+818,229,replacement,L2 group anchor + divergence,3,قبلك لعلهم يهتدون,لعلهم يهتدون,0.6666666666666666,1.0,0.8,1.0
+819,229,replacement,L2 group anchor + divergence,3,الثمرات لعلهم يشكرون,لعلهم يشكرون,0.6666666666666666,1.0,0.8,1.0
+820,230,replacement,L2 group anchor + divergence,5,الوانه ثم يهيج فتراه مصفرا,يجعله حطاما,0.0,0.0,0.0,0.0
+821,230,replacement,L2 group anchor + divergence,5,نباته ثم يهيج فتراه مصفرا,يكون حطاما,0.0,0.0,0.0,0.0
+822,231,replacement,L2 group anchor + divergence,4,الرزق لمن يشاء ويقدر,اولم يعلموا ان الله يبسط الرزق,0.25,0.16666666666666666,0.2,1.0
+823,231,replacement,L2 group anchor + divergence,4,الرزق لمن يشاء ويقدر,اولم يروا ان الله يبسط الرزق,0.25,0.16666666666666666,0.2,1.0
+824,232,replacement,L2 group anchor + divergence,4,واذا قيل لهم اتبعوا,بل نتبع ما الفينا,0.0,0.0,0.0,0.0
+825,232,replacement,L2 group anchor + divergence,4,واذا قيل لهم اتبعوا,بل نتبع ما وجدنا,0.0,0.0,0.0,0.0
+826,233,replacement,L2 group anchor + divergence,3,ومن يكفر بالله,والكتاب الذي نزل والكتاب الذي انزل,0.0,0.0,0.0,0.0
+827,233,replacement,L2 group anchor + divergence,3,الله يكفر بها,وقد نزل عليكم,0.0,0.0,0.0,0.0
+828,234,replacement,L2 group anchor + divergence,5,امن واصلح فلا خوف عليهم,فمن امن واصلح,0.4,0.6666666666666666,0.5,1.0
+829,234,replacement,L2 group anchor + divergence,5,اتقي واصلح فلا خوف عليهم,فمن اتقي واصلح,0.4,0.6666666666666666,0.5,1.0
+830,235,replacement,L2 group anchor + divergence,5,يتم نوره ولو كره الكافرون,يريدون ان يطفءوا,0.0,0.0,0.0,0.0
+831,235,replacement,L2 group anchor + divergence,5,متم نوره ولو كره الكافرون,يريدون ليطفءوا,0.0,0.0,0.0,0.0
+832,236,addition & subtraction,L2 group anchor + divergence,4,واذا انزلت سوره ان,واذا انزلت سوره,0.75,1.0,0.8571428571428571,1.0
+833,236,addition & subtraction,L2 group anchor + divergence,4,ما انزلت سوره فمنهم,واذا ما انزلت سوره,0.75,0.75,0.75,1.0
+834,236,addition & subtraction,L2 group anchor + divergence,4,ما انزلت سوره نظر,واذا ما انزلت سوره,0.75,0.75,0.75,1.0
+835,237,order change,L2 group anchor + divergence,5,فلا يستاخرون ساعه ولا يستقدمون,اذا جاء اجلهم فلا يستاخرون,0.4,0.4,0.4000000000000001,1.0
+836,237,order change,L2 group anchor + divergence,5,لا يستاخرون ساعه ولا يستقدمون,فاذا جاء اجلهم لا يستاخرون,0.4,0.4,0.4000000000000001,1.0
+837,237,order change,L2 group anchor + divergence,5,لا يستاخرون ساعه ولا يستقدمون,فاذا جاء اجلهم لا يستاخرون,0.4,0.4,0.4000000000000001,1.0
+838,238,replacement,L2 group anchor + divergence,4,جرم انهم في الاخره,لا جرم انهم في الاخره هم الاخسرون,1.0,0.5714285714285714,0.7272727272727273,1.0
+839,238,replacement,L2 group anchor + divergence,4,جرم انهم في الاخره,لا جرم انهم في الاخره هم الخاسرون,1.0,0.5714285714285714,0.7272727272727273,1.0
+840,239,replacement,L2 group anchor + divergence,5,ينحتون من الجبال بيوتا امنين,من الجبال بيوتا امنين,0.8,1.0,0.888888888888889,1.0
+841,239,replacement,L2 group anchor + divergence,5,وتنحتون من الجبال بيوتا فارهين,من الجبال بيوتا فارهين,0.8,1.0,0.888888888888889,1.0
+842,240,replacement,L2 group anchor + divergence,5,اهبطوا بعضكم لبعض عدو ولكم,وقلنا اهبطوا,0.2,0.5,0.28571428571428575,1.0
+843,240,replacement,L2 group anchor + divergence,0,,قلنا اهبطوا,0.0,0.0,0.0,0.0
+844,240,replacement,L2 group anchor + divergence,5,اهبطوا بعضكم لبعض عدو ولكم,قال اهبطوا,0.2,0.5,0.28571428571428575,1.0
+845,240,replacement,L2 group anchor + divergence,5,جميعا بعضكم لبعض عدو فاما,قال اهبطا,0.0,0.0,0.0,0.0
+846,241,addition & subtraction,L2 group anchor + divergence,4,اليكم ايات مبينات ومثلا,ولقد انزلنا اليكم ايات مبينات,0.75,0.6,0.6666666666666665,1.0
+847,241,addition & subtraction,L2 group anchor + divergence,4,انزلنا ايات مبينات والله,لقد انزلنا ايات مبينات,0.75,0.75,0.75,1.0
+848,242,replacement,L2 group anchor + divergence,4,الاسواق لولا انزل اليه,لولا انزل اليه,0.75,1.0,0.8571428571428571,1.0
+849,242,replacement,L2 group anchor + divergence,4,وقالوا لولا انزل عليه,لولا انزل عليه,0.75,1.0,0.8571428571428571,1.0
+850,243,addition & subtraction,L2 group anchor + divergence,4,اذ قال لهم اخوهم,اذ قال لهم اخوهم نوح,1.0,0.8,0.888888888888889,1.0
+851,243,addition & subtraction,L2 group anchor + divergence,4,اذ قال لهم اخوهم,اذ قال لهم اخوهم هود,1.0,0.8,0.888888888888889,1.0
+852,243,addition & subtraction,L2 group anchor + divergence,4,اذ قال لهم اخوهم,اذ قال لهم اخوهم صالح,1.0,0.8,0.888888888888889,1.0
+853,243,addition & subtraction,L2 group anchor + divergence,4,اذ قال لهم اخوهم,اذ قال لهم اخوهم لوط,1.0,0.8,0.888888888888889,1.0
+854,243,addition & subtraction,L2 group anchor + divergence,4,اذ قال لهم شعيب,اذ قال لهم شعيب,1.0,1.0,1.0,1.0
+855,244,replacement,L2 group anchor + divergence,5,وانجينا الذين امنوا وكانوا يتقون,وانجينا الذين امنوا,0.6,1.0,0.7499999999999999,1.0
+856,244,replacement,L2 group anchor + divergence,5,ونجينا الذين امنوا وكانوا يتقون,ونجينا الذين امنوا,0.6,1.0,0.7499999999999999,1.0
+857,245,addition & subtraction,L2 group anchor + divergence,4,راها تهتز كانها جان,يا موسي اقبل ولا تخف,0.0,0.0,0.0,0.0
+858,245,addition & subtraction,L2 group anchor + divergence,4,راها تهتز كانها جان,يا موسي لا تخف,0.0,0.0,0.0,0.0
+860,247,replacement,L2 group anchor + divergence,5,اياتنا بينات قالوا ما هذا,الا افك مفتري,0.0,0.0,0.0,0.0
+861,247,replacement,L2 group anchor + divergence,5,باياتنا بينات قالوا ما هذا,الا سحر مفتري,0.0,0.0,0.0,0.0
+863,249,replacement,L2 group anchor + divergence,4,ما جاءهم العلم بغيا,الا من بعد ما جاءهم العلم بغيا بينهم,1.0,0.5,0.6666666666666666,1.0
+864,249,replacement,L2 group anchor + divergence,4,ما جاءهم العلم بغيا,الا من بعد ما جاءهم العلم بغيا بينهم,1.0,0.5,0.6666666666666666,1.0
+865,249,replacement,L2 group anchor + divergence,4,ما جاءهم العلم بغيا,الا من بعد ما جاءهم العلم بغيا بينهم,1.0,0.5,0.6666666666666666,1.0
+866,249,replacement,L2 group anchor + divergence,4,حتي جاءهم العلم ان,حتي جاءهم العلم,0.75,1.0,0.8571428571428571,1.0
+867,250,replacement,L2 group anchor + divergence,5,ابراهيم رب اجعل هذا بلدا,بلدا امنا,0.2,0.5,0.28571428571428575,1.0
+868,250,replacement,L2 group anchor + divergence,5,ابراهيم رب اجعل هذا البلد,البلد امنا,0.2,0.5,0.28571428571428575,1.0
+869,251,replacement,L2 group anchor + divergence,5,يتوفون منكم ويذرون ازواجا يتربصن,انفسهن بالمعروف,0.0,0.0,0.0,0.0
+870,251,replacement,L2 group anchor + divergence,5,يتوفون منكم ويذرون ازواجا وصيه,انفسهن من معروف,0.0,0.0,0.0,0.0
+872,253,multiple differences,L2 group anchor + divergence,3,فقد كذبوا بالحق,فقد كذبوا بالحق لما جاءهم فسوف ياتيهم,1.0,0.42857142857142855,0.6,1.0
+873,253,multiple differences,L2 group anchor + divergence,3,فقد كذبوا فسياتيهم,فقد كذبوا فسياتيهم,1.0,1.0,1.0,1.0
+874,253,multiple differences,L2 group anchor + divergence,3,بل كذبوا بالحق,بل كذبوا بالحق لما جاءهم,1.0,0.6,0.7499999999999999,1.0
+875,254,multiple differences,L2 group anchor + divergence,5,جعله الله الا بشري ولتطمءن,بشري به قلوبكم ان الله عزيز حكيم,0.2,0.14285714285714285,0.16666666666666666,1.0
+876,254,multiple differences,L2 group anchor + divergence,5,جعله الله الا بشري لكم,بشري لكم قلوبكم به العزيز الحكيم,0.4,0.3333333333333333,0.3636363636363636,1.0
+877,255,addition & subtraction,L2 group anchor + divergence,4,انهم كفروا بالله وبرسوله,كفروا بالله وبرسوله,0.75,1.0,0.8571428571428571,1.0
+878,255,addition & subtraction,L2 group anchor + divergence,4,بانهم كفروا بالله ورسوله,كفروا بالله ورسوله,0.75,1.0,0.8571428571428571,1.0
+879,255,addition & subtraction,L2 group anchor + divergence,4,انهم كفروا بالله ورسوله,كفروا بالله ورسوله,0.75,1.0,0.8571428571428571,1.0
+880,256,addition & subtraction,L2 group anchor + divergence,5,ان يخرجكم من ارضكم بسحره,يخرجكم من ارضكم بسحره,0.8,1.0,0.888888888888889,1.0
+881,256,addition & subtraction,L2 group anchor + divergence,5,ان يخرجكم من ارضكم فماذا,يخرجكم من ارضكم,0.6,1.0,0.7499999999999999,1.0
+882,257,multiple differences,L2 group anchor + divergence,3,يشرك في حكمه,ابصر به واسمع,0.0,0.0,0.0,0.0
+883,257,multiple differences,L2 group anchor + divergence,3,اليوم في ضلال,اسمع بهم وابصر,0.0,0.0,0.0,0.0
+884,258,addition & subtraction,L2 group anchor + divergence,5,بالحق من عندنا قالوا اقتلوا,فلما جاءهم بالحق,0.2,0.3333333333333333,0.25,1.0
+885,258,addition & subtraction,L2 group anchor + divergence,5,الحق من عندنا قالوا لولا,فلما جاءهم الحق,0.2,0.3333333333333333,0.25,1.0
+886,258,addition & subtraction,L2 group anchor + divergence,5,الحق من عندنا قالوا ان,فلما جاءهم الحق,0.2,0.3333333333333333,0.25,1.0
+887,259,replacement,L2 group anchor + divergence,4,يكذبوك فقد كذب الذين,بالبينات وبالزبر وبالكتاب,0.0,0.0,0.0,0.0
+888,259,replacement,L2 group anchor + divergence,4,كذبوك فقد كذب رسل,بالبينات والزبر والكتاب,0.0,0.0,0.0,0.0
+889,260,replacement,L2 group anchor + divergence,4,الذين اتيناهم الكتاب يتلونه,الذين اتيناهم الكتاب يتلونه,1.0,1.0,1.0,1.0
+890,260,replacement,L2 group anchor + divergence,4,الذين اتيناهم الكتاب يعرفونه,الذين اتيناهم الكتاب يعرفونه,1.0,1.0,1.0,1.0
+891,260,replacement,L2 group anchor + divergence,4,الذين اتيناهم الكتاب يعرفونه,الذين اتيناهم الكتاب يعرفونه,1.0,1.0,1.0,1.0
+892,261,addition & subtraction,L2 group anchor + divergence,3,تتوفاهم الملاءكه ظالمي,الذين تتوفاهم,0.3333333333333333,0.5,0.4,1.0
+893,261,addition & subtraction,L2 group anchor + divergence,3,تتوفاهم الملاءكه طيبين,الذين تتوفاهم,0.3333333333333333,0.5,0.4,1.0
+894,261,addition & subtraction,L2 group anchor + divergence,3,توفاهم الملاءكه ظالمي,الذين توفاهم,0.3333333333333333,0.5,0.4,1.0
+895,262,multiple differences,L2 group anchor + divergence,4,تدعوهم الي الهدي لا,وان تدعوهم الي الهدي لا يتبعوكم,1.0,0.6666666666666666,0.8,1.0
+896,262,multiple differences,L2 group anchor + divergence,4,تدعوهم الي الهدي لا,وان تدعوهم الي الهدي لا يسمعوا,1.0,0.6666666666666666,0.8,1.0
+897,262,multiple differences,L2 group anchor + divergence,0,,ان تدعوهم لا يسمعوا,0.0,0.0,0.0,0.0
+898,262,multiple differences,L2 group anchor + divergence,4,تدعهم الي الهدي فلن,وان تدعهم الي الهدي فلن يهتدوا,1.0,0.6666666666666666,0.8,1.0
+899,263,replacement,L2 group anchor + divergence,3,وعليه فليتوكل المتوكلون,فليتوكل المتوكلون,0.6666666666666666,1.0,0.8,1.0
+900,263,replacement,L2 group anchor + divergence,3,الله فليتوكل المتوكلون,فليتوكل المتوكلون,0.6666666666666666,1.0,0.8,1.0
+901,263,replacement,L2 group anchor + divergence,3,الله فليتوكل المءمنون,فليتوكل المءمنون,0.6666666666666666,1.0,0.8,1.0
+902,263,replacement,L2 group anchor + divergence,3,الله فليتوكل المءمنون,فليتوكل المءمنون,0.6666666666666666,1.0,0.8,1.0
+903,263,replacement,L2 group anchor + divergence,3,الله فليتوكل المءمنون,فليتوكل المءمنون,0.6666666666666666,1.0,0.8,1.0
+904,263,replacement,L2 group anchor + divergence,3,الله فليتوكل المءمنون,فليتوكل المءمنون,0.6666666666666666,1.0,0.8,1.0
+905,263,replacement,L2 group anchor + divergence,3,الله فليتوكل المءمنون,فليتوكل المءمنون,0.6666666666666666,1.0,0.8,1.0
+906,263,replacement,L2 group anchor + divergence,3,الله فليتوكل المءمنون,فليتوكل المءمنون,0.6666666666666666,1.0,0.8,1.0
+907,263,replacement,L2 group anchor + divergence,3,الله فليتوكل المءمنون,فليتوكل المءمنون,0.6666666666666666,1.0,0.8,1.0
+908,264,replacement,L2 group anchor + divergence,2,عليهم بوكيل,وما انت عليهم بوكيل,1.0,0.5,0.6666666666666666,1.0
+909,264,replacement,L2 group anchor + divergence,2,عليهم بوكيل,وما انت عليهم بوكيل,1.0,0.5,0.6666666666666666,1.0
+910,264,replacement,L2 group anchor + divergence,2,عليهم بوكيل,وما انت عليهم بوكيل,1.0,0.5,0.6666666666666666,1.0
+911,264,replacement,L2 group anchor + divergence,2,عليكم بوكيل,وما انا عليكم بوكيل,1.0,0.5,0.6666666666666666,1.0
+912,264,replacement,L2 group anchor + divergence,2,عليكم بوكيل,قل لست عليكم بوكيل,1.0,0.5,0.6666666666666666,1.0
+913,265,replacement,L2 group anchor + divergence,5,خلقكم من نفس واحده ثم,ثم جعل منها زوجها,0.2,0.25,0.22222222222222224,1.0
+914,265,replacement,L2 group anchor + divergence,6,الذي خلقكم من نفس واحده وجعل,وجعل منها زوجها,0.16666666666666666,0.3333333333333333,0.2222222222222222,1.0
+915,266,replacement,L2 group anchor + divergence,5,جعلناه قرانا عربيا لعلكم تعقلون,انا جعلناه,0.2,0.5,0.28571428571428575,1.0
+916,266,replacement,L2 group anchor + divergence,5,انزلناه قرانا عربيا لعلكم تعقلون,انا انزلناه,0.2,0.5,0.28571428571428575,1.0
+917,267,replacement,L2 group anchor + divergence,3,لو نشاء لجعلناه,لجعلناه حطاما,0.3333333333333333,0.5,0.4,1.0
+918,267,replacement,L2 group anchor + divergence,3,لو نشاء جعلناه,جعلناه اجاجا,0.3333333333333333,0.5,0.4,1.0
+919,268,replacement,L2 group anchor + divergence,6,اذا جاء امرنا وفار التنور قلنا,احمل فيها سبق عليه القول,0.0,0.0,0.0,0.0
+920,268,replacement,L2 group anchor + divergence,6,فاذا جاء امرنا وفار التنور فاسلك,فاسلك فيها سبق عليه القول منهم,0.16666666666666666,0.16666666666666666,0.16666666666666666,1.0
+921,269,replacement,L2 group anchor + divergence,6,الذي خلقكم من نفس واحده وخلق,وخلق منها زوجها,0.16666666666666666,0.3333333333333333,0.2222222222222222,1.0
+922,269,replacement,L2 group anchor + divergence,6,الذي خلقكم من نفس واحده وجعل,وجعل منها زوجها,0.16666666666666666,0.3333333333333333,0.2222222222222222,1.0
+923,269,replacement,L2 group anchor + divergence,5,خلقكم من نفس واحده ثم,ثم جعل منها زوجها,0.2,0.25,0.22222222222222224,1.0
+924,270,replacement,L2 group anchor + divergence,5,سوء فان الله كان عفوا,ان تبدوا خيرا,0.0,0.0,0.0,0.0
+925,270,replacement,L2 group anchor + divergence,5,تخفوه فان الله كان بكل,ان تبدوا شيءا,0.0,0.0,0.0,0.0
+926,271,replacement,L2 group anchor + divergence,4,فقتله فاصبح من الخاسرين,فاصبح من الخاسرين,0.75,1.0,0.8571428571428571,1.0
+927,271,replacement,L2 group anchor + divergence,4,اخي فاصبح من النادمين,فاصبح من النادمين,0.75,1.0,0.8571428571428571,1.0
+928,272,replacement,L2 group anchor + divergence,5,الحياه الدنيا ولعذاب الاخره اخزي,ولعذاب الاخره اخزي,0.6,1.0,0.7499999999999999,1.0
+929,272,replacement,L2 group anchor + divergence,5,الحياه الدنيا ولعذاب الاخره اكبر,ولعذاب الاخره اكبر,0.6,1.0,0.7499999999999999,1.0
+930,273,replacement,L2 group anchor + divergence,3,عليم بما يصنعون,عليم بما يصنعون,1.0,1.0,1.0,1.0
+931,273,replacement,L2 group anchor + divergence,3,خبير بما يصنعون,خبير بما يصنعون,1.0,1.0,1.0,1.0
+933,275,addition & subtraction,L2 group anchor + divergence,5,وذي القربي واليتامي والمساكين وقولوا,وذي القربي,0.4,1.0,0.5714285714285715,1.0
+934,275,addition & subtraction,L2 group anchor + divergence,5,وبذي القربي واليتامي والمساكين والجار,وبذي القربي,0.4,1.0,0.5714285714285715,1.0
+935,276,order similarity,L2 group anchor + divergence,6,اوفوا ذلكم وصاكم به لعلكم تذكرون,ذلكم وصاكم به لعلكم تذكرون,0.8333333333333334,1.0,0.9090909090909091,1.0
+936,276,order similarity,L2 group anchor + divergence,6,سبيله ذلكم وصاكم به لعلكم تتقون,ذلكم وصاكم به لعلكم تتقون,0.8333333333333334,1.0,0.9090909090909091,1.0
+937,276,order similarity,L2 group anchor + divergence,0,,سيقولون لله قل افلا تذكرون,0.0,0.0,0.0,0.0
+938,276,order similarity,L2 group anchor + divergence,0,,سيقولون لله قل افلا تتقون,0.0,0.0,0.0,0.0
+939,277,replacement,L2 group anchor + divergence,3,الا اولو الالباب,وما يذكر الا اولو الالباب,1.0,0.6,0.7499999999999999,1.0
+940,277,replacement,L2 group anchor + divergence,3,وليذكر اولو الالباب,وليذكر اولو الالباب,1.0,1.0,1.0,1.0
+941,277,replacement,L2 group anchor + divergence,3,وليتذكر اولو الالباب,وليتذكر اولو الالباب,1.0,1.0,1.0,1.0
+942,277,replacement,L2 group anchor + divergence,0,,لعله يتذكر,0.0,0.0,0.0,0.0
+943,277,replacement,L2 group anchor + divergence,3,يتذكر اولو الالباب,انما يتذكر اولو الالباب,1.0,0.75,0.8571428571428571,1.0
+944,277,replacement,L2 group anchor + divergence,0,,وما يتذكر الا من ينيب,0.0,0.0,0.0,0.0
+945,278,multiple differences,L2 group anchor + divergence,3,منها رغدا حيث,رغدا حيث شءتما,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+946,278,multiple differences,L2 group anchor + divergence,3,شءتم رغدا وادخلوا,حيث شءتم رغدا,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+947,279,replacement,L2 group anchor + divergence,4,بضر فلا كاشف له,وان يردك بخير,0.0,0.0,0.0,0.0
+948,279,replacement,L2 group anchor + divergence,4,بضر فلا كاشف له,وان يمسسك بخير,0.0,0.0,0.0,0.0
+949,280,multiple differences,L2 group anchor + divergence,5,بينه من ربي واتاني رحمه,واتاني رحمه من عنده,0.4,0.5,0.4444444444444445,1.0
+950,280,multiple differences,L2 group anchor + divergence,5,بينه من ربي واتاني منه,واتاني منه رحمه,0.4,0.6666666666666666,0.5,1.0
+951,281,replacement,L2 group anchor + divergence,5,رسول الا كانوا به يستهزءون,من رسول,0.2,0.5,0.28571428571428575,1.0
+952,281,replacement,L2 group anchor + divergence,5,نبي الا كانوا به يستهزءون,من نبي,0.2,0.5,0.28571428571428575,1.0
+953,281,replacement,L2 group anchor + divergence,5,رسول الا كانوا به يستهزءون,من رسول,0.2,0.5,0.28571428571428575,1.0
+954,282,replacement,L2 group anchor + divergence,5,رزق فاحيا به الارض بعد,من السماء من رزق,0.2,0.25,0.22222222222222224,1.0
+955,282,replacement,L2 group anchor + divergence,5,ماء فاحيا به الارض بعد,من السماء من ماء,0.2,0.25,0.22222222222222224,1.0
+956,283,replacement,L2 group anchor + divergence,6,فبلغن اجلهن فامسكوهن بمعروف او سرحوهن,او سرحوهن بمعروف,0.3333333333333333,0.6666666666666666,0.4444444444444444,1.0
+957,283,replacement,L2 group anchor + divergence,6,بلغن اجلهن فامسكوهن بمعروف او فارقوهن,او فارقوهن بمعروف,0.3333333333333333,0.6666666666666666,0.4444444444444444,1.0
+958,284,replacement,L2 group anchor + divergence,5,ليغفر لهم ولا ليهديهم سبيلا,ولا ليهديهم سبيلا,0.6,1.0,0.7499999999999999,1.0
+959,284,replacement,L2 group anchor + divergence,5,ليغفر لهم ولا ليهديهم طريقا,ولا ليهديهم طريقا,0.6,1.0,0.7499999999999999,1.0
+960,285,replacement,L2 group anchor + divergence,2,اول المسلمين,وانا اول المسلمين,1.0,0.6666666666666666,0.8,1.0
+961,285,replacement,L2 group anchor + divergence,2,من المسلمين,ان اكون من المسلمين,1.0,0.5,0.6666666666666666,1.0
+962,285,replacement,L2 group anchor + divergence,2,من المسلمين,ان اكون من المسلمين,1.0,0.5,0.6666666666666666,1.0
+963,285,replacement,L2 group anchor + divergence,2,اول المسلمين,لان اكون اول المسلمين,1.0,0.5,0.6666666666666666,1.0
+964,286,replacement,L2 group anchor + divergence,2,اول المءمنين,وانا اول المءمنين,1.0,0.6666666666666666,0.8,1.0
+965,286,replacement,L2 group anchor + divergence,2,من المءمنين,ان اكون من المءمنين,1.0,0.5,0.6666666666666666,1.0
+966,287,replacement,L2 group anchor + divergence,2,يبعث حيا,وسلام عليه,0.0,0.0,0.0,0.0
+967,287,replacement,L2 group anchor + divergence,2,ابعث حيا,والسلام علي,0.0,0.0,0.0,0.0
+968,288,replacement,L2 group anchor + divergence,5,جعل لكم الارض مهدا وسلك,مهدا وسلك لكم,0.4,0.6666666666666666,0.5,1.0
+969,288,replacement,L2 group anchor + divergence,5,جعل لكم الارض مهدا وجعل,مهدا وجعل لكم,0.4,0.6666666666666666,0.5,1.0
+970,289,replacement,L2 group anchor + divergence,5,الي ثمره اذا اثمر وينعه,مشتبها وغير متشابه,0.0,0.0,0.0,0.0
+971,289,replacement,L2 group anchor + divergence,5,من ثمره اذا اثمر واتوا,متشابها وغير متشابه,0.0,0.0,0.0,0.0
+972,290,replacement,L2 group anchor + divergence,3,فاخذتهم الصيحه مشرقين,الصيحه مشرقين,0.6666666666666666,1.0,0.8,1.0
+973,290,replacement,L2 group anchor + divergence,3,فاخذتهم الصيحه مصبحين,الصيحه مصبحين,0.6666666666666666,1.0,0.8,1.0
+974,291,replacement,L2 group anchor + divergence,5,اذ جاءه اليس في جهنم,كذب علي الله وكذب بالصدق,0.0,0.0,0.0,0.0
+975,291,replacement,L2 group anchor + divergence,5,لما جاءه اليس في جهنم,افتري علي الله كذبا او كذب بالحق,0.0,0.0,0.0,0.0
+976,292,replacement,L2 group anchor + divergence,5,مسمي فاذا جاء اجلهم لا,الناس بظلمهم ما ترك عليها,0.0,0.0,0.0,0.0
+977,292,replacement,L2 group anchor + divergence,5,مسمي فاذا جاء اجلهم فان,الناس بما كسبوا ما ترك علي ظهرها,0.0,0.0,0.0,0.0
+978,293,replacement,L2 group anchor + divergence,4,فاختلف الاحزاب من بينهم,فويل للذين كفروا من مشهد يوم عظيم,0.0,0.0,0.0,0.0
+979,293,replacement,L2 group anchor + divergence,4,فاختلف الاحزاب من بينهم,فويل للذين ظلموا من عذاب يوم اليم,0.0,0.0,0.0,0.0
+980,294,replacement,L2 group anchor + divergence,4,صم بكم عمي فهم,صم بكم عمي فهم لا يرجعون,1.0,0.6666666666666666,0.8,1.0
+981,294,replacement,L2 group anchor + divergence,5,ونداء صم بكم عمي فهم,صم بكم عمي فهم لا يعقلون,0.8,0.6666666666666666,0.7272727272727272,1.0
+982,295,replacement,L2 group anchor + divergence,2,انهم لكاذبون,والله يعلم انهم لكاذبون,1.0,0.5,0.6666666666666666,1.0
+983,295,replacement,L2 group anchor + divergence,2,انهم لكاذبون,والله يشهد انهم لكاذبون,1.0,0.5,0.6666666666666666,1.0
+984,295,replacement,L2 group anchor + divergence,2,المنافقين لكاذبون,والله يشهد ان المنافقين لكاذبون,1.0,0.4,0.5714285714285715,1.0
+985,296,replacement,L2 group anchor + divergence,6,امن فلا تبتءس بما كانوا يفعلون,فلا تبتءس بما كانوا يفعلون,0.8333333333333334,1.0,0.9090909090909091,1.0
+986,296,replacement,L2 group anchor + divergence,6,اخوك فلا تبتءس بما كانوا يعملون,فلا تبتءس بما كانوا يعملون,0.8333333333333334,1.0,0.9090909090909091,1.0
+987,297,replacement,L2 group anchor + divergence,2,وبرا بوالديه,وبرا بوالديه ولم يكن جبارا عصيا,1.0,0.3333333333333333,0.5,1.0
+988,297,replacement,L2 group anchor + divergence,2,وبرا بوالدتي,وبرا بوالدتي ولم يجعلني جبارا شقيا,1.0,0.3333333333333333,0.5,1.0
+989,298,replacement,L2 group anchor + divergence,3,ياتيهم عذاب يوم,عذاب يوم عقيم,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+990,298,replacement,L2 group anchor + divergence,3,عليكم عذاب يوم,عذاب يوم عظيم,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+991,298,replacement,L2 group anchor + divergence,3,فياخذكم عذاب يوم,عذاب يوم عظيم,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+992,298,replacement,L2 group anchor + divergence,3,فاخذهم عذاب يوم,عذاب يوم عظيم,0.0,0.0,0.0,0.0
+993,298,replacement,L2 group anchor + divergence,3,عليكم عذاب يوم,عذاب يوم كبير,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+994,298,replacement,L2 group anchor + divergence,3,عليكم عذاب يوم,عذاب يوم محيط,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+995,298,replacement,L2 group anchor + divergence,3,فياخذكم عذاب اليم,عذاب اليم,0.6666666666666666,1.0,0.8,1.0
+996,298,replacement,L2 group anchor + divergence,3,فياخذكم عذاب قريب,عذاب قريب,0.6666666666666666,1.0,0.8,1.0
+997,299,addition & subtraction,L2 group anchor + divergence,5,انما اوتيته علي علم عندي,اوتيته علي علم عندي,0.8,1.0,0.888888888888889,1.0
+998,299,addition & subtraction,L2 group anchor + divergence,5,انما اوتيته علي علم بل,اوتيته علي علم,0.6,1.0,0.7499999999999999,1.0
+999,300,replacement,L2 group anchor + divergence,5,موتتنا الاولي وما نحن بمعذبين,وما نحن بمعذبين,0.6,1.0,0.7499999999999999,1.0
+1000,300,replacement,L2 group anchor + divergence,5,موتتنا الاولي وما نحن بمنشرين,وما نحن بمنشرين,0.6,1.0,0.7499999999999999,1.0
+1001,301,replacement,L2 group anchor + divergence,5,فاغرينا بينهم العداوه والبغضاء الي,فاغرينا بينهم العداوه,0.6,1.0,0.7499999999999999,1.0
+1002,301,replacement,L2 group anchor + divergence,5,والقينا بينهم العداوه والبغضاء الي,والقينا بينهم العداوه,0.6,1.0,0.7499999999999999,1.0
+1003,302,replacement,L2 group anchor + divergence,5,فانفجرت منه اثنتا عشره عينا,فانفجرت منه,0.4,1.0,0.5714285714285715,1.0
+1004,302,replacement,L2 group anchor + divergence,5,فانبجست منه اثنتا عشره عينا,فانبجست منه,0.4,1.0,0.5714285714285715,1.0
+1005,303,replacement,L2 group anchor + divergence,3,منها حيث شءتم,فكلوا منها حيث شءتم,1.0,0.75,0.8571428571428571,1.0
+1006,303,replacement,L2 group anchor + divergence,3,من حيث شءتما,فكلا من حيث شءتما,1.0,0.75,0.8571428571428571,1.0
+1007,304,multiple differences,L2 group anchor + divergence,5,واليوم الاخر وعمل صالحا فلهم,وعمل صالحا فلهم اجرهم عند ربهم ولا خوف,0.6,0.375,0.4615384615384615,1.0
+1008,304,multiple differences,L2 group anchor + divergence,5,واليوم الاخر وعمل صالحا فلا,وعمل صالحا فلا خوف,0.6,0.75,0.6666666666666665,1.0
+1009,305,replacement,L2 group anchor + divergence,4,الله فمن اضطر غير,فمن اضطر غير باغ ولا عاد فلا اثم عليه ان الله غفور رحيم,0.75,0.23076923076923078,0.3529411764705882,1.0
+1010,305,replacement,L2 group anchor + divergence,4,به فمن اضطر غير,فمن اضطر غير باغ ولا عاد فان ربك غفور رحيم,0.75,0.3,0.4285714285714285,1.0
+1011,305,replacement,L2 group anchor + divergence,4,به فمن اضطر غير,فمن اضطر غير باغ ولا عاد فان الله غفور رحيم,0.75,0.3,0.4285714285714285,1.0
+1012,305,replacement,L2 group anchor + divergence,4,دينا فمن اضطر في,فمن اضطر في مخمصه غير متجانف لاثم فان الله غفور رحيم,0.75,0.2727272727272727,0.39999999999999997,1.0
+1013,306,addition & subtraction,L2 group anchor + divergence,3,الزكاه فاخوانكم في,فاخوانكم في الدين,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+1014,306,addition & subtraction,L2 group anchor + divergence,3,اباءهم فاخوانكم في,فاخوانكم في الدين,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+1015,306,addition & subtraction,L2 group anchor + divergence,3,تخالطوهم فاخوانكم والله,فاخوانكم,0.3333333333333333,1.0,0.5,1.0
+1016,307,replacement,L2 group anchor + divergence,5,انما علي رسولنا البلاغ المبين,فان توليتم فاعلموا انما,0.2,0.25,0.22222222222222224,1.0
+1017,307,replacement,L2 group anchor + divergence,5,فانما علي رسولنا البلاغ المبين,فان توليتم فانما,0.2,0.3333333333333333,0.25,1.0
+1018,308,addition & subtraction,L2 group anchor + divergence,5,فالقي عصاه فاذا هي ثعبان,فالقي عصاه,0.4,1.0,0.5714285714285715,1.0
+1019,308,addition & subtraction,L2 group anchor + divergence,5,موسي عصاه فاذا هي تلقف,فالقي موسي عصاه,0.4,0.6666666666666666,0.5,1.0
+1020,308,addition & subtraction,L2 group anchor + divergence,5,فالقي عصاه فاذا هي ثعبان,فالقي عصاه,0.4,1.0,0.5714285714285715,1.0
+1021,309,replacement,L2 group anchor + divergence,3,فالقي السحره ساجدين,فالقي السحره ساجدين,1.0,1.0,1.0,1.0
+1022,309,replacement,L2 group anchor + divergence,3,فالقي السحره سجدا,فالقي السحره سجدا,1.0,1.0,1.0,1.0
+1023,309,replacement,L2 group anchor + divergence,3,والقي السحره ساجدين,والقي السحره ساجدين,1.0,1.0,1.0,1.0
+1024,310,replacement,L2 group anchor + divergence,4,اظلم ممن ذكر بايات,فاعرض عنها,0.0,0.0,0.0,0.0
+1025,310,replacement,L2 group anchor + divergence,4,اظلم ممن ذكر بايات,ثم اعرض عنها,0.0,0.0,0.0,0.0
+1026,311,identical,L2 group anchor + divergence,4,مطرا فساء مطر المنذرين,وامطرنا عليهم مطرا فساء مطر المنذرين,1.0,0.6666666666666666,0.8,1.0
+1027,311,identical,L2 group anchor + divergence,4,مطرا فساء مطر المنذرين,وامطرنا عليهم مطرا فساء مطر المنذرين,1.0,0.6666666666666666,0.8,1.0
+1028,312,replacement,L2 group anchor + divergence,4,ويقولون متي هذا الفتح,متي هذا الفتح,0.75,1.0,0.8571428571428571,1.0
+1029,312,replacement,L2 group anchor + divergence,4,ويقولون متي هذا الوعد,متي هذا الوعد,0.75,1.0,0.8571428571428571,1.0
+1030,312,replacement,L2 group anchor + divergence,4,ويقولون متي هذا الوعد,متي هذا الوعد,0.75,1.0,0.8571428571428571,1.0
+1031,312,replacement,L2 group anchor + divergence,4,ويقولون متي هذا الوعد,متي هذا الوعد,0.75,1.0,0.8571428571428571,1.0
+1032,312,replacement,L2 group anchor + divergence,4,ويقولون متي هذا الوعد,متي هذا الوعد,0.75,1.0,0.8571428571428571,1.0
+1033,312,replacement,L2 group anchor + divergence,4,ويقولون متي هذا الوعد,متي هذا الوعد,0.75,1.0,0.8571428571428571,1.0
+1034,312,replacement,L2 group anchor + divergence,4,ويقولون متي هذا الوعد,متي هذا الوعد,0.75,1.0,0.8571428571428571,1.0
+1035,313,replacement,L2 group anchor + divergence,4,فتول عنهم حتي حين,فتول عنهم حتي حين,1.0,1.0,1.0,1.0
+1036,313,replacement,L2 group anchor + divergence,4,وتول عنهم حتي حين,وتول عنهم حتي حين,1.0,1.0,1.0,1.0
+1037,314,replacement,L2 group anchor + divergence,4,فان للذين ظلموا ذنوبا,فان للذين ظلموا ذنوبا,1.0,1.0,1.0,1.0
+1038,314,replacement,L2 group anchor + divergence,4,وان للذين ظلموا عذابا,وان للذين ظلموا عذابا,1.0,1.0,1.0,1.0
+1039,315,replacement,L2 group anchor + divergence,4,فاصبر لحكم ربك ولا,فاصبر لحكم ربك,0.75,1.0,0.8571428571428571,1.0
+1040,315,replacement,L2 group anchor + divergence,4,فاصبر لحكم ربك ولا,فاصبر لحكم ربك,0.75,1.0,0.8571428571428571,1.0
+1041,315,replacement,L2 group anchor + divergence,4,واصبر لحكم ربك فانك,واصبر لحكم ربك,0.75,1.0,0.8571428571428571,1.0
+1042,316,addition & subtraction,L2 group anchor + divergence,5,الذين امنوا وعملوا الصالحات لهم,لهم اجر غير ممنون,0.2,0.25,0.22222222222222224,1.0
+1043,316,addition & subtraction,L2 group anchor + divergence,5,الذين امنوا وعملوا الصالحات فلهم,فلهم اجر غير ممنون,0.2,0.25,0.22222222222222224,1.0
+1044,317,replacement,L2 group anchor + divergence,2,ومن يشاقق,ومن يشاقق الرسول,1.0,0.6666666666666666,0.8,1.0
+1045,317,replacement,L2 group anchor + divergence,3,ورسوله ومن يشاقق,ومن يشاقق الله ورسوله,0.6666666666666666,0.5,0.5714285714285715,1.0
+1046,317,replacement,L2 group anchor + divergence,3,ورسوله ومن يشاق,ومن يشاق الله,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+1047,318,addition & subtraction,L2 group anchor + divergence,3,وقوم ابراهيم وقوم,وقوم ابراهيم وقوم لوط,1.0,0.75,0.8571428571428571,1.0
+1048,318,addition & subtraction,L2 group anchor + divergence,4,وثمود وقوم ابراهيم واصحاب,وقوم ابراهيم,0.5,1.0,0.6666666666666666,1.0
+1049,319,replacement,L2 group anchor + divergence,4,ويوم تقوم الساعه يقسم,يقسم المجرمون,0.25,0.5,0.3333333333333333,1.0
+1050,319,replacement,L2 group anchor + divergence,4,ويوم تقوم الساعه يبلس,يبلس المجرمون,0.25,0.5,0.3333333333333333,1.0
+1051,320,replacement,L2 group anchor + divergence,3,لايات لقوم يعقلون,في ذلك لايات لقوم يعقلون,1.0,0.6,0.7499999999999999,1.0
+1052,320,replacement,L2 group anchor + divergence,3,الايات لقوم يعقلون,نفصل الايات لقوم يعقلون,1.0,0.75,0.8571428571428571,1.0
+1053,321,replacement,L2 group anchor + divergence,4,بل اكثرهم لا يعقلون,بل اكثرهم لا يعقلون,1.0,1.0,1.0,1.0
+1054,321,replacement,L2 group anchor + divergence,4,ولكن اكثرهم لا يعلمون,ولكن اكثرهم لا يعلمون,1.0,1.0,1.0,1.0
+1055,321,replacement,L2 group anchor + divergence,4,بل اكثرهم لا يعلمون,بل اكثرهم لا يعلمون,1.0,1.0,1.0,1.0
+1056,322,replacement,L2 group anchor + divergence,4,لم يحكم بما انزل,ومن لم يحكم بما انزل الله فاولءك هم الكافرون,1.0,0.4444444444444444,0.6153846153846153,1.0
+1057,322,replacement,L2 group anchor + divergence,4,لم يحكم بما انزل,ومن لم يحكم بما انزل الله فاولءك هم الظالمون,1.0,0.4444444444444444,0.6153846153846153,1.0
+1058,322,replacement,L2 group anchor + divergence,4,لم يحكم بما انزل,ومن لم يحكم بما انزل الله فاولءك هم الفاسقون,1.0,0.4444444444444444,0.6153846153846153,1.0
+1059,323,replacement,L2 group anchor + divergence,2,قل ارايتكم,قل ارايتكم ان اتاكم,1.0,0.5,0.6666666666666666,1.0
+1060,323,replacement,L2 group anchor + divergence,2,قل ارايتكم,قل ارايتكم ان اتاكم,1.0,0.5,0.6666666666666666,1.0
+1061,323,replacement,L2 group anchor + divergence,2,قل ارايتم,قل ارايتم ان اخذ الله,1.0,0.4,0.5714285714285715,1.0
+1062,324,order change,L2 group anchor + divergence,5,احسانا ولا تقتلوا اولادكم من,نحن نرزقكم واياهم,0.0,0.0,0.0,0.0
+1063,324,order change,L2 group anchor + divergence,4,ولا تقتلوا اولادكم خشيه,نحن نرزقهم واياكم,0.0,0.0,0.0,0.0
+1064,325,order change,L2 group anchor + divergence,4,الر تلك ايات الكتاب,ايات الكتاب وقران مبين,0.5,0.5,0.5,1.0
+1065,325,order change,L2 group anchor + divergence,4,طس تلك ايات القران,ايات القران وكتاب مبين,0.5,0.5,0.5,1.0
+1066,326,replacement,L2 group anchor + divergence,3,رب العرش الكريم,رب العرش الكريم,1.0,1.0,1.0,1.0
+1067,326,replacement,L2 group anchor + divergence,3,رب العرش العظيم,وهو رب العرش العظيم,1.0,0.75,0.8571428571428571,1.0
+1068,326,replacement,L2 group anchor + divergence,3,ورب العرش العظيم,ورب العرش العظيم,1.0,1.0,1.0,1.0
+1069,326,replacement,L2 group anchor + divergence,3,رب العرش العظيم,رب العرش العظيم,1.0,1.0,1.0,1.0
+1070,327,replacement,L2 group anchor + divergence,6,به وما يجحد باياتنا الا الكافرون,وما يجحد باياتنا الا الكافرون,0.8333333333333334,1.0,0.9090909090909091,1.0
+1071,327,replacement,L2 group anchor + divergence,6,العلم وما يجحد باياتنا الا الظالمون,وما يجحد باياتنا الا الظالمون,0.8333333333333334,1.0,0.9090909090909091,1.0
+1072,328,replacement,L2 group anchor + divergence,4,ووصينا الانسان بوالديه احسانا,حملته امه كرها,0.0,0.0,0.0,0.0
+1073,328,replacement,L2 group anchor + divergence,4,ووصينا الانسان بوالديه حملته,حملته امه وهنا علي وهن,0.25,0.2,0.22222222222222224,1.0
+1075,330,replacement,L2 group anchor + divergence,5,من ربكم وجنه عرضها السماوات,وجنه عرضها السماوات والارض,0.6,0.75,0.6666666666666665,1.0
+1076,330,replacement,L2 group anchor + divergence,5,من ربكم وجنه عرضها كعرض,وجنه عرضها كعرض السماء والارض,0.6,0.6,0.6,1.0
+1077,331,replacement,L2 group anchor + divergence,4,لله وهو محسن فله,بلي من اسلم وجهه لله وهو محسن,0.75,0.42857142857142855,0.5454545454545454,1.0
+1078,331,replacement,L2 group anchor + divergence,4,لله وهو محسن واتبع,ممن اسلم وجهه لله وهو محسن,0.75,0.5,0.6,1.0
+1079,331,replacement,L2 group anchor + divergence,4,الله وهو محسن فقد,ومن يسلم وجهه الي الله وهو محسن,0.75,0.42857142857142855,0.5454545454545454,1.0
+1080,332,replacement,L2 group anchor + divergence,4,اباءنا اولو كان اباءهم,لا يعلمون شيءا ولا يهتدون,0.0,0.0,0.0,0.0
+1081,332,replacement,L2 group anchor + divergence,4,اباءنا اولو كان اباءهم,لا يعقلون شيءا ولا يهتدون,0.0,0.0,0.0,0.0
+1082,333,replacement,L2 group anchor + divergence,3,لبلد ميت فانزلنا,سقناه لبلد ميت,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+1083,333,replacement,L2 group anchor + divergence,3,بلد ميت فاحيينا,فسقناه الي بلد ميت,0.6666666666666666,0.5,0.5714285714285715,1.0
+1084,334,addition & subtraction,L2 group anchor + divergence,4,الملا من قومه انا,قال الملا من قومه,0.75,0.75,0.75,1.0
+1085,334,addition & subtraction,L2 group anchor + divergence,4,كفروا من قومه ما,فقال الملا الذين كفروا من قومه,0.75,0.5,0.6,1.0
+1086,334,addition & subtraction,L2 group anchor + divergence,4,كفروا من قومه ما,فقال الملا الذين كفروا من قومه,0.75,0.5,0.6,1.0
+1087,335,addition & subtraction,L2 group anchor + divergence,5,سريع العقاب وانه لغفور رحيم,ان ربك سريع العقاب,0.4,0.5,0.4444444444444445,1.0
+1088,335,addition & subtraction,L2 group anchor + divergence,5,لسريع العقاب وانه لغفور رحيم,ان ربك لسريع العقاب,0.4,0.5,0.4444444444444445,1.0
+1089,336,addition & subtraction,L2 group anchor + divergence,4,نحن الا بشر مثلكم,قالت لهم رسلهم,0.0,0.0,0.0,0.0
+1090,336,addition & subtraction,L2 group anchor + divergence,4,انتم الا بشر مثلنا,قالت رسلهم,0.0,0.0,0.0,0.0
+1091,337,replacement,L2 group anchor + divergence,4,اللعنه الي يوم الدين,وان عليك اللعنه,0.25,0.3333333333333333,0.28571428571428575,1.0
+1092,337,replacement,L2 group anchor + divergence,4,لعنتي الي يوم الدين,وان عليك لعنتي,0.25,0.3333333333333333,0.28571428571428575,1.0
+1093,338,addition & subtraction,L2 group anchor + divergence,5,لتبتغوا من فضله ولعلكم تشكرون,لتبتغوا من فضله,0.6,1.0,0.7499999999999999,1.0
+1094,338,addition & subtraction,L2 group anchor + divergence,5,ولتبتغوا من فضله ولعلكم تشكرون,ولتبتغوا من فضله,0.6,1.0,0.7499999999999999,1.0
+1095,338,addition & subtraction,L2 group anchor + divergence,5,ولتبتغوا من فضله ولعلكم تشكرون,ولتبتغوا من فضله,0.6,1.0,0.7499999999999999,1.0
+1096,339,multiple differences,L2 group anchor + divergence,3,بعبادي انكم متبعون,ان اسر بعبادي,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0
+1097,339,multiple differences,L2 group anchor + divergence,3,ليلا انكم متبعون,فاسر بعبادي ليلا,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0
+1098,340,addition & subtraction,L2 group anchor + divergence,5,ضير انا الي ربنا منقلبون,قالوا لا ضير انا الي ربنا,0.8,0.6666666666666666,0.7272727272727272,1.0
+1099,340,addition & subtraction,L2 group anchor + divergence,5,قالوا انا الي ربنا منقلبون,قالوا انا الي ربنا,0.8,1.0,0.888888888888889,1.0
+1100,341,replacement,L2 group anchor + divergence,3,متخذات اخدان فاذا,محصنات غير مسافحات ولا متخذات اخدان,0.6666666666666666,0.3333333333333333,0.4444444444444444,1.0
+1101,341,replacement,L2 group anchor + divergence,3,متخذي اخدان ومن,محصنين غير مسافحين ولا متخذي اخدان,0.6666666666666666,0.3333333333333333,0.4444444444444444,1.0
+1102,342,multiple differences,L2 group anchor + divergence,4,هذا الا سحر مبين,فقال الذين كفروا منهم ان هذا الا سحر مبين,1.0,0.4444444444444444,0.6153846153846153,1.0
+1103,342,multiple differences,L2 group anchor + divergence,4,هذا الا سحر مبين,لقال الذين كفروا ان هذا الا سحر مبين,1.0,0.5,0.6666666666666666,1.0
+1104,343,replacement,L2 group anchor + divergence,3,تصبك حسنه تسءهم,ان تصبك حسنه تسءهم وان تصبك مصيبه,1.0,0.42857142857142855,0.6,1.0
+1105,343,replacement,L2 group anchor + divergence,3,تمسسكم حسنه تسءهم,ان تمسسكم حسنه تسءهم وان تصبكم سيءه,1.0,0.42857142857142855,0.6,1.0
+1106,343,replacement,L2 group anchor + divergence,3,تصبهم حسنه يقولوا,وان تصبهم حسنه وان تصبهم سيءه,0.6666666666666666,0.3333333333333333,0.4444444444444444,1.0
+1107,344,replacement,L2 group anchor + divergence,4,ياتهم نبا الذين من,الم ياتهم نبا من قبلهم وثمود وقوم ابراهيم واصحاب مدين والمءتفكات,0.75,0.2727272727272727,0.39999999999999997,1.0
+1108,344,replacement,L2 group anchor + divergence,4,ياتكم نبا الذين من,الم ياتكم نبا من قبلكم وثمود,0.75,0.5,0.6,1.0
+1109,344,replacement,L2 group anchor + divergence,4,ياتكم نبا الذين كفروا,الم ياتكم نبا,0.5,0.6666666666666666,0.5714285714285715,1.0
+1110,345,replacement,L2 group anchor + divergence,4,للمسرفين ما كانوا يعملون,كذلك زين للمسرفين,0.25,0.3333333333333333,0.28571428571428575,1.0
+1111,345,replacement,L2 group anchor + divergence,4,للكافرين ما كانوا يعملون,كذلك زين للكافرين,0.25,0.3333333333333333,0.28571428571428575,1.0
+1112,346,replacement,L2 group anchor + divergence,3,سافلها وامطرنا عليها,وامطرنا عليها حجاره,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+1113,346,replacement,L2 group anchor + divergence,3,سافلها وامطرنا عليهم,وامطرنا عليهم حجاره,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+1114,346,replacement,L2 group anchor + divergence,2,وامطرنا عليهم,وامطرنا عليهم مطرا,1.0,0.6666666666666666,0.8,1.0
+1115,346,replacement,L2 group anchor + divergence,2,وامطرنا عليهم,وامطرنا عليهم مطرا,1.0,0.6666666666666666,0.8,1.0
+1116,346,replacement,L2 group anchor + divergence,2,وامطرنا عليهم,وامطرنا عليهم مطرا,1.0,0.6666666666666666,0.8,1.0
+1117,347,multiple differences,L2 group anchor + divergence,6,منه حليه تلبسونها وتري الفلك مواخر,وتستخرجوا منه حليه,0.3333333333333333,0.6666666666666666,0.4444444444444444,1.0
+1118,347,multiple differences,L2 group anchor + divergence,6,وتستخرجون حليه تلبسونها وتري الفلك فيه,وتستخرجون حليه,0.3333333333333333,1.0,0.5,1.0
+1119,348,replacement,L2 group anchor + divergence,4,حتي اذا بلغ بين,وجد من دونهما,0.0,0.0,0.0,0.0
+1120,348,replacement,L2 group anchor + divergence,4,حتي اذا بلغ مطلع,وجدها تطلع,0.0,0.0,0.0,0.0
+1121,348,replacement,L2 group anchor + divergence,4,حتي اذا بلغ مغرب,وجدها تغرب,0.0,0.0,0.0,0.0
+1122,349,addition & subtraction,L2 group anchor + divergence,6,نخرجكم طفلا ثم لتبلغوا اشدكم ومنكم,ومنكم من يتوفي,0.16666666666666666,0.3333333333333333,0.2222222222222222,1.0
+1123,349,addition & subtraction,L2 group anchor + divergence,6,يخرجكم طفلا ثم لتبلغوا اشدكم ثم,ومنكم من يتوفي من قبل,0.0,0.0,0.0,0.0
+1124,350,replacement,L2 group anchor + divergence,4,الله لا يحب كل,مختال فخور,0.0,0.0,0.0,0.0
+1125,350,replacement,L2 group anchor + divergence,0,,ختار كفور,0.0,0.0,0.0,0.0
+1126,350,replacement,L2 group anchor + divergence,4,الله لا يحب من,مختالا فخورا,0.0,0.0,0.0,0.0
+1127,350,replacement,L2 group anchor + divergence,4,والله لا يحب كل,مختال فخور,0.0,0.0,0.0,0.0
+1128,350,replacement,L2 group anchor + divergence,4,الله لا يحب كل,خوان كفور,0.0,0.0,0.0,0.0
+1129,351,multiple differences,L2 group anchor + divergence,6,ما هي الا حياتنا الدنيا نموت,ما هي الا حياتنا الدنيا نموت ونحيا وما يهلكنا,1.0,0.6666666666666666,0.8,1.0
+1130,351,multiple differences,L2 group anchor + divergence,6,ان هي الا حياتنا الدنيا نموت,ان هي الا حياتنا الدنيا نموت ونحيا وما نحن بمبعوثين,1.0,0.6,0.7499999999999999,1.0
+1131,351,multiple differences,L2 group anchor + divergence,6,ان هي الا حياتنا الدنيا وما,ان هي الا حياتنا الدنيا وما نحن بمبعوثين,1.0,0.75,0.8571428571428571,1.0
+1132,352,addition & subtraction,L2 group anchor + divergence,6,كان يءمن بالله واليوم الاخر ومن,ذلكم يوعظ به,0.0,0.0,0.0,0.0
+1133,352,addition & subtraction,L2 group anchor + divergence,6,منكم يءمن بالله واليوم الاخر ذلكم,ذلك يوعظ به,0.0,0.0,0.0,0.0
+1134,353,replacement,L2 group anchor + divergence,5,يتمنوه ابدا بما قدمت ايديهم,ولن يتمنوه ابدا,0.4,0.6666666666666666,0.5,1.0
+1135,353,replacement,L2 group anchor + divergence,5,يتمنونه ابدا بما قدمت ايديهم,ولا يتمنونه ابدا,0.4,0.6666666666666666,0.5,1.0
+1136,354,addition & subtraction,L2 group anchor + divergence,3,بالله واشهد بانا,واشهد بانا مسلمون,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+1137,354,addition & subtraction,L2 group anchor + divergence,3,امنا واشهد باننا,واشهد باننا مسلمون,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+1138,355,replacement,L2 group anchor + divergence,4,نفسا الا وسعها واذا,لا نكلف نفسا الا وسعها,0.75,0.6,0.6666666666666665,1.0
+1139,355,replacement,L2 group anchor + divergence,4,نفس الا وسعها لا,لا تكلف نفس الا وسعها,0.75,0.6,0.6666666666666665,1.0
+1140,355,replacement,L2 group anchor + divergence,4,نفسا الا وسعها اولءك,لا نكلف نفسا الا وسعها,0.75,0.6,0.6666666666666665,1.0
+1141,355,replacement,L2 group anchor + divergence,4,نفسا الا وسعها ولدينا,ولا نكلف نفسا الا وسعها,0.75,0.6,0.6666666666666665,1.0
+1142,356,replacement,L2 group anchor + divergence,5,ويستبدل قوما غيركم ولا تضروه,ولا تضروه شيءا,0.4,0.6666666666666666,0.5,1.0
+1143,356,replacement,L2 group anchor + divergence,5,ربي قوما غيركم ولا تضرونه,ولا تضرونه شيءا,0.4,0.6666666666666666,0.5,1.0
+1144,357,multiple differences,L2 group anchor + divergence,2,ويوم نحشرهم,ويوم نحشرهم جميعا,1.0,0.6666666666666666,0.8,1.0
+1145,357,multiple differences,L2 group anchor + divergence,2,ويوم يحشرهم,ويوم يحشرهم,1.0,1.0,1.0,1.0
+1146,358,replacement,L2 group anchor + divergence,5,قلنا يا ذا القرنين اما,قلنا يا ذا القرنين,0.8,1.0,0.888888888888889,1.0
+1147,358,replacement,L2 group anchor + divergence,5,قالوا يا ذا القرنين ان,قالوا يا ذا القرنين,0.8,1.0,0.888888888888889,1.0
+1148,359,replacement,L2 group anchor + divergence,2,قل هل,قل هل ننبءكم,1.0,0.6666666666666666,0.8,1.0
+1149,359,replacement,L2 group anchor + divergence,2,قل هل,قل هل انبءكم,1.0,0.6666666666666666,0.8,1.0
+1150,359,replacement,L2 group anchor + divergence,2,قل اءنبءكم,قل اءنبءكم,1.0,1.0,1.0,1.0
+1151,360,addition & subtraction,L2 group anchor + divergence,4,تكن في مريه من,فلا تكن في مريه,0.75,0.75,0.75,1.0
+1152,360,addition & subtraction,L2 group anchor + divergence,4,تك في مريه منه,فلا تك في مريه,0.75,0.75,0.75,1.0
+1153,360,addition & subtraction,L2 group anchor + divergence,4,تك في مريه مما,فلا تك في مريه,0.75,0.75,0.75,1.0
+1154,361,addition & subtraction,L2 group anchor + divergence,5,تحتها الانهار خالدين فيها ونعم,ونعم اجر العاملين,0.2,0.3333333333333333,0.25,1.0
+1155,361,addition & subtraction,L2 group anchor + divergence,5,تحتها الانهار خالدين فيها نعم,نعم اجر العاملين,0.2,0.3333333333333333,0.25,1.0
+1156,362,replacement,L2 group anchor + divergence,3,ايها الذين امنوا,وذروا ما بقي,0.0,0.0,0.0,0.0
+1157,362,replacement,L2 group anchor + divergence,3,ان الذين يكسبون,وذروا ظاهر,0.0,0.0,0.0,0.0
+1158,362,replacement,L2 group anchor + divergence,3,وذروا الذين يلحدون,وذروا الذين,0.6666666666666666,1.0,0.8,1.0
+1159,362,replacement,L2 group anchor + divergence,3,ايها الذين امنوا,وذروا البيع,0.0,0.0,0.0,0.0
+1160,362,replacement,L2 group anchor + divergence,3,وذر الذين اتخذوا,وذر الذين,0.6666666666666666,1.0,0.8,1.0
+1162,364,replacement,L2 group anchor + divergence,3,ومنهم من يستمعون,ومنهم من يستمعون اليك,1.0,0.75,0.8571428571428571,1.0
+1163,364,replacement,L2 group anchor + divergence,3,ومنهم من يستمع,ومنهم من يستمع اليك,1.0,0.75,0.8571428571428571,1.0
+1164,364,replacement,L2 group anchor + divergence,3,ومنهم من يستمع,ومنهم من يستمع اليك,1.0,0.75,0.8571428571428571,1.0
+1165,365,replacement,L2 group anchor + divergence,4,ولما جاء امرنا نجينا,ولما جاء امرنا,0.75,1.0,0.8571428571428571,1.0
+1166,365,replacement,L2 group anchor + divergence,4,ولما جاء امرنا نجينا,ولما جاء امرنا,0.75,1.0,0.8571428571428571,1.0
+1167,365,replacement,L2 group anchor + divergence,4,فلما جاء امرنا نجينا,فلما جاء امرنا,0.75,1.0,0.8571428571428571,1.0
+1168,365,replacement,L2 group anchor + divergence,4,فلما جاء امرنا جعلنا,فلما جاء امرنا,0.75,1.0,0.8571428571428571,1.0
+1169,366,replacement,L2 group anchor + divergence,4,لا يءمنون به وقد,لا يءمنون به وقد خلت سنه الاولين,1.0,0.5714285714285714,0.7272727272727273,1.0
+1170,366,replacement,L2 group anchor + divergence,4,لا يءمنون به حتي,لا يءمنون به حتي يروا العذاب الاليم,1.0,0.5714285714285714,0.7272727272727273,1.0
+1171,367,addition & subtraction,L2 group anchor + divergence,4,فاسر باهلك بقطع من,بقطع من الليل واتبع ادبارهم ولا يلتفت,0.5,0.2857142857142857,0.36363636363636365,1.0
+1172,367,addition & subtraction,L2 group anchor + divergence,5,اليك فاسر باهلك بقطع من,بقطع من الليل ولا يلتفت,0.4,0.4,0.4000000000000001,1.0
+1173,368,multiple differences,L2 group anchor + divergence,3,لكم فيها فواكه,فواكه كثيره ومنها تاكلون,0.3333333333333333,0.25,0.28571428571428575,1.0
+1174,368,multiple differences,L2 group anchor + divergence,0,,فواكه وهم مكرمون,0.0,0.0,0.0,0.0
+1175,368,multiple differences,L2 group anchor + divergence,0,,وفواكه مما يشتهون,0.0,0.0,0.0,0.0
+1176,368,multiple differences,L2 group anchor + divergence,0,,ومنافع للناس,0.0,0.0,0.0,0.0
+1177,368,multiple differences,L2 group anchor + divergence,3,لكم فيها دفء,ومنافع ومنها تاكلون,0.0,0.0,0.0,0.0
+1178,368,multiple differences,L2 group anchor + divergence,0,,منافع لهم,0.0,0.0,0.0,0.0
+1179,368,multiple differences,L2 group anchor + divergence,3,لكم فيها منافع,منافع الي اجل,0.3333333333333333,0.3333333333333333,0.3333333333333333,1.0
+1180,368,multiple differences,L2 group anchor + divergence,3,ولكم فيها منافع,منافع كثيره ومنها تاكلون,0.3333333333333333,0.25,0.28571428571428575,1.0
+1181,368,multiple differences,L2 group anchor + divergence,3,ولهم فيها منافع,منافع ومشارب,0.3333333333333333,0.5,0.4,1.0
+1182,368,multiple differences,L2 group anchor + divergence,3,ولكم فيها منافع,منافع,0.3333333333333333,1.0,0.5,1.0
+1183,368,multiple differences,L2 group anchor + divergence,0,,ومنافع للناس,0.0,0.0,0.0,0.0
+1184,369,addition & subtraction,L2 group anchor + divergence,5,واستوي اتيناه حكما وعلما وكذلك,ولما بلغ اشده واستوي اتيناه,0.4,0.4,0.4000000000000001,1.0
+1185,369,addition & subtraction,L2 group anchor + divergence,5,اشده اتيناه حكما وعلما وكذلك,ولما بلغ اشده اتيناه,0.4,0.5,0.4444444444444445,1.0
+1186,370,addition & subtraction,L2 group anchor + divergence,5,انتم بمعجزين في الارض ولا,بمعجزين في الارض ولا في السماء,0.8,0.6666666666666666,0.7272727272727272,1.0
+1187,370,addition & subtraction,L2 group anchor + divergence,5,انتم بمعجزين في الارض وما,بمعجزين في الارض,0.6,1.0,0.7499999999999999,1.0
+1188,371,replacement,L2 group anchor + divergence,4,ليكفروا بما اتيناهم فتمتعوا,ليكفروا بما اتيناهم فتمتعوا,1.0,1.0,1.0,1.0
+1189,371,replacement,L2 group anchor + divergence,4,ليكفروا بما اتيناهم فتمتعوا,ليكفروا بما اتيناهم فتمتعوا,1.0,1.0,1.0,1.0
+1190,371,replacement,L2 group anchor + divergence,4,ليكفروا بما اتيناهم وليتمتعوا,ليكفروا بما اتيناهم وليتمتعوا,1.0,1.0,1.0,1.0
+1191,372,addition & subtraction,L2 group anchor + divergence,5,بينهما في سته ايام ثم,السماوات والارض وما بينهما في سته ايام,0.8,0.5714285714285714,0.6666666666666666,1.0
+1192,372,addition & subtraction,L2 group anchor + divergence,5,والارض في سته ايام ثم,السماوات والارض في سته ايام,0.8,0.8,0.8000000000000002,1.0
+1193,372,addition & subtraction,L2 group anchor + divergence,5,والارض في سته ايام وكان,السماوات والارض في سته ايام,0.8,0.8,0.8000000000000002,1.0
+1194,372,addition & subtraction,L2 group anchor + divergence,5,والارض في سته ايام ثم,السماوات والارض في سته ايام,0.8,0.8,0.8000000000000002,1.0
+1195,372,addition & subtraction,L2 group anchor + divergence,5,والارض في سته ايام ثم,السماوات والارض في سته ايام,0.8,0.8,0.8000000000000002,1.0
+1196,372,addition & subtraction,L2 group anchor + divergence,5,بينهما في سته ايام وما,السماوات والارض وما بينهما في سته ايام,0.8,0.5714285714285714,0.6666666666666666,1.0
+1197,372,addition & subtraction,L2 group anchor + divergence,5,بينهما في سته ايام ثم,السماوات والارض وما بينهما في سته ايام,0.8,0.5714285714285714,0.6666666666666666,1.0
+1198,373,addition & subtraction,L2 group anchor + divergence,3,وقال قرينه هذا,وقال قرينه,0.6666666666666666,1.0,0.8,1.0
+1199,373,addition & subtraction,L2 group anchor + divergence,3,قال قرينه ربنا,قال قرينه,0.6666666666666666,1.0,0.8,1.0
+1200,374,addition & subtraction,L2 group anchor + divergence,4,قال نوح رب انهم,قال نوح رب,0.75,1.0,0.8571428571428571,1.0
+1201,374,addition & subtraction,L2 group anchor + divergence,4,وقال نوح رب لا,وقال نوح رب,0.75,1.0,0.8571428571428571,1.0
+1202,375,multiple differences,L2 group anchor + divergence,4,ان هدي الله هو,قل ان هدي الله هو الهدي,1.0,0.6666666666666666,0.8,1.0
+1203,375,multiple differences,L2 group anchor + divergence,4,ان هدي الله هو,قل ان هدي الله هو الهدي,1.0,0.6666666666666666,0.8,1.0
+1204,375,multiple differences,L2 group anchor + divergence,4,الهدي هدي الله ان,قل ان الهدي هدي الله,0.75,0.6,0.6666666666666665,1.0
+1205,376,replacement,L2 group anchor + divergence,3,رساله ربي ونصحت,ابلغتكم رساله ربي,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+1206,376,replacement,L2 group anchor + divergence,3,رسالات ربي وانصح,ابلغكم رسالات ربي,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+1207,376,replacement,L2 group anchor + divergence,3,رسالات ربي وانا,ابلغكم رسالات ربي,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+1208,376,replacement,L2 group anchor + divergence,3,رسالات ربي ونصحت,ابلغتكم رسالات ربي,0.6666666666666666,0.6666666666666666,0.6666666666666666,1.0
+1209,377,replacement,L2 group anchor + divergence,4,تكاد السماوات يتفطرن منه,يتفطرن منه,0.5,1.0,0.6666666666666666,1.0
+1210,377,replacement,L2 group anchor + divergence,4,تكاد السماوات يتفطرن من,يتفطرن من فوقهن,0.5,0.6666666666666666,0.5714285714285715,1.0
+1211,378,replacement,L2 group anchor + divergence,5,الارض رواسي ان تميد بهم,رواسي ان تميد بهم,0.8,1.0,0.888888888888889,1.0
+1212,378,replacement,L2 group anchor + divergence,5,الارض رواسي ان تميد بكم,رواسي ان تميد بكم,0.8,1.0,0.888888888888889,1.0
+1213,378,replacement,L2 group anchor + divergence,5,الارض رواسي ان تميد بكم,رواسي ان تميد بكم,0.8,1.0,0.888888888888889,1.0
+1214,379,replacement,L2 group anchor + divergence,4,فكاين من قريه اهلكناها,فكاين من قريه,0.75,1.0,0.8571428571428571,1.0
+1215,379,replacement,L2 group anchor + divergence,4,وكاين من قريه امليت,وكاين من قريه,0.75,1.0,0.8571428571428571,1.0
+1216,379,replacement,L2 group anchor + divergence,4,وكاين من قريه هي,وكاين من قريه,0.75,1.0,0.8571428571428571,1.0
+1217,379,replacement,L2 group anchor + divergence,4,وكاين من قريه عتت,وكاين من قريه,0.75,1.0,0.8571428571428571,1.0
+1218,380,replacement,L2 group anchor + divergence,2,ولقد صرفناه,ولقد صرفناه,1.0,1.0,1.0,1.0
+1219,380,replacement,L2 group anchor + divergence,2,ولقد صرفنا,ولقد صرفنا,1.0,1.0,1.0,1.0
+1220,380,replacement,L2 group anchor + divergence,2,ولقد صرفنا,ولقد صرفنا,1.0,1.0,1.0,1.0
+1221,380,replacement,L2 group anchor + divergence,2,ولقد صرفنا,ولقد صرفنا,1.0,1.0,1.0,1.0
+1222,381,replacement,L2 group anchor + divergence,5,ظلموا ذوقوا عذاب النار التي,ذوقوا عذاب النار التي كنتم بها تكذبون,0.8,0.5714285714285714,0.6666666666666666,1.0
+1223,381,replacement,L2 group anchor + divergence,5,لهم ذوقوا عذاب النار الذي,ذوقوا عذاب النار الذي كنتم به تكذبون,0.8,0.5714285714285714,0.6666666666666666,1.0
+1224,382,addition & subtraction,L2 group anchor + divergence,3,وابصرهم فسوف يبصرون,وابصرهم فسوف,0.6666666666666666,1.0,0.8,1.0
+1225,382,addition & subtraction,L2 group anchor + divergence,3,وابصر فسوف يبصرون,وابصر فسوف,0.6666666666666666,1.0,0.8,1.0
+1226,383,replacement,L2 group anchor + divergence,4,وجدنا اباءنا علي امه,علي اثارهم مهتدون,0.0,0.0,0.0,0.0
+1227,383,replacement,L2 group anchor + divergence,4,وجدنا اباءنا علي امه,علي اثارهم مقتدون,0.0,0.0,0.0,0.0
+1228,384,addition & subtraction,L2 group anchor + divergence,4,وربكم فاعبدوه هذا صراط,ان الله هو ربي,0.0,0.0,0.0,0.0
+1229,384,addition & subtraction,L2 group anchor + divergence,4,وربكم فاعبدوه هذا صراط,ان الله ربي,0.0,0.0,0.0,0.0
+1230,384,addition & subtraction,L2 group anchor + divergence,4,وربكم فاعبدوه هذا صراط,وان الله ربي,0.0,0.0,0.0,0.0
+1231,385,multiple differences,L2 group anchor + divergence,4,ويعلمهم الكتاب والحكمه ويزكيهم,ويعلمهم الكتاب والحكمه ويزكيهم,1.0,1.0,1.0,1.0
+1232,385,multiple differences,L2 group anchor + divergence,4,ويعلمكم الكتاب والحكمه ويعلمكم,ويزكيكم ويعلمكم الكتاب والحكمه,0.75,0.75,0.75,1.0
+1233,385,multiple differences,L2 group anchor + divergence,4,ويعلمهم الكتاب والحكمه وان,ويزكيهم ويعلمهم الكتاب والحكمه,0.75,0.75,0.75,1.0
+1234,385,multiple differences,L2 group anchor + divergence,4,ويعلمهم الكتاب والحكمه وان,ويزكيهم ويعلمهم الكتاب والحكمه,0.75,0.75,0.75,1.0
+1235,386,addition & subtraction,L2 group anchor + divergence,4,يا ابن ام لا,قال يا ابن ام,0.75,0.75,0.75,1.0
+1236,386,addition & subtraction,L2 group anchor + divergence,4,قال ابن ام ان,قال ابن ام,0.75,1.0,0.8571428571428571,1.0
+1237,387,replacement,L2 group anchor + divergence,4,السماوات ومن في الارض,ويوم ينفخ في الصور ففزع من في السماوات,0.25,0.125,0.16666666666666666,1.0
+1238,387,replacement,L2 group anchor + divergence,4,السماوات ومن في الارض,ونفخ في الصور فصعق من في السماوات,0.25,0.14285714285714285,0.18181818181818182,1.0

@@ -1,0 +1,9 @@
+step,count
+Gold rows,1239.0
+Rows after address correction,1239.0
+Connection groups,387.0
+Unique verses,1044.0
+Positive pairs,2229.0
+Query verses (>= 1 similar verse),1032.0
+Mean relevant verses per query,4.32
+Connected components among query verses,239.0

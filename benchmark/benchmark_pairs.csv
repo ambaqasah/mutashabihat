@@ -1,0 +1,2230 @@
+﻿key_a,key_b,connection_id,change_type,book,same_surah,juz_a,juz_b,same_juz,verse_distance
+2:59,7:162,1,multiple differences,هداية,False,1,9,False,1050
+2:34,38:74,2,addition & subtraction,هداية,False,1,23,False,4003
+2:136,3:84,3,multiple differences,هداية,False,1,3,False,234
+2:191,2:217,4,replacement,هداية,True,2,2,True,26
+2:242,3:103,5,replacement,هداية,False,2,4,False,147
+2:242,24:59,5,replacement,هداية,False,2,18,False,2601
+2:242,5:89,5,replacement,هداية,False,2,7,False,509
+3:103,24:59,5,replacement,هداية,False,4,18,False,2454
+3:103,5:89,5,replacement,هداية,False,4,7,False,362
+5:89,24:59,5,replacement,هداية,False,7,18,False,2092
+3:5,10:61,6,order similarity,هداية,False,3,11,False,1127
+3:5,20:4,6,order similarity,هداية,False,3,16,False,2054
+3:5,29:22,6,order similarity,هداية,False,3,20,False,3064
+3:5,14:38,6,order similarity,هداية,False,3,13,False,1490
+10:61,20:4,6,order similarity,هداية,False,11,16,False,927
+10:61,29:22,6,order similarity,هداية,False,11,20,False,1937
+10:61,14:38,6,order similarity,هداية,False,11,13,False,363
+20:4,29:22,6,order similarity,هداية,False,16,20,False,1010
+14:38,20:4,6,order similarity,هداية,False,13,16,False,564
+14:38,29:22,6,order similarity,هداية,False,13,20,False,1574
+3:21,3:112,7,replacement,هداية,True,3,4,False,91
+2:61,3:21,7,replacement,هداية,False,1,3,False,246
+2:61,3:112,7,replacement,هداية,False,1,4,False,337
+3:32,3:132,8,addition & subtraction,هداية,True,3,4,False,100
+3:32,4:59,8,addition & subtraction,هداية,False,3,5,False,227
+3:32,5:92,8,addition & subtraction,هداية,False,3,7,False,436
+3:32,24:54,8,addition & subtraction,هداية,False,3,18,False,2520
+3:32,47:33,8,addition & subtraction,هداية,False,3,26,False,4253
+3:32,64:12,8,addition & subtraction,هداية,False,3,28,False,4886
+3:132,4:59,8,addition & subtraction,هداية,False,4,5,False,127
+3:132,5:92,8,addition & subtraction,هداية,False,4,7,False,336
+3:132,24:54,8,addition & subtraction,هداية,False,4,18,False,2420
+3:132,47:33,8,addition & subtraction,هداية,False,4,26,False,4153
+3:132,64:12,8,addition & subtraction,هداية,False,4,28,False,4786
+4:59,5:92,8,addition & subtraction,هداية,False,5,7,False,209
+4:59,24:54,8,addition & subtraction,هداية,False,5,18,False,2293
+4:59,47:33,8,addition & subtraction,هداية,False,5,26,False,4026
+4:59,64:12,8,addition & subtraction,هداية,False,5,28,False,4659
+5:92,24:54,8,addition & subtraction,هداية,False,7,18,False,2084
+5:92,47:33,8,addition & subtraction,هداية,False,7,26,False,3817
+5:92,64:12,8,addition & subtraction,هداية,False,7,28,False,4450
+24:54,47:33,8,addition & subtraction,هداية,False,18,26,False,1733
+24:54,64:12,8,addition & subtraction,هداية,False,18,28,False,2366
+47:33,64:12,8,addition & subtraction,هداية,False,26,28,False,633
+3:195,4:124,9,replacement,هداية,False,4,5,False,129
+4:124,16:97,9,replacement,هداية,False,5,14,False,1381
+4:124,40:40,9,replacement,هداية,False,5,24,False,3556
+4:124,49:13,9,replacement,هداية,False,5,26,False,4008
+3:195,16:97,9,replacement,هداية,False,4,14,False,1510
+3:195,40:40,9,replacement,هداية,False,4,24,False,3685
+3:195,49:13,9,replacement,هداية,False,4,26,False,4137
+16:97,40:40,9,replacement,هداية,False,14,24,False,2175
+16:97,49:13,9,replacement,هداية,False,14,26,False,2627
+40:40,49:13,9,replacement,هداية,False,24,26,False,452
+4:57,4:122,10,addition & subtraction,هداية,True,5,5,True,65
+4:57,4:169,10,addition & subtraction,هداية,True,5,6,False,112
+4:57,5:119,10,addition & subtraction,هداية,False,5,7,False,238
+4:57,9:22,10,addition & subtraction,هداية,False,5,10,False,707
+4:57,9:100,10,addition & subtraction,هداية,False,5,11,False,785
+4:57,33:65,10,addition & subtraction,هداية,False,5,22,False,3048
+4:57,64:9,10,addition & subtraction,هداية,False,5,28,False,4658
+4:57,65:11,10,addition & subtraction,هداية,False,5,28,False,4678
+4:57,72:23,10,addition & subtraction,هداية,False,5,29,False,4920
+4:57,98:8,10,addition & subtraction,هداية,False,5,30,False,5588
+4:122,4:169,10,addition & subtraction,هداية,True,5,6,False,47
+4:122,5:119,10,addition & subtraction,هداية,False,5,7,False,173
+4:122,9:22,10,addition & subtraction,هداية,False,5,10,False,642
+4:122,9:100,10,addition & subtraction,هداية,False,5,11,False,720
+4:122,33:65,10,addition & subtraction,هداية,False,5,22,False,2983
+4:122,64:9,10,addition & subtraction,هداية,False,5,28,False,4593
+4:122,65:11,10,addition & subtraction,هداية,False,5,28,False,4613
+4:122,72:23,10,addition & subtraction,هداية,False,5,29,False,4855
+4:122,98:8,10,addition & subtraction,هداية,False,5,30,False,5523
+4:169,5:119,10,addition & subtraction,هداية,False,6,7,False,126
+4:169,9:22,10,addition & subtraction,هداية,False,6,10,False,595
+4:169,9:100,10,addition & subtraction,هداية,False,6,11,False,673
+4:169,33:65,10,addition & subtraction,هداية,False,6,22,False,2936
+4:169,64:9,10,addition & subtraction,هداية,False,6,28,False,4546
+4:169,65:11,10,addition & subtraction,هداية,False,6,28,False,4566
+4:169,72:23,10,addition & subtraction,هداية,False,6,29,False,4808
+4:169,98:8,10,addition & subtraction,هداية,False,6,30,False,5476
+5:119,9:22,10,addition & subtraction,هداية,False,7,10,False,469
+5:119,9:100,10,addition & subtraction,هداية,False,7,11,False,547
+5:119,33:65,10,addition & subtraction,هداية,False,7,22,False,2810
+5:119,64:9,10,addition & subtraction,هداية,False,7,28,False,4420
+5:119,65:11,10,addition & subtraction,هداية,False,7,28,False,4440
+5:119,72:23,10,addition & subtraction,هداية,False,7,29,False,4682
+5:119,98:8,10,addition & subtraction,هداية,False,7,30,False,5350
+9:22,9:100,10,addition & subtraction,هداية,True,10,11,False,78
+9:22,33:65,10,addition & subtraction,هداية,False,10,22,False,2341
+9:22,64:9,10,addition & subtraction,هداية,False,10,28,False,3951
+9:22,65:11,10,addition & subtraction,هداية,False,10,28,False,3971
+9:22,72:23,10,addition & subtraction,هداية,False,10,29,False,4213
+9:22,98:8,10,addition & subtraction,هداية,False,10,30,False,4881
+9:100,33:65,10,addition & subtraction,هداية,False,11,22,False,2263
+9:100,64:9,10,addition & subtraction,هداية,False,11,28,False,3873
+9:100,65:11,10,addition & subtraction,هداية,False,11,28,False,3893
+9:100,72:23,10,addition & subtraction,هداية,False,11,29,False,4135
+9:100,98:8,10,addition & subtraction,هداية,False,11,30,False,4803
+33:65,64:9,10,addition & subtraction,هداية,False,22,28,False,1610
+33:65,65:11,10,addition & subtraction,هداية,False,22,28,False,1630
+33:65,72:23,10,addition & subtraction,هداية,False,22,29,False,1872
+33:65,98:8,10,addition & subtraction,هداية,False,22,30,False,2540
+64:9,65:11,10,addition & subtraction,هداية,False,28,28,True,20
+64:9,72:23,10,addition & subtraction,هداية,False,28,29,False,262
+64:9,98:8,10,addition & subtraction,هداية,False,28,30,False,930
+65:11,72:23,10,addition & subtraction,هداية,False,28,29,False,242
+65:11,98:8,10,addition & subtraction,هداية,False,28,30,False,910
+72:23,98:8,10,addition & subtraction,هداية,False,29,30,False,668
+7:64,26:119,11,replacement,هداية,False,8,19,False,2033
+7:64,29:15,11,replacement,هداية,False,8,20,False,2337
+7:64,7:83,11,replacement,هداية,True,8,8,True,19
+7:64,27:57,11,replacement,هداية,False,8,20,False,2198
+7:64,7:72,11,replacement,هداية,True,8,8,True,8
+26:119,29:15,11,replacement,هداية,False,19,20,False,304
+7:83,26:119,11,replacement,هداية,False,8,19,False,2014
+26:119,27:57,11,replacement,هداية,False,19,20,False,165
+7:72,26:119,11,replacement,هداية,False,8,19,False,2025
+7:83,29:15,11,replacement,هداية,False,8,20,False,2318
+27:57,29:15,11,replacement,هداية,False,20,20,True,139
+7:72,29:15,11,replacement,هداية,False,8,20,False,2329
+7:83,27:57,11,replacement,هداية,False,8,20,False,2179
+7:72,7:83,11,replacement,هداية,True,8,8,True,11
+7:72,27:57,11,replacement,هداية,False,8,20,False,2190
+6:148,16:35,12,replacement,هداية,False,8,14,False,999
+7:111,26:36,13,replacement,هداية,False,9,19,False,1903
+4:95,9:20,14,order change,هداية,False,5,10,False,667
+9:20,61:11,14,order change,هداية,False,10,28,False,3919
+4:95,61:11,14,order change,هداية,False,5,28,False,4586
+10:31,34:24,15,replacement,هداية,False,11,22,False,2235
+13:7,13:27,16,replacement,هداية,True,13,13,True,20
+10:20,13:7,16,replacement,هداية,False,11,13,False,330
+13:7,29:50,16,replacement,هداية,False,13,21,False,1676
+6:37,13:7,16,replacement,هداية,False,7,13,False,888
+10:20,13:27,16,replacement,هداية,False,11,13,False,350
+13:27,29:50,16,replacement,هداية,False,13,21,False,1656
+6:37,13:27,16,replacement,هداية,False,7,13,False,908
+10:20,29:50,16,replacement,هداية,False,11,21,False,2006
+6:37,10:20,16,replacement,هداية,False,7,11,False,558
+6:37,29:50,16,replacement,هداية,False,7,21,False,2564
+11:26,43:65,17,replacement,هداية,False,12,25,False,2891
+11:11,35:7,18,replacement,هداية,False,12,22,False,2183
+35:7,67:12,18,replacement,هداية,False,22,29,False,1586
+35:7,57:7,18,replacement,هداية,False,22,27,False,1415
+35:7,57:11,18,replacement,هداية,False,22,27,False,1419
+35:7,57:18,18,replacement,هداية,False,22,27,False,1426
+35:7,36:11,18,replacement,هداية,False,22,22,True,49
+11:11,67:12,18,replacement,هداية,False,12,29,False,3769
+11:11,57:7,18,replacement,هداية,False,12,27,False,3598
+11:11,57:11,18,replacement,هداية,False,12,27,False,3602
+11:11,57:18,18,replacement,هداية,False,12,27,False,3609
+11:11,36:11,18,replacement,هداية,False,12,22,False,2232
+57:7,67:12,18,replacement,هداية,False,27,29,False,171
+57:11,67:12,18,replacement,هداية,False,27,29,False,167
+57:18,67:12,18,replacement,هداية,False,27,29,False,160
+36:11,67:12,18,replacement,هداية,False,22,29,False,1537
+57:7,57:11,18,replacement,هداية,True,27,27,True,4
+57:7,57:18,18,replacement,هداية,True,27,27,True,11
+36:11,57:7,18,replacement,هداية,False,22,27,False,1366
+57:11,57:18,18,replacement,هداية,True,27,27,True,7
+36:11,57:11,18,replacement,هداية,False,22,27,False,1370
+36:11,57:18,18,replacement,هداية,False,22,27,False,1377
+12:40,53:23,19,replacement,هداية,False,12,27,False,3171
+7:71,53:23,19,replacement,هداية,False,8,27,False,3782
+7:71,12:40,19,replacement,هداية,False,8,12,False,611
+15:37,15:38,20,addition & subtraction,هداية,True,14,14,True,1
+15:37,38:80,20,addition & subtraction,هداية,False,14,23,False,2211
+15:37,38:81,20,addition & subtraction,هداية,False,14,23,False,2212
+7:14,15:37,20,addition & subtraction,هداية,False,8,14,False,871
+7:15,15:37,20,addition & subtraction,هداية,False,8,14,False,870
+15:38,38:80,20,addition & subtraction,هداية,False,14,23,False,2210
+15:38,38:81,20,addition & subtraction,هداية,False,14,23,False,2211
+7:14,15:38,20,addition & subtraction,هداية,False,8,14,False,872
+7:15,15:38,20,addition & subtraction,هداية,False,8,14,False,871
+38:80,38:81,20,addition & subtraction,هداية,True,23,23,True,1
+7:14,38:80,20,addition & subtraction,هداية,False,8,23,False,3082
+7:15,38:80,20,addition & subtraction,هداية,False,8,23,False,3081
+7:14,38:81,20,addition & subtraction,هداية,False,8,23,False,3083
+7:15,38:81,20,addition & subtraction,هداية,False,8,23,False,3082
+7:14,7:15,20,addition & subtraction,هداية,True,8,8,True,1
+15:85,44:38,21,replacement,هداية,False,14,25,False,2565
+15:85,21:16,21,replacement,هداية,False,14,17,False,612
+15:85,38:27,21,replacement,هداية,False,14,23,False,2110
+21:16,44:38,21,replacement,هداية,False,17,25,False,1953
+38:27,44:38,21,replacement,هداية,False,23,25,False,455
+21:16,38:27,21,replacement,هداية,False,17,23,False,1498
+16:79,27:86,22,replacement,هداية,False,14,20,False,1265
+6:6,16:79,22,replacement,هداية,False,7,14,False,1185
+7:148,16:79,22,replacement,هداية,False,9,14,False,878
+16:79,36:31,22,replacement,هداية,False,14,23,False,1756
+6:6,27:86,22,replacement,هداية,False,7,20,False,2450
+7:148,27:86,22,replacement,هداية,False,9,20,False,2143
+27:86,36:31,22,replacement,هداية,False,20,23,False,491
+6:6,7:148,22,replacement,هداية,False,7,9,False,307
+6:6,36:31,22,replacement,هداية,False,7,23,False,2941
+7:148,36:31,22,replacement,هداية,False,9,23,False,2634
+7:114,26:42,23,addition & subtraction,هداية,False,9,19,False,1906
+7:117,27:10,24,addition & subtraction,هداية,False,9,19,False,2098
+27:10,28:31,24,addition & subtraction,هداية,False,19,20,False,114
+7:117,28:31,24,addition & subtraction,هداية,False,9,20,False,2212
+27:12,28:32,25,replacement,هداية,False,19,20,False,113
+20:22,27:12,25,replacement,هداية,False,16,19,False,801
+20:22,28:32,25,replacement,هداية,False,16,20,False,914
+27:9,28:30,26,replacement,هداية,False,19,20,False,114
+13:2,31:29,27,multiple differences,هداية,False,13,21,False,1789
+31:29,35:13,27,multiple differences,هداية,False,21,22,False,175
+31:29,39:5,27,multiple differences,هداية,False,21,23,False,565
+31:29,42:14,27,multiple differences,هداية,False,21,25,False,788
+13:2,35:13,27,multiple differences,هداية,False,13,22,False,1964
+13:2,39:5,27,multiple differences,هداية,False,13,23,False,2354
+13:2,42:14,27,multiple differences,هداية,False,13,25,False,2577
+35:13,39:5,27,multiple differences,هداية,False,22,23,False,390
+35:13,42:14,27,multiple differences,هداية,False,22,25,False,613
+39:5,42:14,27,multiple differences,هداية,False,23,25,False,223
+32:20,34:42,28,replacement,هداية,False,21,22,False,125
+38:8,54:25,29,multiple differences,هداية,False,23,27,False,893
+40:85,48:23,30,replacement,هداية,False,24,26,False,388
+33:38,40:85,30,replacement,هداية,False,22,24,False,647
+33:62,40:85,30,replacement,هداية,False,22,24,False,623
+33:38,48:23,30,replacement,هداية,False,22,26,False,1035
+33:62,48:23,30,replacement,هداية,False,22,26,False,1011
+33:38,33:62,30,replacement,هداية,True,22,22,True,24
+4:38,9:29,32,addition & subtraction,هداية,False,5,10,False,733
+2:173,5:3,33,order change,هداية,False,2,6,False,492
+2:173,6:145,33,order change,هداية,False,2,8,False,754
+2:173,16:115,33,order change,هداية,False,2,14,False,1836
+5:3,6:145,33,order change,هداية,False,6,8,False,262
+5:3,16:115,33,order change,هداية,False,6,14,False,1344
+6:145,16:115,33,order change,هداية,False,8,14,False,1082
+2:120,2:145,34,replacement,هداية,True,1,2,False,25
+2:120,3:61,34,replacement,هداية,False,1,3,False,227
+2:120,13:37,34,replacement,هداية,False,1,13,False,1617
+2:145,3:61,34,replacement,هداية,False,2,3,False,202
+2:145,13:37,34,replacement,هداية,False,2,13,False,1592
+3:61,13:37,34,replacement,هداية,False,3,13,False,1390
+3:184,6:34,35,replacement,هداية,False,4,7,False,346
+3:184,35:4,35,replacement,هداية,False,4,22,False,3187
+6:34,35:4,35,replacement,هداية,False,7,22,False,2841
+7:101,10:74,36,multiple differences,هداية,False,9,11,False,383
+7:16,15:39,37,replacement,هداية,False,8,14,False,871
+17:69,17:86,38,multiple differences,هداية,True,15,15,True,17
+20:10,27:7,39,replacement,هداية,False,16,19,False,808
+20:10,28:29,39,replacement,هداية,False,16,20,False,923
+27:7,28:29,39,replacement,هداية,False,19,20,False,115
+13:43,29:52,40,order change,هداية,False,13,21,False,1642
+17:96,29:52,40,order change,هداية,False,15,21,False,1267
+29:52,46:8,40,order change,هداية,False,21,26,False,1126
+13:43,17:96,40,order change,هداية,False,13,15,False,375
+13:43,46:8,40,order change,هداية,False,13,26,False,2768
+17:96,46:8,40,order change,هداية,False,15,26,False,2393
+40:17,45:22,41,replacement,هداية,False,24,25,False,345
+13:33,40:17,41,replacement,هداية,False,13,24,False,2410
+40:17,74:38,41,replacement,هداية,False,24,29,False,1383
+2:281,40:17,41,replacement,هداية,False,3,24,False,3862
+3:25,40:17,41,replacement,هداية,False,3,24,False,3832
+3:161,40:17,41,replacement,هداية,False,4,24,False,3696
+14:51,40:17,41,replacement,هداية,False,13,24,False,2349
+13:33,45:22,41,replacement,هداية,False,13,25,False,2755
+45:22,74:38,41,replacement,هداية,False,25,29,False,1038
+2:281,45:22,41,replacement,هداية,False,3,25,False,4207
+3:25,45:22,41,replacement,هداية,False,3,25,False,4177
+3:161,45:22,41,replacement,هداية,False,4,25,False,4041
+14:51,45:22,41,replacement,هداية,False,13,25,False,2694
+13:33,74:38,41,replacement,هداية,False,13,29,False,3793
+2:281,13:33,41,replacement,هداية,False,3,13,False,1452
+3:25,13:33,41,replacement,هداية,False,3,13,False,1422
+3:161,13:33,41,replacement,هداية,False,4,13,False,1286
+13:33,14:51,41,replacement,هداية,False,13,13,True,61
+2:281,74:38,41,replacement,هداية,False,3,29,False,5245
+3:25,74:38,41,replacement,هداية,False,3,29,False,5215
+3:161,74:38,41,replacement,هداية,False,4,29,False,5079
+14:51,74:38,41,replacement,هداية,False,13,29,False,3732
+2:281,3:25,41,replacement,هداية,False,3,3,True,30
+2:281,3:161,41,replacement,هداية,False,3,4,False,166
+2:281,14:51,41,replacement,هداية,False,3,13,False,1513
+3:25,3:161,41,replacement,هداية,True,3,4,False,136
+3:25,14:51,41,replacement,هداية,False,3,13,False,1483
+3:161,14:51,41,replacement,هداية,False,4,13,False,1347
+2:197,2:215,42,replacement,هداية,True,2,2,True,18
+2:197,3:115,42,replacement,هداية,False,2,4,False,204
+2:197,4:127,42,replacement,هداية,False,2,5,False,416
+2:197,2:272,42,replacement,هداية,True,2,3,False,75
+2:197,2:273,42,replacement,هداية,True,2,3,False,76
+2:197,3:92,42,replacement,هداية,False,2,3,False,181
+2:197,8:60,42,replacement,هداية,False,2,10,False,1016
+2:215,3:115,42,replacement,هداية,False,2,4,False,186
+2:215,4:127,42,replacement,هداية,False,2,5,False,398
+2:215,2:272,42,replacement,هداية,True,2,3,False,57
+2:215,2:273,42,replacement,هداية,True,2,3,False,58
+2:215,3:92,42,replacement,هداية,False,2,3,False,163
+2:215,8:60,42,replacement,هداية,False,2,10,False,998
+3:115,4:127,42,replacement,هداية,False,4,5,False,212
+2:272,3:115,42,replacement,هداية,False,3,4,False,129
+2:273,3:115,42,replacement,هداية,False,3,4,False,128
+3:92,3:115,42,replacement,هداية,True,3,4,False,23
+3:115,8:60,42,replacement,هداية,False,4,10,False,812
+2:272,4:127,42,replacement,هداية,False,3,5,False,341
+2:273,4:127,42,replacement,هداية,False,3,5,False,340
+3:92,4:127,42,replacement,هداية,False,3,5,False,235
+4:127,8:60,42,replacement,هداية,False,5,10,False,600
+2:272,2:273,42,replacement,هداية,True,3,3,True,1
+2:272,3:92,42,replacement,هداية,False,3,3,True,106
+2:272,8:60,42,replacement,هداية,False,3,10,False,941
+2:273,3:92,42,replacement,هداية,False,3,3,True,105
+2:273,8:60,42,replacement,هداية,False,3,10,False,940
+3:92,8:60,42,replacement,هداية,False,3,10,False,835
+2:38,3:73,43,replacement,هداية,False,1,3,False,321
+2:147,3:60,44,replacement,هداية,False,2,3,False,199
+3:60,6:114,44,replacement,هداية,False,3,8,False,550
+2:147,6:114,44,replacement,هداية,False,2,8,False,749
+5:92,10:72,45,replacement,هداية,False,7,11,False,675
+10:72,64:12,45,replacement,هداية,False,11,28,False,3775
+5:99,24:29,46,replacement,هداية,False,7,18,False,2052
+5:99,27:25,46,replacement,هداية,False,7,19,False,2416
+5:99,16:19,46,replacement,هداية,False,7,14,False,1152
+5:99,64:4,46,replacement,هداية,False,7,28,False,4435
+24:29,27:25,46,replacement,هداية,False,18,19,False,364
+16:19,24:29,46,replacement,هداية,False,14,18,False,900
+24:29,64:4,46,replacement,هداية,False,18,28,False,2383
+16:19,27:25,46,replacement,هداية,False,14,19,False,1264
+27:25,64:4,46,replacement,هداية,False,19,28,False,2019
+16:19,64:4,46,replacement,هداية,False,14,28,False,3283
+11:67,11:94,47,addition & subtraction,هداية,True,12,12,True,27
+7:10,23:78,48,replacement,هداية,False,8,18,False,1787
+7:10,32:9,48,replacement,هداية,False,8,21,False,2548
+7:10,67:23,48,replacement,هداية,False,8,29,False,4300
+7:3,7:10,48,replacement,هداية,True,8,8,True,7
+7:10,27:62,48,replacement,هداية,False,8,20,False,2257
+7:10,69:42,48,replacement,هداية,False,8,29,False,4401
+7:10,40:58,48,replacement,هداية,False,8,24,False,3227
+2:88,7:10,48,replacement,هداية,False,1,8,False,869
+7:10,69:41,48,replacement,هداية,False,8,29,False,4400
+23:78,32:9,48,replacement,هداية,False,18,21,False,761
+23:78,67:23,48,replacement,هداية,False,18,29,False,2513
+7:3,23:78,48,replacement,هداية,False,8,18,False,1794
+23:78,27:62,48,replacement,هداية,False,18,20,False,470
+23:78,69:42,48,replacement,هداية,False,18,29,False,2614
+23:78,40:58,48,replacement,هداية,False,18,24,False,1440
+2:88,23:78,48,replacement,هداية,False,1,18,False,2656
+23:78,69:41,48,replacement,هداية,False,18,29,False,2613
+32:9,67:23,48,replacement,هداية,False,21,29,False,1752
+7:3,32:9,48,replacement,هداية,False,8,21,False,2555
+27:62,32:9,48,replacement,هداية,False,20,21,False,291
+32:9,69:42,48,replacement,هداية,False,21,29,False,1853
+32:9,40:58,48,replacement,هداية,False,21,24,False,679
+2:88,32:9,48,replacement,هداية,False,1,21,False,3417
+32:9,69:41,48,replacement,هداية,False,21,29,False,1852
+7:3,67:23,48,replacement,هداية,False,8,29,False,4307
+27:62,67:23,48,replacement,هداية,False,20,29,False,2043
+67:23,69:42,48,replacement,هداية,False,29,29,True,101
+40:58,67:23,48,replacement,هداية,False,24,29,False,1073
+2:88,67:23,48,replacement,هداية,False,1,29,False,5169
+67:23,69:41,48,replacement,هداية,False,29,29,True,100
+7:3,27:62,48,replacement,هداية,False,8,20,False,2264
+7:3,69:42,48,replacement,هداية,False,8,29,False,4408
+7:3,40:58,48,replacement,هداية,False,8,24,False,3234
+2:88,7:3,48,replacement,هداية,False,1,8,False,862
+7:3,69:41,48,replacement,هداية,False,8,29,False,4407
+27:62,69:42,48,replacement,هداية,False,20,29,False,2144
+27:62,40:58,48,replacement,هداية,False,20,24,False,970
+2:88,27:62,48,replacement,هداية,False,1,20,False,3126
+27:62,69:41,48,replacement,هداية,False,20,29,False,2143
+40:58,69:42,48,replacement,هداية,False,24,29,False,1174
+2:88,69:42,48,replacement,هداية,False,1,29,False,5270
+69:41,69:42,48,replacement,هداية,True,29,29,True,1
+2:88,40:58,48,replacement,هداية,False,1,24,False,4096
+40:58,69:41,48,replacement,هداية,False,24,29,False,1173
+2:88,69:41,48,replacement,هداية,False,1,29,False,5269
+7:37,26:75,49,replacement,هداية,False,8,19,False,2016
+7:37,40:73,49,replacement,هداية,False,8,24,False,3215
+26:75,40:73,49,replacement,هداية,False,19,24,False,1199
+13:5,27:67,50,addition & subtraction,هداية,False,13,20,False,1514
+13:5,50:3,50,addition & subtraction,هداية,False,13,26,False,2921
+13:5,23:82,50,addition & subtraction,هداية,False,13,18,False,1043
+13:5,37:16,50,addition & subtraction,هداية,False,13,23,False,2092
+13:5,37:53,50,addition & subtraction,هداية,False,13,23,False,2129
+13:5,56:47,50,addition & subtraction,هداية,False,13,27,False,3314
+27:67,50:3,50,addition & subtraction,هداية,False,20,26,False,1407
+23:82,27:67,50,addition & subtraction,هداية,False,18,20,False,471
+27:67,37:16,50,addition & subtraction,هداية,False,20,23,False,578
+27:67,37:53,50,addition & subtraction,هداية,False,20,23,False,615
+27:67,56:47,50,addition & subtraction,هداية,False,20,27,False,1800
+23:82,50:3,50,addition & subtraction,هداية,False,18,26,False,1878
+37:16,50:3,50,addition & subtraction,هداية,False,23,26,False,829
+37:53,50:3,50,addition & subtraction,هداية,False,23,26,False,792
+50:3,56:47,50,addition & subtraction,هداية,False,26,27,False,393
+23:82,37:16,50,addition & subtraction,هداية,False,18,23,False,1049
+23:82,37:53,50,addition & subtraction,هداية,False,18,23,False,1086
+23:82,56:47,50,addition & subtraction,هداية,False,18,27,False,2271
+37:16,37:53,50,addition & subtraction,هداية,True,23,23,True,37
+37:16,56:47,50,addition & subtraction,هداية,False,23,27,False,1222
+37:53,56:47,50,addition & subtraction,هداية,False,23,27,False,1185
+3:137,6:11,51,replacement,هداية,False,4,7,False,370
+6:11,16:36,51,replacement,هداية,False,7,14,False,1137
+6:11,27:69,51,replacement,هداية,False,7,20,False,2428
+6:11,29:20,51,replacement,هداية,False,7,20,False,2560
+6:11,30:42,51,replacement,هداية,False,7,21,False,2651
+3:137,16:36,51,replacement,هداية,False,4,14,False,1507
+3:137,27:69,51,replacement,هداية,False,4,20,False,2798
+3:137,29:20,51,replacement,هداية,False,4,20,False,2930
+3:137,30:42,51,replacement,هداية,False,4,21,False,3021
+16:36,27:69,51,replacement,هداية,False,14,20,False,1291
+16:36,29:20,51,replacement,هداية,False,14,20,False,1423
+16:36,30:42,51,replacement,هداية,False,14,21,False,1514
+27:69,29:20,51,replacement,هداية,False,20,20,True,132
+27:69,30:42,51,replacement,هداية,False,20,21,False,223
+29:20,30:42,51,replacement,هداية,False,20,21,False,91
+7:124,20:71,52,replacement,هداية,False,9,16,False,1341
+7:124,26:49,52,replacement,هداية,False,9,19,False,1903
+20:71,26:49,52,replacement,هداية,False,16,19,False,562
+9:94,9:105,53,replacement,هداية,True,11,11,True,11
+41:52,46:10,54,replacement,هداية,False,25,26,False,250
+4:40,11:17,55,addition & subtraction,هداية,False,5,12,False,957
+4:40,11:109,55,addition & subtraction,هداية,False,5,12,False,1049
+4:40,16:127,55,addition & subtraction,هداية,False,5,14,False,1495
+4:40,19:9,55,addition & subtraction,هداية,False,5,16,False,1726
+4:40,31:16,55,addition & subtraction,هداية,False,5,21,False,2952
+4:40,40:50,55,addition & subtraction,هداية,False,5,24,False,3650
+11:17,11:109,55,addition & subtraction,هداية,True,12,12,True,92
+11:17,16:127,55,addition & subtraction,هداية,False,12,14,False,538
+11:17,19:9,55,addition & subtraction,هداية,False,12,16,False,769
+11:17,31:16,55,addition & subtraction,هداية,False,12,21,False,1995
+11:17,40:50,55,addition & subtraction,هداية,False,12,24,False,2693
+11:109,16:127,55,addition & subtraction,هداية,False,12,14,False,446
+11:109,19:9,55,addition & subtraction,هداية,False,12,16,False,677
+11:109,31:16,55,addition & subtraction,هداية,False,12,21,False,1903
+11:109,40:50,55,addition & subtraction,هداية,False,12,24,False,2601
+16:127,19:9,55,addition & subtraction,هداية,False,14,16,False,231
+16:127,31:16,55,addition & subtraction,هداية,False,14,21,False,1457
+16:127,40:50,55,addition & subtraction,هداية,False,14,24,False,2155
+19:9,31:16,55,addition & subtraction,هداية,False,16,21,False,1226
+19:9,40:50,55,addition & subtraction,هداية,False,16,24,False,1924
+31:16,40:50,55,addition & subtraction,هداية,False,21,24,False,698
+31:20,71:15,56,addition & subtraction,هداية,False,21,29,False,1945
+3:86,3:105,57,replacement,هداية,True,3,4,False,19
+2:213,3:86,57,replacement,هداية,False,2,3,False,159
+2:253,3:86,57,replacement,هداية,False,3,3,True,119
+3:86,4:153,57,replacement,هداية,False,3,6,False,267
+2:213,3:105,57,replacement,هداية,False,2,4,False,178
+2:253,3:105,57,replacement,هداية,False,3,4,False,138
+3:105,4:153,57,replacement,هداية,False,4,6,False,248
+2:213,2:253,57,replacement,هداية,True,2,3,False,40
+2:213,4:153,57,replacement,هداية,False,2,6,False,426
+2:253,4:153,57,replacement,هداية,False,3,6,False,386
+20:11,27:8,58,replacement,هداية,False,16,19,False,808
+27:8,28:30,58,replacement,هداية,False,19,20,False,115
+20:11,28:30,58,replacement,هداية,False,16,20,False,923
+39:71,39:73,59,addition & subtraction,هداية,True,24,24,True,2
+39:71,41:20,59,addition & subtraction,هداية,False,24,24,True,109
+39:73,41:20,59,addition & subtraction,هداية,False,24,24,True,107
+4:6,33:39,60,replacement,هداية,False,4,22,False,3073
+15:25,27:6,61,order change,هداية,False,14,19,False,1338
+15:25,43:84,61,order change,هداية,False,14,25,False,2582
+15:25,51:30,61,order change,هداية,False,14,26,False,2878
+6:83,15:25,61,order change,هداية,False,7,14,False,955
+6:128,15:25,61,order change,هداية,False,8,14,False,910
+6:139,15:25,61,order change,هداية,False,8,14,False,899
+27:6,43:84,61,order change,هداية,False,19,25,False,1244
+27:6,51:30,61,order change,هداية,False,19,26,False,1540
+6:83,27:6,61,order change,هداية,False,7,19,False,2293
+6:128,27:6,61,order change,هداية,False,8,19,False,2248
+6:139,27:6,61,order change,هداية,False,8,19,False,2237
+43:84,51:30,61,order change,هداية,False,25,26,False,296
+6:83,43:84,61,order change,هداية,False,7,25,False,3537
+6:128,43:84,61,order change,هداية,False,8,25,False,3492
+6:139,43:84,61,order change,هداية,False,8,25,False,3481
+6:83,51:30,61,order change,هداية,False,7,26,False,3833
+6:128,51:30,61,order change,هداية,False,8,26,False,3788
+6:139,51:30,61,order change,هداية,False,8,26,False,3777
+6:83,6:128,61,order change,هداية,True,7,8,False,45
+6:83,6:139,61,order change,هداية,True,7,8,False,56
+6:128,6:139,61,order change,هداية,True,8,8,True,11
+29:8,46:15,62,replacement,هداية,False,20,26,False,1177
+29:8,31:14,62,replacement,هداية,False,20,21,False,135
+31:14,46:15,62,replacement,هداية,False,21,26,False,1042
+15:53,37:101,63,replacement,هداية,False,14,23,False,2034
+37:101,51:28,63,replacement,هداية,False,23,26,False,814
+15:53,51:28,63,replacement,هداية,False,14,26,False,2848
+43:83,52:45,64,multiple differences,هداية,False,25,27,False,372
+52:45,70:42,64,multiple differences,هداية,False,27,29,False,637
+43:83,70:42,64,multiple differences,هداية,False,25,29,False,1009
+6:102,40:62,65,order change,هداية,False,7,24,False,3304
+6:151,17:31,66,replacement,هداية,False,8,15,False,1120
+21:70,37:98,67,replacement,هداية,False,17,23,False,1333
+6:160,27:89,68,replacement,هداية,False,8,20,False,2299
+6:160,28:84,68,replacement,هداية,False,8,20,False,2387
+27:89,28:84,68,replacement,هداية,False,20,20,True,88
+6:63,7:205,69,replacement,هداية,False,7,9,False,307
+7:55,7:205,69,replacement,هداية,True,8,9,False,150
+6:63,7:55,69,replacement,هداية,False,7,8,False,157
+40:11,42:44,70,replacement,هداية,False,24,25,False,172
+7:78,11:67,71,replacement,هداية,False,8,12,False,508
+7:91,11:67,71,replacement,هداية,False,9,12,False,495
+11:67,29:37,71,replacement,هداية,False,12,20,False,1837
+7:78,11:94,71,replacement,هداية,False,8,12,False,535
+7:91,11:94,71,replacement,هداية,False,9,12,False,522
+11:94,29:37,71,replacement,هداية,False,12,20,False,1810
+7:78,7:91,71,replacement,هداية,True,8,9,False,13
+7:78,29:37,71,replacement,هداية,False,8,20,False,2345
+7:91,29:37,71,replacement,هداية,False,9,20,False,2332
+39:8,39:49,73,replacement,هداية,True,23,24,False,41
+6:90,12:104,74,replacement,هداية,False,7,13,False,821
+6:90,38:87,74,replacement,هداية,False,7,23,False,3178
+6:90,81:27,74,replacement,هداية,False,7,30,False,4948
+12:104,38:87,74,replacement,هداية,False,13,23,False,2357
+12:104,81:27,74,replacement,هداية,False,13,30,False,4127
+38:87,81:27,74,replacement,هداية,False,23,30,False,1770
+26:70,37:85,75,addition & subtraction,هداية,False,19,23,False,871
+8:4,8:74,77,replacement,هداية,True,9,10,False,70
+8:4,22:50,77,replacement,هداية,False,9,17,False,1481
+8:4,24:26,77,replacement,هداية,False,9,18,False,1653
+8:4,34:4,77,replacement,هداية,False,9,22,False,2446
+8:4,36:11,77,replacement,هداية,False,9,22,False,2552
+8:4,57:11,77,replacement,هداية,False,9,27,False,3922
+8:4,57:18,77,replacement,هداية,False,9,27,False,3929
+8:74,22:50,77,replacement,هداية,False,10,17,False,1411
+8:74,24:26,77,replacement,هداية,False,10,18,False,1583
+8:74,34:4,77,replacement,هداية,False,10,22,False,2376
+8:74,36:11,77,replacement,هداية,False,10,22,False,2482
+8:74,57:11,77,replacement,هداية,False,10,27,False,3852
+8:74,57:18,77,replacement,هداية,False,10,27,False,3859
+22:50,24:26,77,replacement,هداية,False,17,18,False,172
+22:50,34:4,77,replacement,هداية,False,17,22,False,965
+22:50,36:11,77,replacement,هداية,False,17,22,False,1071
+22:50,57:11,77,replacement,هداية,False,17,27,False,2441
+22:50,57:18,77,replacement,هداية,False,17,27,False,2448
+24:26,34:4,77,replacement,هداية,False,18,22,False,793
+24:26,36:11,77,replacement,هداية,False,18,22,False,899
+24:26,57:11,77,replacement,هداية,False,18,27,False,2269
+24:26,57:18,77,replacement,هداية,False,18,27,False,2276
+34:4,36:11,77,replacement,هداية,False,22,22,True,106
+34:4,57:11,77,replacement,هداية,False,22,27,False,1476
+34:4,57:18,77,replacement,هداية,False,22,27,False,1483
+18:36,28:13,78,replacement,هداية,False,15,20,False,1089
+28:13,41:50,78,replacement,هداية,False,20,25,False,1003
+20:40,28:13,78,replacement,هداية,False,16,20,False,877
+18:36,41:50,78,replacement,هداية,False,15,25,False,2092
+18:36,20:40,78,replacement,هداية,False,15,16,False,212
+20:40,41:50,78,replacement,هداية,False,16,25,False,1880
+28:20,36:20,79,order change,هداية,False,20,22,False,453
+38:9,52:37,80,addition & subtraction,هداية,False,23,27,False,793
+7:134,7:135,81,replacement,هداية,True,9,9,True,1
+7:134,74:5,81,replacement,هداية,False,9,29,False,4412
+7:134,43:50,81,replacement,هداية,False,9,25,False,3287
+7:135,74:5,81,replacement,هداية,False,9,29,False,4411
+7:135,43:50,81,replacement,هداية,False,9,25,False,3286
+43:50,74:5,81,replacement,هداية,False,25,29,False,1125
+21:93,23:53,82,addition & subtraction,هداية,False,17,18,False,150
+26:57,26:58,83,replacement,هداية,True,19,19,True,1
+26:57,26:147,83,replacement,هداية,True,19,19,True,90
+26:57,26:148,83,replacement,هداية,True,19,19,True,91
+26:57,44:25,83,replacement,هداية,False,19,25,False,1450
+26:57,44:26,83,replacement,هداية,False,19,25,False,1451
+26:58,26:147,83,replacement,هداية,True,19,19,True,89
+26:58,26:148,83,replacement,هداية,True,19,19,True,90
+26:58,44:25,83,replacement,هداية,False,19,25,False,1449
+26:58,44:26,83,replacement,هداية,False,19,25,False,1450
+26:147,26:148,83,replacement,هداية,True,19,19,True,1
+26:147,44:25,83,replacement,هداية,False,19,25,False,1360
+26:147,44:26,83,replacement,هداية,False,19,25,False,1361
+26:148,44:25,83,replacement,هداية,False,19,25,False,1359
+26:148,44:26,83,replacement,هداية,False,19,25,False,1360
+44:25,44:26,83,replacement,هداية,True,25,25,True,1
+4:152,4:162,84,replacement,هداية,True,6,6,True,10
+6:135,11:93,85,replacement,هداية,False,8,12,False,642
+11:93,39:39,85,replacement,هداية,False,12,24,False,2531
+6:135,39:39,85,replacement,هداية,False,8,24,False,3173
+2:176,22:53,87,replacement,هداية,False,2,17,False,2465
+2:176,41:52,87,replacement,هداية,False,2,25,False,4087
+2:176,14:3,87,replacement,هداية,False,2,13,False,1570
+2:176,42:18,87,replacement,هداية,False,2,25,False,4107
+2:176,50:27,87,replacement,هداية,False,2,26,False,4474
+22:53,41:52,87,replacement,هداية,False,17,25,False,1622
+14:3,22:53,87,replacement,هداية,False,13,17,False,895
+22:53,42:18,87,replacement,هداية,False,17,25,False,1642
+22:53,50:27,87,replacement,هداية,False,17,26,False,2009
+14:3,41:52,87,replacement,هداية,False,13,25,False,2517
+41:52,42:18,87,replacement,هداية,False,25,25,True,20
+41:52,50:27,87,replacement,هداية,False,25,26,False,387
+14:3,42:18,87,replacement,هداية,False,13,25,False,2537
+14:3,50:27,87,replacement,هداية,False,13,26,False,2904
+42:18,50:27,87,replacement,هداية,False,25,26,False,367
+2:143,22:78,88,order change,هداية,False,2,17,False,2523
+4:41,16:89,89,order change,هداية,False,5,14,False,1456
+2:284,3:29,90,multiple differences,هداية,False,3,3,True,31
+28:27,37:102,92,replacement,هداية,False,20,23,False,611
+2:222,9:108,94,replacement,هداية,False,2,11,False,1114
+18:78,18:82,95,replacement,هداية,True,16,16,True,4
+2:162,3:88,97,replacement,هداية,False,2,3,False,212
+2:162,16:85,97,replacement,هداية,False,2,14,False,1817
+2:162,21:40,97,replacement,هداية,False,2,17,False,2354
+2:162,32:29,97,replacement,هداية,False,2,21,False,3363
+3:88,16:85,97,replacement,هداية,False,3,14,False,1605
+3:88,21:40,97,replacement,هداية,False,3,17,False,2142
+3:88,32:29,97,replacement,هداية,False,3,21,False,3151
+16:85,21:40,97,replacement,هداية,False,14,17,False,537
+16:85,32:29,97,replacement,هداية,False,14,21,False,1546
+21:40,32:29,97,replacement,هداية,False,17,21,False,1009
+6:21,6:135,98,replacement,هداية,True,7,8,False,114
+6:21,12:23,98,replacement,هداية,False,7,12,False,809
+6:21,28:37,98,replacement,هداية,False,7,20,False,2479
+6:21,23:117,98,replacement,هداية,False,7,18,False,1980
+6:21,28:82,98,replacement,هداية,False,7,20,False,2524
+6:135,12:23,98,replacement,هداية,False,8,12,False,695
+6:135,28:37,98,replacement,هداية,False,8,20,False,2365
+6:135,23:117,98,replacement,هداية,False,8,18,False,1866
+6:135,28:82,98,replacement,هداية,False,8,20,False,2410
+12:23,28:37,98,replacement,هداية,False,12,20,False,1670
+12:23,23:117,98,replacement,هداية,False,12,18,False,1171
+12:23,28:82,98,replacement,هداية,False,12,20,False,1715
+23:117,28:37,98,replacement,هداية,False,18,20,False,499
+28:37,28:82,98,replacement,هداية,True,20,20,True,45
+23:117,28:82,98,replacement,هداية,False,18,20,False,544
+2:125,22:26,99,replacement,هداية,False,1,17,False,2489
+12:6,12:83,100,order change,هداية,True,12,13,False,77
+12:6,12:100,100,order change,هداية,True,12,13,False,94
+12:83,12:100,100,order change,هداية,True,13,13,True,17
+16:111,39:70,101,replacement,هداية,False,14,24,False,2116
+2:281,16:111,101,replacement,هداية,False,3,14,False,1724
+3:25,16:111,101,replacement,هداية,False,3,14,False,1694
+3:161,16:111,101,replacement,هداية,False,4,14,False,1558
+14:51,16:111,101,replacement,هداية,False,13,14,False,211
+2:281,39:70,101,replacement,هداية,False,3,24,False,3840
+3:25,39:70,101,replacement,هداية,False,3,24,False,3810
+3:161,39:70,101,replacement,هداية,False,4,24,False,3674
+14:51,39:70,101,replacement,هداية,False,13,24,False,2327
+16:34,45:33,102,replacement,هداية,False,14,25,False,2571
+16:34,39:48,102,replacement,هداية,False,14,24,False,2171
+16:34,39:51,102,replacement,هداية,False,14,24,False,2174
+39:48,45:33,102,replacement,هداية,False,24,25,False,400
+39:51,45:33,102,replacement,هداية,False,24,25,False,397
+39:48,39:51,102,replacement,هداية,True,24,24,True,3
+21:84,38:43,103,replacement,هداية,False,17,23,False,1446
+21:25,21:92,104,replacement,هداية,True,17,17,True,67
+21:25,29:56,104,replacement,هداية,False,17,21,False,888
+21:92,29:56,104,replacement,هداية,False,17,21,False,821
+29:8,31:15,105,replacement,هداية,False,20,21,False,136
+51:15,52:17,106,replacement,هداية,False,26,27,False,62
+2:225,2:235,107,replacement,هداية,True,2,2,True,10
+2:225,3:155,107,replacement,هداية,False,2,4,False,216
+2:225,5:101,107,replacement,هداية,False,2,7,False,538
+2:235,3:155,107,replacement,هداية,False,2,4,False,206
+2:235,5:101,107,replacement,هداية,False,2,7,False,528
+3:155,5:101,107,replacement,هداية,False,4,7,False,322
+6:133,18:58,108,replacement,هداية,False,8,15,False,1276
+6:131,11:117,109,replacement,هداية,False,8,12,False,670
+52:24,56:17,110,replacement,هداية,False,27,27,True,237
+52:24,76:19,110,replacement,هداية,False,27,29,False,851
+56:17,76:19,110,replacement,هداية,False,27,29,False,614
+6:144,6:157,111,replacement,هداية,True,8,8,True,13
+6:144,7:37,111,replacement,هداية,False,8,8,True,58
+6:144,10:17,111,replacement,هداية,False,8,11,False,448
+6:144,18:15,111,replacement,هداية,False,8,15,False,1222
+6:144,39:32,111,replacement,هداية,False,8,24,False,3157
+6:157,7:37,111,replacement,هداية,False,8,8,True,45
+6:157,10:17,111,replacement,هداية,False,8,11,False,435
+6:157,18:15,111,replacement,هداية,False,8,15,False,1209
+6:157,39:32,111,replacement,هداية,False,8,24,False,3144
+7:37,10:17,111,replacement,هداية,False,8,11,False,390
+7:37,18:15,111,replacement,هداية,False,8,15,False,1164
+7:37,39:32,111,replacement,هداية,False,8,24,False,3099
+10:17,18:15,111,replacement,هداية,False,11,15,False,774
+10:17,39:32,111,replacement,هداية,False,11,24,False,2709
+18:15,39:32,111,replacement,هداية,False,15,24,False,1935
+7:123,26:49,112,multiple differences,هداية,False,9,19,False,1904
+7:123,20:71,112,multiple differences,هداية,False,9,16,False,1342
+6:135,7:123,113,replacement,هداية,False,8,9,False,153
+7:123,39:39,113,replacement,هداية,False,9,24,False,3020
+7:123,11:93,113,replacement,هداية,False,9,12,False,489
+6:135,26:49,113,replacement,هداية,False,8,19,False,2057
+26:49,39:39,113,replacement,هداية,False,19,24,False,1116
+11:93,26:49,113,replacement,هداية,False,12,19,False,1415
+9:55,9:85,114,multiple differences,هداية,True,10,10,True,30
+11:27,23:24,115,replacement,هداية,False,12,18,False,1197
+12:109,22:46,116,replacement,هداية,False,13,17,False,936
+12:109,40:82,116,replacement,هداية,False,13,24,False,2510
+12:109,47:10,116,replacement,هداية,False,13,26,False,2850
+12:109,40:21,116,replacement,هداية,False,13,24,False,2449
+12:109,35:44,116,replacement,هداية,False,13,22,False,1999
+12:109,30:9,116,replacement,هداية,False,13,21,False,1713
+22:46,40:82,116,replacement,هداية,False,17,24,False,1574
+22:46,47:10,116,replacement,هداية,False,17,26,False,1914
+22:46,40:21,116,replacement,هداية,False,17,24,False,1513
+22:46,35:44,116,replacement,هداية,False,17,22,False,1063
+22:46,30:9,116,replacement,هداية,False,17,21,False,777
+40:82,47:10,116,replacement,هداية,False,24,26,False,340
+40:21,40:82,116,replacement,هداية,True,24,24,True,61
+35:44,40:82,116,replacement,هداية,False,22,24,False,511
+30:9,40:82,116,replacement,هداية,False,21,24,False,797
+40:21,47:10,116,replacement,هداية,False,24,26,False,401
+35:44,47:10,116,replacement,هداية,False,22,26,False,851
+30:9,47:10,116,replacement,هداية,False,21,26,False,1137
+35:44,40:21,116,replacement,هداية,False,22,24,False,450
+30:9,40:21,116,replacement,هداية,False,21,24,False,736
+30:9,35:44,116,replacement,هداية,False,21,22,False,286
+6:165,35:39,117,addition & subtraction,هداية,False,8,22,False,2745
+10:108,39:41,118,replacement,هداية,False,11,24,False,2627
+27:92,39:41,118,replacement,هداية,False,20,24,False,848
+17:15,39:41,118,replacement,هداية,False,15,24,False,2055
+10:108,27:92,118,replacement,هداية,False,11,20,False,1779
+10:108,17:15,118,replacement,هداية,False,11,15,False,572
+17:15,27:92,118,replacement,هداية,False,15,20,False,1207
+24:57,58:8,119,replacement,هداية,False,18,28,False,2264
+37:50,68:30,120,replacement,هداية,False,23,29,False,1463
+51:16,52:18,121,replacement,هداية,False,26,27,False,62
+2:58,7:161,122,multiple differences,هداية,False,1,9,False,1050
+4:135,5:8,123,replacement,هداية,False,5,6,False,49
+7:109,26:34,124,replacement,هداية,False,9,19,False,1903
+10:47,10:54,125,replacement,هداية,True,11,11,True,7
+10:47,39:69,125,replacement,هداية,False,11,24,False,2716
+10:47,39:75,125,replacement,هداية,False,11,24,False,2722
+10:54,39:69,125,replacement,هداية,False,11,24,False,2709
+10:54,39:75,125,replacement,هداية,False,11,24,False,2715
+39:69,39:75,125,replacement,هداية,True,24,24,True,6
+13:34,20:127,126,replacement,هداية,False,13,16,False,734
+13:34,39:26,126,replacement,هداية,False,13,23,False,2343
+13:34,41:16,126,replacement,هداية,False,13,24,False,2493
+13:34,68:33,126,replacement,هداية,False,13,29,False,3563
+20:127,39:26,126,replacement,هداية,False,16,23,False,1609
+20:127,41:16,126,replacement,هداية,False,16,24,False,1759
+20:127,68:33,126,replacement,هداية,False,16,29,False,2829
+39:26,41:16,126,replacement,هداية,False,23,24,False,150
+39:26,68:33,126,replacement,هداية,False,23,29,False,1220
+41:16,68:33,126,replacement,هداية,False,24,29,False,1070
+4:115,59:4,127,replacement,هداية,False,5,28,False,4522
+8:13,59:4,127,replacement,هداية,False,9,28,False,3957
+4:115,8:13,127,replacement,هداية,False,5,9,False,565
+17:77,21:7,128,replacement,هداية,False,15,17,False,384
+17:77,25:20,128,replacement,هداية,False,15,18,False,769
+17:77,34:44,128,replacement,هداية,False,15,22,False,1544
+21:7,25:20,128,replacement,هداية,False,17,18,False,385
+21:7,34:44,128,replacement,هداية,False,17,22,False,1160
+25:20,34:44,128,replacement,هداية,False,18,22,False,775
+57:25,58:21,130,addition & subtraction,هداية,False,27,28,False,25
+22:40,57:25,130,addition & subtraction,هداية,False,17,27,False,2465
+22:74,57:25,130,addition & subtraction,هداية,False,17,27,False,2431
+22:40,58:21,130,addition & subtraction,هداية,False,17,28,False,2490
+22:74,58:21,130,addition & subtraction,هداية,False,17,28,False,2456
+22:40,22:74,130,addition & subtraction,هداية,True,17,17,True,34
+2:89,2:101,131,replacement,هداية,True,1,1,True,12
+3:11,8:54,132,replacement,هداية,False,3,10,False,910
+3:11,8:52,132,replacement,هداية,False,3,10,False,908
+8:52,8:54,132,replacement,هداية,True,10,10,True,2
+2:57,3:117,133,addition & subtraction,هداية,False,1,4,False,346
+3:117,7:160,133,addition & subtraction,هداية,False,4,9,False,704
+3:117,9:70,133,addition & subtraction,هداية,False,4,10,False,895
+3:117,16:33,133,addition & subtraction,هداية,False,4,14,False,1524
+3:117,16:118,133,addition & subtraction,هداية,False,4,14,False,1609
+3:117,29:40,133,addition & subtraction,هداية,False,4,20,False,2970
+3:117,30:9,133,addition & subtraction,هداية,False,4,21,False,3008
+2:57,7:160,133,addition & subtraction,هداية,False,1,9,False,1050
+2:57,9:70,133,addition & subtraction,هداية,False,1,10,False,1241
+2:57,16:33,133,addition & subtraction,هداية,False,1,14,False,1870
+2:57,16:118,133,addition & subtraction,هداية,False,1,14,False,1955
+2:57,29:40,133,addition & subtraction,هداية,False,1,20,False,3316
+2:57,30:9,133,addition & subtraction,هداية,False,1,21,False,3354
+7:160,9:70,133,addition & subtraction,هداية,False,9,10,False,191
+7:160,16:33,133,addition & subtraction,هداية,False,9,14,False,820
+7:160,16:118,133,addition & subtraction,هداية,False,9,14,False,905
+7:160,29:40,133,addition & subtraction,هداية,False,9,20,False,2266
+7:160,30:9,133,addition & subtraction,هداية,False,9,21,False,2304
+9:70,16:33,133,addition & subtraction,هداية,False,10,14,False,629
+9:70,16:118,133,addition & subtraction,هداية,False,10,14,False,714
+9:70,29:40,133,addition & subtraction,هداية,False,10,20,False,2075
+9:70,30:9,133,addition & subtraction,هداية,False,10,21,False,2113
+16:33,16:118,133,addition & subtraction,هداية,True,14,14,True,85
+16:33,29:40,133,addition & subtraction,هداية,False,14,20,False,1446
+16:33,30:9,133,addition & subtraction,هداية,False,14,21,False,1484
+16:118,29:40,133,addition & subtraction,هداية,False,14,20,False,1361
+16:118,30:9,133,addition & subtraction,هداية,False,14,21,False,1399
+29:40,30:9,133,addition & subtraction,هداية,False,20,21,False,38
+6:148,10:39,134,replacement,هداية,False,8,11,False,466
+10:39,16:35,134,replacement,هداية,False,11,14,False,533
+2:193,8:39,135,addition & subtraction,هداية,False,2,9,False,999
+26:7,31:10,137,replacement,هداية,False,19,21,False,540
+22:5,31:10,137,replacement,هداية,False,17,21,False,879
+31:10,50:7,137,replacement,هداية,False,21,26,False,1158
+22:5,26:7,137,replacement,هداية,False,17,19,False,339
+26:7,50:7,137,replacement,هداية,False,19,26,False,1698
+22:5,50:7,137,replacement,هداية,False,17,26,False,2037
+31:7,45:8,138,addition & subtraction,هداية,False,21,25,False,1005
+5:36,13:18,139,replacement,هداية,False,6,13,False,1020
+5:36,39:47,139,replacement,هداية,False,6,24,False,3400
+13:18,39:47,139,replacement,هداية,False,13,24,False,2380
+6:50,11:31,140,addition & subtraction,هداية,False,7,12,False,665
+7:12,38:75,141,replacement,هداية,False,8,23,False,3079
+7:12,15:32,141,replacement,هداية,False,8,14,False,868
+15:32,38:75,141,replacement,هداية,False,14,23,False,2211
+7:51,29:64,142,order change,هداية,False,8,21,False,2399
+6:70,7:51,142,order change,هداية,False,7,8,False,146
+7:51,57:20,142,order change,هداية,False,8,27,False,4090
+7:51,47:36,142,order change,هداية,False,8,26,False,3576
+6:70,29:64,142,order change,هداية,False,7,21,False,2545
+29:64,57:20,142,order change,هداية,False,21,27,False,1691
+29:64,47:36,142,order change,هداية,False,21,26,False,1177
+6:70,57:20,142,order change,هداية,False,7,27,False,4236
+6:70,47:36,142,order change,هداية,False,7,26,False,3722
+47:36,57:20,142,order change,هداية,False,26,27,False,514
+7:59,11:25,143,addition & subtraction,هداية,False,8,12,False,485
+7:59,23:23,143,addition & subtraction,هداية,False,8,18,False,1683
+7:59,29:14,143,addition & subtraction,هداية,False,8,20,False,2341
+7:59,57:26,143,addition & subtraction,هداية,False,8,27,False,4088
+11:25,23:23,143,addition & subtraction,هداية,False,12,18,False,1198
+11:25,29:14,143,addition & subtraction,هداية,False,12,20,False,1856
+11:25,57:26,143,addition & subtraction,هداية,False,12,27,False,3603
+23:23,29:14,143,addition & subtraction,هداية,False,18,20,False,658
+23:23,57:26,143,addition & subtraction,هداية,False,18,27,False,2405
+29:14,57:26,143,addition & subtraction,هداية,False,20,27,False,1747
+11:60,11:99,144,addition & subtraction,هداية,True,12,12,True,39
+11:99,28:42,144,addition & subtraction,هداية,False,12,20,False,1722
+11:60,28:42,144,addition & subtraction,هداية,False,12,20,False,1761
+15:77,29:44,145,replacement,هداية,False,14,20,False,1505
+15:77,45:3,145,replacement,هداية,False,14,25,False,2597
+29:44,45:3,145,replacement,هداية,False,20,25,False,1092
+16:78,23:78,146,replacement,هداية,False,14,18,False,772
+16:78,32:9,146,replacement,هداية,False,14,21,False,1533
+16:78,67:23,146,replacement,هداية,False,14,29,False,3285
+17:89,18:54,148,order change,هداية,False,15,15,True,76
+19:73,29:12,149,addition & subtraction,هداية,False,16,20,False,1029
+19:73,36:47,149,addition & subtraction,هداية,False,16,23,False,1429
+19:73,46:11,149,addition & subtraction,هداية,False,16,26,False,2198
+29:12,36:47,149,addition & subtraction,هداية,False,20,23,False,400
+29:12,46:11,149,addition & subtraction,هداية,False,20,26,False,1169
+36:47,46:11,149,addition & subtraction,هداية,False,23,26,False,769
+22:67,34:24,150,addition & subtraction,هداية,False,17,22,False,968
+22:67,68:4,150,addition & subtraction,هداية,False,17,29,False,2613
+34:24,68:4,150,addition & subtraction,هداية,False,22,29,False,1645
+29:62,34:39,151,addition & subtraction,هداية,False,21,22,False,243
+2:23,10:38,152,addition & subtraction,هداية,False,1,11,False,1372
+2:271,4:31,153,addition & subtraction,هداية,False,3,5,False,246
+2:271,5:12,153,addition & subtraction,هداية,False,3,6,False,403
+2:271,8:29,153,addition & subtraction,هداية,False,3,9,False,911
+2:271,66:8,153,addition & subtraction,هداية,False,3,28,False,4959
+4:31,5:12,153,addition & subtraction,هداية,False,5,6,False,157
+4:31,8:29,153,addition & subtraction,هداية,False,5,9,False,665
+4:31,66:8,153,addition & subtraction,هداية,False,5,28,False,4713
+5:12,8:29,153,addition & subtraction,هداية,False,6,9,False,508
+5:12,66:8,153,addition & subtraction,هداية,False,6,28,False,4556
+8:29,66:8,153,addition & subtraction,هداية,False,9,28,False,4048
+2:80,2:203,155,replacement,هداية,True,1,2,False,123
+2:80,3:24,155,replacement,هداية,False,1,3,False,230
+2:80,22:28,155,replacement,هداية,False,1,17,False,2536
+2:203,3:24,155,replacement,هداية,False,2,3,False,107
+2:203,22:28,155,replacement,هداية,False,2,17,False,2413
+3:24,22:28,155,replacement,هداية,False,3,17,False,2306
+2:97,27:2,156,replacement,هداية,False,1,19,False,3057
+27:2,31:3,156,replacement,هداية,False,19,21,False,311
+16:89,27:2,156,replacement,هداية,False,14,19,False,1171
+16:102,27:2,156,replacement,هداية,False,14,19,False,1158
+2:97,31:3,156,replacement,هداية,False,1,21,False,3368
+2:97,16:89,156,replacement,هداية,False,1,14,False,1886
+2:97,16:102,156,replacement,هداية,False,1,14,False,1899
+16:89,31:3,156,replacement,هداية,False,14,21,False,1482
+16:102,31:3,156,replacement,هداية,False,14,21,False,1469
+16:89,16:102,156,replacement,هداية,True,14,14,True,13
+2:184,2:185,157,addition & subtraction,هداية,True,2,2,True,1
+10:66,22:18,158,addition & subtraction,هداية,False,11,17,False,1183
+10:66,27:87,158,addition & subtraction,هداية,False,11,20,False,1816
+10:66,39:68,158,addition & subtraction,هداية,False,11,24,False,2696
+3:83,10:66,158,addition & subtraction,هداية,False,3,11,False,1054
+10:66,19:93,158,addition & subtraction,هداية,False,11,16,False,913
+10:66,13:15,158,addition & subtraction,هداية,False,11,13,False,292
+10:66,21:19,158,addition & subtraction,هداية,False,11,17,False,1072
+10:66,24:41,158,addition & subtraction,هداية,False,11,18,False,1402
+10:66,27:65,158,addition & subtraction,هداية,False,11,20,False,1794
+10:66,30:26,158,addition & subtraction,هداية,False,11,21,False,2005
+10:66,55:29,158,addition & subtraction,هداية,False,11,27,False,3500
+10:66,17:55,158,addition & subtraction,هداية,False,11,15,False,654
+22:18,27:87,158,addition & subtraction,هداية,False,17,20,False,633
+22:18,39:68,158,addition & subtraction,هداية,False,17,24,False,1513
+3:83,22:18,158,addition & subtraction,هداية,False,3,17,False,2237
+19:93,22:18,158,addition & subtraction,هداية,False,16,17,False,270
+13:15,22:18,158,addition & subtraction,هداية,False,13,17,False,891
+21:19,22:18,158,addition & subtraction,هداية,False,17,17,True,111
+22:18,24:41,158,addition & subtraction,هداية,False,17,18,False,219
+22:18,27:65,158,addition & subtraction,هداية,False,17,20,False,611
+22:18,30:26,158,addition & subtraction,هداية,False,17,21,False,822
+22:18,55:29,158,addition & subtraction,هداية,False,17,27,False,2317
+17:55,22:18,158,addition & subtraction,هداية,False,15,17,False,529
+27:87,39:68,158,addition & subtraction,هداية,False,20,24,False,880
+3:83,27:87,158,addition & subtraction,هداية,False,3,20,False,2870
+19:93,27:87,158,addition & subtraction,هداية,False,16,20,False,903
+13:15,27:87,158,addition & subtraction,هداية,False,13,20,False,1524
+21:19,27:87,158,addition & subtraction,هداية,False,17,20,False,744
+24:41,27:87,158,addition & subtraction,هداية,False,18,20,False,414
+27:65,27:87,158,addition & subtraction,هداية,True,20,20,True,22
+27:87,30:26,158,addition & subtraction,هداية,False,20,21,False,189
+27:87,55:29,158,addition & subtraction,هداية,False,20,27,False,1684
+17:55,27:87,158,addition & subtraction,هداية,False,15,20,False,1162
+3:83,39:68,158,addition & subtraction,هداية,False,3,24,False,3750
+19:93,39:68,158,addition & subtraction,هداية,False,16,24,False,1783
+13:15,39:68,158,addition & subtraction,هداية,False,13,24,False,2404
+21:19,39:68,158,addition & subtraction,هداية,False,17,24,False,1624
+24:41,39:68,158,addition & subtraction,هداية,False,18,24,False,1294
+27:65,39:68,158,addition & subtraction,هداية,False,20,24,False,902
+30:26,39:68,158,addition & subtraction,هداية,False,21,24,False,691
+39:68,55:29,158,addition & subtraction,هداية,False,24,27,False,804
+17:55,39:68,158,addition & subtraction,هداية,False,15,24,False,2042
+3:83,19:93,158,addition & subtraction,هداية,False,3,16,False,1967
+3:83,13:15,158,addition & subtraction,هداية,False,3,13,False,1346
+3:83,21:19,158,addition & subtraction,هداية,False,3,17,False,2126
+3:83,24:41,158,addition & subtraction,هداية,False,3,18,False,2456
+3:83,27:65,158,addition & subtraction,هداية,False,3,20,False,2848
+3:83,30:26,158,addition & subtraction,هداية,False,3,21,False,3059
+3:83,55:29,158,addition & subtraction,هداية,False,3,27,False,4554
+3:83,17:55,158,addition & subtraction,هداية,False,3,15,False,1708
+13:15,19:93,158,addition & subtraction,هداية,False,13,16,False,621
+19:93,21:19,158,addition & subtraction,هداية,False,16,17,False,159
+19:93,24:41,158,addition & subtraction,هداية,False,16,18,False,489
+19:93,27:65,158,addition & subtraction,هداية,False,16,20,False,881
+19:93,30:26,158,addition & subtraction,هداية,False,16,21,False,1092
+19:93,55:29,158,addition & subtraction,هداية,False,16,27,False,2587
+17:55,19:93,158,addition & subtraction,هداية,False,15,16,False,259
+13:15,21:19,158,addition & subtraction,هداية,False,13,17,False,780
+13:15,24:41,158,addition & subtraction,هداية,False,13,18,False,1110
+13:15,27:65,158,addition & subtraction,هداية,False,13,20,False,1502
+13:15,30:26,158,addition & subtraction,هداية,False,13,21,False,1713
+13:15,55:29,158,addition & subtraction,هداية,False,13,27,False,3208
+13:15,17:55,158,addition & subtraction,هداية,False,13,15,False,362
+21:19,24:41,158,addition & subtraction,هداية,False,17,18,False,330
+21:19,27:65,158,addition & subtraction,هداية,False,17,20,False,722
+21:19,30:26,158,addition & subtraction,هداية,False,17,21,False,933
+21:19,55:29,158,addition & subtraction,هداية,False,17,27,False,2428
+17:55,21:19,158,addition & subtraction,هداية,False,15,17,False,418
+24:41,27:65,158,addition & subtraction,هداية,False,18,20,False,392
+24:41,30:26,158,addition & subtraction,هداية,False,18,21,False,603
+24:41,55:29,158,addition & subtraction,هداية,False,18,27,False,2098
+17:55,24:41,158,addition & subtraction,هداية,False,15,18,False,748
+27:65,30:26,158,addition & subtraction,هداية,False,20,21,False,211
+27:65,55:29,158,addition & subtraction,هداية,False,20,27,False,1706
+17:55,27:65,158,addition & subtraction,هداية,False,15,20,False,1140
+30:26,55:29,158,addition & subtraction,هداية,False,21,27,False,1495
+17:55,30:26,158,addition & subtraction,هداية,False,15,21,False,1351
+17:55,55:29,158,addition & subtraction,هداية,False,15,27,False,2846
+2:116,4:170,159,addition & subtraction,هداية,False,1,6,False,540
+2:116,6:12,159,addition & subtraction,هداية,False,1,7,False,678
+2:116,10:55,159,addition & subtraction,هداية,False,1,11,False,1296
+2:116,16:52,159,addition & subtraction,هداية,False,1,14,False,1830
+2:116,24:64,159,addition & subtraction,هداية,False,1,18,False,2732
+2:116,29:52,159,addition & subtraction,هداية,False,1,21,False,3269
+2:116,31:26,159,addition & subtraction,هداية,False,1,21,False,3372
+2:116,57:1,159,addition & subtraction,هداية,False,1,27,False,4953
+2:116,59:24,159,addition & subtraction,هداية,False,1,28,False,5027
+2:116,64:4,159,addition & subtraction,هداية,False,1,28,False,5080
+4:170,6:12,159,addition & subtraction,هداية,False,6,7,False,138
+4:170,10:55,159,addition & subtraction,هداية,False,6,11,False,756
+4:170,16:52,159,addition & subtraction,هداية,False,6,14,False,1290
+4:170,24:64,159,addition & subtraction,هداية,False,6,18,False,2192
+4:170,29:52,159,addition & subtraction,هداية,False,6,21,False,2729
+4:170,31:26,159,addition & subtraction,هداية,False,6,21,False,2832
+4:170,57:1,159,addition & subtraction,هداية,False,6,27,False,4413
+4:170,59:24,159,addition & subtraction,هداية,False,6,28,False,4487
+4:170,64:4,159,addition & subtraction,هداية,False,6,28,False,4540
+6:12,10:55,159,addition & subtraction,هداية,False,7,11,False,618
+6:12,16:52,159,addition & subtraction,هداية,False,7,14,False,1152
+6:12,24:64,159,addition & subtraction,هداية,False,7,18,False,2054
+6:12,29:52,159,addition & subtraction,هداية,False,7,21,False,2591
+6:12,31:26,159,addition & subtraction,هداية,False,7,21,False,2694
+6:12,57:1,159,addition & subtraction,هداية,False,7,27,False,4275
+6:12,59:24,159,addition & subtraction,هداية,False,7,28,False,4349
+6:12,64:4,159,addition & subtraction,هداية,False,7,28,False,4402
+10:55,16:52,159,addition & subtraction,هداية,False,11,14,False,534
+10:55,24:64,159,addition & subtraction,هداية,False,11,18,False,1436
+10:55,29:52,159,addition & subtraction,هداية,False,11,21,False,1973
+10:55,31:26,159,addition & subtraction,هداية,False,11,21,False,2076
+10:55,57:1,159,addition & subtraction,هداية,False,11,27,False,3657
+10:55,59:24,159,addition & subtraction,هداية,False,11,28,False,3731
+10:55,64:4,159,addition & subtraction,هداية,False,11,28,False,3784
+16:52,24:64,159,addition & subtraction,هداية,False,14,18,False,902
+16:52,29:52,159,addition & subtraction,هداية,False,14,21,False,1439
+16:52,31:26,159,addition & subtraction,هداية,False,14,21,False,1542
+16:52,57:1,159,addition & subtraction,هداية,False,14,27,False,3123
+16:52,59:24,159,addition & subtraction,هداية,False,14,28,False,3197
+16:52,64:4,159,addition & subtraction,هداية,False,14,28,False,3250
+24:64,29:52,159,addition & subtraction,هداية,False,18,21,False,537
+24:64,31:26,159,addition & subtraction,هداية,False,18,21,False,640
+24:64,57:1,159,addition & subtraction,هداية,False,18,27,False,2221
+24:64,59:24,159,addition & subtraction,هداية,False,18,28,False,2295
+24:64,64:4,159,addition & subtraction,هداية,False,18,28,False,2348
+29:52,31:26,159,addition & subtraction,هداية,False,21,21,True,103
+29:52,57:1,159,addition & subtraction,هداية,False,21,27,False,1684
+29:52,59:24,159,addition & subtraction,هداية,False,21,28,False,1758
+29:52,64:4,159,addition & subtraction,هداية,False,21,28,False,1811
+31:26,57:1,159,addition & subtraction,هداية,False,21,27,False,1581
+31:26,59:24,159,addition & subtraction,هداية,False,21,28,False,1655
+31:26,64:4,159,addition & subtraction,هداية,False,21,28,False,1708
+57:1,59:24,159,addition & subtraction,هداية,False,27,28,False,74
+57:1,64:4,159,addition & subtraction,هداية,False,27,28,False,127
+59:24,64:4,159,addition & subtraction,هداية,False,28,28,True,53
+5:37,9:68,160,replacement,هداية,False,6,10,False,597
+5:37,11:39,160,replacement,هداية,False,6,12,False,806
+5:37,39:40,160,replacement,هداية,False,6,24,False,3392
+5:37,42:45,160,replacement,هداية,False,6,25,False,3611
+9:68,11:39,160,replacement,هداية,False,10,12,False,209
+9:68,39:40,160,replacement,هداية,False,10,24,False,2795
+9:68,42:45,160,replacement,هداية,False,10,25,False,3014
+11:39,39:40,160,replacement,هداية,False,12,24,False,2586
+11:39,42:45,160,replacement,هداية,False,12,25,False,2805
+39:40,42:45,160,replacement,هداية,False,24,25,False,219
+4:91,54:43,161,replacement,هداية,False,5,27,False,4305
+6:95,10:31,162,replacement,هداية,False,7,11,False,511
+6:95,30:19,162,replacement,هداية,False,7,21,False,2544
+10:31,30:19,162,replacement,هداية,False,11,21,False,2033
+6:6,38:3,163,replacement,هداية,False,7,23,False,3178
+6:6,32:26,163,replacement,هداية,False,7,21,False,2734
+6:6,19:74,163,replacement,هداية,False,7,16,False,1529
+6:6,19:98,163,replacement,هداية,False,7,16,False,1553
+6:6,50:36,163,replacement,هداية,False,7,26,False,3871
+6:6,20:128,163,replacement,هداية,False,7,16,False,1681
+32:26,38:3,163,replacement,هداية,False,21,23,False,444
+19:74,38:3,163,replacement,هداية,False,16,23,False,1649
+19:98,38:3,163,replacement,هداية,False,16,23,False,1625
+38:3,50:36,163,replacement,هداية,False,23,26,False,693
+20:128,38:3,163,replacement,هداية,False,16,23,False,1497
+36:31,38:3,163,replacement,هداية,False,23,23,True,237
+19:74,32:26,163,replacement,هداية,False,16,21,False,1205
+19:98,32:26,163,replacement,هداية,False,16,21,False,1181
+32:26,50:36,163,replacement,هداية,False,21,26,False,1137
+20:128,32:26,163,replacement,هداية,False,16,21,False,1053
+32:26,36:31,163,replacement,هداية,False,21,23,False,207
+19:74,19:98,163,replacement,هداية,True,16,16,True,24
+19:74,50:36,163,replacement,هداية,False,16,26,False,2342
+19:74,20:128,163,replacement,هداية,False,16,16,True,152
+19:74,36:31,163,replacement,هداية,False,16,23,False,1412
+19:98,50:36,163,replacement,هداية,False,16,26,False,2318
+19:98,20:128,163,replacement,هداية,False,16,16,True,128
+19:98,36:31,163,replacement,هداية,False,16,23,False,1388
+20:128,50:36,163,replacement,هداية,False,16,26,False,2190
+36:31,50:36,163,replacement,هداية,False,23,26,False,930
+20:128,36:31,163,replacement,هداية,False,16,23,False,1260
+6:6,7:43,164,replacement,هداية,False,7,8,False,202
+6:6,10:9,164,replacement,هداية,False,7,11,False,578
+6:6,18:31,164,replacement,هداية,False,7,15,False,1376
+6:6,9:100,164,replacement,هداية,False,7,11,False,540
+7:43,10:9,164,replacement,هداية,False,8,11,False,376
+7:43,18:31,164,replacement,هداية,False,8,15,False,1174
+7:43,9:100,164,replacement,هداية,False,8,11,False,338
+10:9,18:31,164,replacement,هداية,False,11,15,False,798
+9:100,10:9,164,replacement,هداية,False,11,11,True,38
+9:100,18:31,164,replacement,هداية,False,11,15,False,836
+7:84,27:69,166,replacement,هداية,False,8,20,False,2190
+11:20,11:113,167,addition & subtraction,هداية,True,12,12,True,93
+11:20,29:41,167,addition & subtraction,هداية,False,12,20,False,1888
+11:20,45:10,167,addition & subtraction,هداية,False,12,25,False,2990
+11:113,29:41,167,addition & subtraction,هداية,False,12,20,False,1795
+11:113,45:10,167,addition & subtraction,هداية,False,12,25,False,2897
+29:41,45:10,167,addition & subtraction,هداية,False,20,25,False,1102
+14:10,46:31,168,addition & subtraction,هداية,False,13,26,False,2781
+14:10,71:4,168,addition & subtraction,هداية,False,13,29,False,3663
+3:31,14:10,168,addition & subtraction,هداية,False,3,13,False,1436
+14:10,33:71,168,addition & subtraction,هداية,False,13,22,False,1844
+14:10,61:12,168,addition & subtraction,هداية,False,13,28,False,3415
+46:31,71:4,168,addition & subtraction,هداية,False,26,29,False,882
+3:31,46:31,168,addition & subtraction,هداية,False,3,26,False,4217
+33:71,46:31,168,addition & subtraction,هداية,False,22,26,False,937
+46:31,61:12,168,addition & subtraction,هداية,False,26,28,False,634
+3:31,71:4,168,addition & subtraction,هداية,False,3,29,False,5099
+33:71,71:4,168,addition & subtraction,هداية,False,22,29,False,1819
+61:12,71:4,168,addition & subtraction,هداية,False,28,29,False,248
+3:31,33:71,168,addition & subtraction,هداية,False,3,22,False,3280
+3:31,61:12,168,addition & subtraction,هداية,False,3,28,False,4851
+33:71,61:12,168,addition & subtraction,هداية,False,22,28,False,1571
+16:84,16:89,169,replacement,هداية,True,14,14,True,5
+16:14,35:12,170,multiple differences,هداية,False,14,22,False,1757
+6:6,21:11,171,replacement,هداية,False,7,17,False,1699
+21:11,23:31,171,replacement,هداية,False,17,18,False,210
+21:11,23:42,171,replacement,هداية,False,17,18,False,221
+6:6,23:31,171,replacement,هداية,False,7,18,False,1909
+6:6,23:42,171,replacement,هداية,False,7,18,False,1920
+23:31,23:42,171,replacement,هداية,True,18,18,True,11
+16:70,22:5,173,addition & subtraction,هداية,False,14,17,False,629
+22:22,32:20,174,addition & subtraction,هداية,False,17,21,False,906
+26:154,26:186,176,addition & subtraction,هداية,True,19,19,True,32
+28:37,28:85,178,addition & subtraction,هداية,True,20,20,True,48
+2:164,29:63,179,addition & subtraction,هداية,False,2,21,False,3232
+16:65,29:63,179,addition & subtraction,هداية,False,14,21,False,1437
+29:63,45:5,179,addition & subtraction,هداية,False,21,25,False,1075
+2:164,16:65,179,addition & subtraction,هداية,False,2,14,False,1795
+2:164,45:5,179,addition & subtraction,هداية,False,2,25,False,4307
+16:65,45:5,179,addition & subtraction,هداية,False,14,25,False,2512
+40:22,64:6,180,addition & subtraction,هداية,False,24,28,False,1050
+58:2,58:3,181,addition & subtraction,هداية,True,28,28,True,1
+51:19,70:24,182,addition & subtraction,هداية,False,26,29,False,705
+2:62,22:17,183,order change,هداية,False,1,17,False,2543
+2:62,5:69,183,order change,هداية,False,1,6,False,669
+5:69,22:17,183,order change,هداية,False,6,17,False,1874
+6:46,6:65,184,replacement,هداية,True,7,7,True,19
+6:46,6:105,184,replacement,هداية,True,7,7,True,59
+6:46,7:58,184,replacement,هداية,False,7,8,False,177
+6:65,6:105,184,replacement,هداية,True,7,7,True,40
+6:65,7:58,184,replacement,هداية,False,7,8,False,158
+6:105,7:58,184,replacement,هداية,False,7,8,False,118
+6:71,7:188,185,order change,هداية,False,7,9,False,282
+6:71,10:106,185,order change,هداية,False,7,11,False,610
+6:71,13:16,185,order change,هداية,False,7,13,False,863
+6:71,21:66,185,order change,هداية,False,7,17,False,1689
+6:71,25:55,185,order change,هداية,False,7,19,False,2050
+6:71,26:73,185,order change,هداية,False,7,19,False,2145
+6:71,34:42,185,order change,هداية,False,7,22,False,2788
+2:102,6:71,185,order change,هداية,False,1,7,False,751
+5:76,6:71,185,order change,هداية,False,6,7,False,115
+6:71,10:18,185,order change,هداية,False,7,11,False,522
+6:71,10:49,185,order change,هداية,False,7,11,False,553
+6:71,20:89,185,order change,هداية,False,7,16,False,1577
+6:71,22:12,185,order change,هداية,False,7,17,False,1747
+6:71,22:13,185,order change,هداية,False,7,17,False,1748
+6:71,25:3,185,order change,هداية,False,7,18,False,1998
+6:71,48:11,185,order change,هداية,False,7,26,False,3734
+7:188,10:106,185,order change,هداية,False,9,11,False,328
+7:188,13:16,185,order change,هداية,False,9,13,False,581
+7:188,21:66,185,order change,هداية,False,9,17,False,1407
+7:188,25:55,185,order change,هداية,False,9,19,False,1768
+7:188,26:73,185,order change,هداية,False,9,19,False,1863
+7:188,34:42,185,order change,هداية,False,9,22,False,2506
+2:102,7:188,185,order change,هداية,False,1,9,False,1033
+5:76,7:188,185,order change,هداية,False,6,9,False,397
+7:188,10:18,185,order change,هداية,False,9,11,False,240
+7:188,10:49,185,order change,هداية,False,9,11,False,271
+7:188,20:89,185,order change,هداية,False,9,16,False,1295
+7:188,22:12,185,order change,هداية,False,9,17,False,1465
+7:188,22:13,185,order change,هداية,False,9,17,False,1466
+7:188,25:3,185,order change,هداية,False,9,18,False,1716
+7:188,48:11,185,order change,هداية,False,9,26,False,3452
+10:106,13:16,185,order change,هداية,False,11,13,False,253
+10:106,21:66,185,order change,هداية,False,11,17,False,1079
+10:106,25:55,185,order change,هداية,False,11,19,False,1440
+10:106,26:73,185,order change,هداية,False,11,19,False,1535
+10:106,34:42,185,order change,هداية,False,11,22,False,2178
+2:102,10:106,185,order change,هداية,False,1,11,False,1361
+5:76,10:106,185,order change,هداية,False,6,11,False,725
+10:18,10:106,185,order change,هداية,True,11,11,True,88
+10:49,10:106,185,order change,هداية,True,11,11,True,57
+10:106,20:89,185,order change,هداية,False,11,16,False,967
+10:106,22:12,185,order change,هداية,False,11,17,False,1137
+10:106,22:13,185,order change,هداية,False,11,17,False,1138
+10:106,25:3,185,order change,هداية,False,11,18,False,1388
+10:106,48:11,185,order change,هداية,False,11,26,False,3124
+13:16,21:66,185,order change,هداية,False,13,17,False,826
+13:16,25:55,185,order change,هداية,False,13,19,False,1187
+13:16,26:73,185,order change,هداية,False,13,19,False,1282
+13:16,34:42,185,order change,هداية,False,13,22,False,1925
+2:102,13:16,185,order change,هداية,False,1,13,False,1614
+5:76,13:16,185,order change,هداية,False,6,13,False,978
+10:18,13:16,185,order change,هداية,False,11,13,False,341
+10:49,13:16,185,order change,هداية,False,11,13,False,310
+13:16,20:89,185,order change,هداية,False,13,16,False,714
+13:16,22:12,185,order change,هداية,False,13,17,False,884
+13:16,22:13,185,order change,هداية,False,13,17,False,885
+13:16,25:3,185,order change,هداية,False,13,18,False,1135
+13:16,48:11,185,order change,هداية,False,13,26,False,2871
+21:66,25:55,185,order change,هداية,False,17,19,False,361
+21:66,26:73,185,order change,هداية,False,17,19,False,456
+21:66,34:42,185,order change,هداية,False,17,22,False,1099
+2:102,21:66,185,order change,هداية,False,1,17,False,2440
+5:76,21:66,185,order change,هداية,False,6,17,False,1804
+10:18,21:66,185,order change,هداية,False,11,17,False,1167
+10:49,21:66,185,order change,هداية,False,11,17,False,1136
+20:89,21:66,185,order change,هداية,False,16,17,False,112
+21:66,22:12,185,order change,هداية,False,17,17,True,58
+21:66,22:13,185,order change,هداية,False,17,17,True,59
+21:66,25:3,185,order change,هداية,False,17,18,False,309
+21:66,48:11,185,order change,هداية,False,17,26,False,2045
+25:55,26:73,185,order change,هداية,False,19,19,True,95
+25:55,34:42,185,order change,هداية,False,19,22,False,738
+2:102,25:55,185,order change,هداية,False,1,19,False,2801
+5:76,25:55,185,order change,هداية,False,6,19,False,2165
+10:18,25:55,185,order change,هداية,False,11,19,False,1528
+10:49,25:55,185,order change,هداية,False,11,19,False,1497
+20:89,25:55,185,order change,هداية,False,16,19,False,473
+22:12,25:55,185,order change,هداية,False,17,19,False,303
+22:13,25:55,185,order change,هداية,False,17,19,False,302
+25:3,25:55,185,order change,هداية,True,18,19,False,52
+25:55,48:11,185,order change,هداية,False,19,26,False,1684
+26:73,34:42,185,order change,هداية,False,19,22,False,643
+2:102,26:73,185,order change,هداية,False,1,19,False,2896
+5:76,26:73,185,order change,هداية,False,6,19,False,2260
+10:18,26:73,185,order change,هداية,False,11,19,False,1623
+10:49,26:73,185,order change,هداية,False,11,19,False,1592
+20:89,26:73,185,order change,هداية,False,16,19,False,568
+22:12,26:73,185,order change,هداية,False,17,19,False,398
+22:13,26:73,185,order change,هداية,False,17,19,False,397
+25:3,26:73,185,order change,هداية,False,18,19,False,147
+26:73,48:11,185,order change,هداية,False,19,26,False,1589
+2:102,34:42,185,order change,هداية,False,1,22,False,3539
+5:76,34:42,185,order change,هداية,False,6,22,False,2903
+10:18,34:42,185,order change,هداية,False,11,22,False,2266
+10:49,34:42,185,order change,هداية,False,11,22,False,2235
+20:89,34:42,185,order change,هداية,False,16,22,False,1211
+22:12,34:42,185,order change,هداية,False,17,22,False,1041
+22:13,34:42,185,order change,هداية,False,17,22,False,1040
+25:3,34:42,185,order change,هداية,False,18,22,False,790
+34:42,48:11,185,order change,هداية,False,22,26,False,946
+2:102,5:76,185,order change,هداية,False,1,6,False,636
+2:102,10:18,185,order change,هداية,False,1,11,False,1273
+2:102,10:49,185,order change,هداية,False,1,11,False,1304
+2:102,20:89,185,order change,هداية,False,1,16,False,2328
+2:102,22:12,185,order change,هداية,False,1,17,False,2498
+2:102,22:13,185,order change,هداية,False,1,17,False,2499
+2:102,25:3,185,order change,هداية,False,1,18,False,2749
+2:102,48:11,185,order change,هداية,False,1,26,False,4485
+5:76,10:18,185,order change,هداية,False,6,11,False,637
+5:76,10:49,185,order change,هداية,False,6,11,False,668
+5:76,20:89,185,order change,هداية,False,6,16,False,1692
+5:76,22:12,185,order change,هداية,False,6,17,False,1862
+5:76,22:13,185,order change,هداية,False,6,17,False,1863
+5:76,25:3,185,order change,هداية,False,6,18,False,2113
+5:76,48:11,185,order change,هداية,False,6,26,False,3849
+10:18,10:49,185,order change,هداية,True,11,11,True,31
+10:18,20:89,185,order change,هداية,False,11,16,False,1055
+10:18,22:12,185,order change,هداية,False,11,17,False,1225
+10:18,22:13,185,order change,هداية,False,11,17,False,1226
+10:18,25:3,185,order change,هداية,False,11,18,False,1476
+10:18,48:11,185,order change,هداية,False,11,26,False,3212
+10:49,20:89,185,order change,هداية,False,11,16,False,1024
+10:49,22:12,185,order change,هداية,False,11,17,False,1194
+10:49,22:13,185,order change,هداية,False,11,17,False,1195
+10:49,25:3,185,order change,هداية,False,11,18,False,1445
+10:49,48:11,185,order change,هداية,False,11,26,False,3181
+20:89,22:12,185,order change,هداية,False,16,17,False,170
+20:89,22:13,185,order change,هداية,False,16,17,False,171
+20:89,25:3,185,order change,هداية,False,16,18,False,421
+20:89,48:11,185,order change,هداية,False,16,26,False,2157
+22:12,22:13,185,order change,هداية,True,17,17,True,1
+22:12,25:3,185,order change,هداية,False,17,18,False,251
+22:12,48:11,185,order change,هداية,False,17,26,False,1987
+22:13,25:3,185,order change,هداية,False,17,18,False,250
+22:13,48:11,185,order change,هداية,False,17,26,False,1986
+25:3,48:11,185,order change,هداية,False,18,26,False,1736
+7:94,34:34,186,replacement,هداية,False,9,22,False,2592
+7:94,43:23,186,replacement,هداية,False,9,25,False,3300
+34:34,43:23,186,replacement,هداية,False,22,25,False,708
+11:62,14:9,187,addition & subtraction,هداية,False,12,13,False,224
+15:12,26:200,188,replacement,هداية,False,14,19,False,1318
+16:89,20:80,189,replacement,هداية,False,14,16,False,438
+20:80,50:9,189,replacement,هداية,False,16,26,False,2211
+2:57,20:80,189,replacement,هداية,False,1,16,False,2364
+16:64,20:80,189,replacement,هداية,False,14,16,False,463
+20:80,31:10,189,replacement,هداية,False,16,21,False,1051
+16:89,50:9,189,replacement,هداية,False,14,26,False,2649
+2:57,16:89,189,replacement,هداية,False,1,14,False,1926
+16:64,16:89,189,replacement,هداية,True,14,14,True,25
+16:89,31:10,189,replacement,هداية,False,14,21,False,1489
+2:57,50:9,189,replacement,هداية,False,1,26,False,4575
+16:64,50:9,189,replacement,هداية,False,14,26,False,2674
+31:10,50:9,189,replacement,هداية,False,21,26,False,1160
+2:57,16:64,189,replacement,هداية,False,1,14,False,1901
+2:57,31:10,189,replacement,هداية,False,1,21,False,3415
+16:64,31:10,189,replacement,هداية,False,14,21,False,1514
+23:83,27:68,190,order change,هداية,False,18,20,False,471
+16:127,27:70,191,addition & subtraction,هداية,False,14,20,False,1201
+7:71,67:9,192,replacement,هداية,False,8,29,False,4225
+47:26,67:9,192,replacement,هداية,False,26,29,False,679
+7:71,47:26,192,replacement,هداية,False,8,26,False,3546
+3:66,3:119,193,replacement,هداية,True,3,4,False,53
+3:119,4:109,193,replacement,هداية,False,4,5,False,190
+3:119,47:38,193,replacement,هداية,False,4,26,False,4171
+3:66,4:109,193,replacement,هداية,False,3,5,False,243
+3:66,47:38,193,replacement,هداية,False,3,26,False,4224
+4:109,47:38,193,replacement,هداية,False,5,26,False,3981
+9:72,10:64,194,addition & subtraction,هداية,False,10,11,False,121
+9:72,44:57,194,addition & subtraction,هداية,False,10,25,False,3164
+9:72,57:12,194,addition & subtraction,هداية,False,10,27,False,3780
+9:72,9:111,194,addition & subtraction,هداية,True,10,11,False,39
+9:72,40:9,194,addition & subtraction,هداية,False,10,24,False,2835
+4:13,9:72,194,addition & subtraction,هداية,False,4,10,False,801
+5:119,9:72,194,addition & subtraction,هداية,False,7,10,False,519
+9:72,9:89,194,addition & subtraction,هداية,True,10,10,True,17
+9:72,9:100,194,addition & subtraction,هداية,True,10,11,False,28
+9:72,61:12,194,addition & subtraction,هداية,False,10,28,False,3868
+9:72,64:9,194,addition & subtraction,هداية,False,10,28,False,3901
+10:64,44:57,194,addition & subtraction,هداية,False,11,25,False,3043
+10:64,57:12,194,addition & subtraction,هداية,False,11,27,False,3659
+9:111,10:64,194,addition & subtraction,هداية,False,11,11,True,82
+10:64,40:9,194,addition & subtraction,هداية,False,11,24,False,2714
+4:13,10:64,194,addition & subtraction,هداية,False,4,11,False,922
+5:119,10:64,194,addition & subtraction,هداية,False,7,11,False,640
+9:89,10:64,194,addition & subtraction,هداية,False,10,11,False,104
+9:100,10:64,194,addition & subtraction,هداية,False,11,11,True,93
+10:64,61:12,194,addition & subtraction,هداية,False,11,28,False,3747
+10:64,64:9,194,addition & subtraction,هداية,False,11,28,False,3780
+44:57,57:12,194,addition & subtraction,هداية,False,25,27,False,616
+9:111,44:57,194,addition & subtraction,هداية,False,11,25,False,3125
+40:9,44:57,194,addition & subtraction,هداية,False,24,25,False,329
+4:13,44:57,194,addition & subtraction,هداية,False,4,25,False,3965
+5:119,44:57,194,addition & subtraction,هداية,False,7,25,False,3683
+9:89,44:57,194,addition & subtraction,هداية,False,10,25,False,3147
+9:100,44:57,194,addition & subtraction,هداية,False,11,25,False,3136
+44:57,61:12,194,addition & subtraction,هداية,False,25,28,False,704
+44:57,64:9,194,addition & subtraction,هداية,False,25,28,False,737
+9:111,57:12,194,addition & subtraction,هداية,False,11,27,False,3741
+40:9,57:12,194,addition & subtraction,هداية,False,24,27,False,945
+4:13,57:12,194,addition & subtraction,هداية,False,4,27,False,4581
+5:119,57:12,194,addition & subtraction,هداية,False,7,27,False,4299
+9:89,57:12,194,addition & subtraction,هداية,False,10,27,False,3763
+9:100,57:12,194,addition & subtraction,هداية,False,11,27,False,3752
+57:12,61:12,194,addition & subtraction,هداية,False,27,28,False,88
+57:12,64:9,194,addition & subtraction,هداية,False,27,28,False,121
+9:111,40:9,194,addition & subtraction,هداية,False,11,24,False,2796
+4:13,9:111,194,addition & subtraction,هداية,False,4,11,False,840
+5:119,9:111,194,addition & subtraction,هداية,False,7,11,False,558
+9:89,9:111,194,addition & subtraction,هداية,True,10,11,False,22
+9:100,9:111,194,addition & subtraction,هداية,True,11,11,True,11
+9:111,61:12,194,addition & subtraction,هداية,False,11,28,False,3829
+9:111,64:9,194,addition & subtraction,هداية,False,11,28,False,3862
+4:13,40:9,194,addition & subtraction,هداية,False,4,24,False,3636
+5:119,40:9,194,addition & subtraction,هداية,False,7,24,False,3354
+9:89,40:9,194,addition & subtraction,هداية,False,10,24,False,2818
+9:100,40:9,194,addition & subtraction,هداية,False,11,24,False,2807
+40:9,61:12,194,addition & subtraction,هداية,False,24,28,False,1033
+40:9,64:9,194,addition & subtraction,هداية,False,24,28,False,1066
+4:13,5:119,194,addition & subtraction,هداية,False,4,7,False,282
+4:13,9:89,194,addition & subtraction,هداية,False,4,10,False,818
+4:13,9:100,194,addition & subtraction,هداية,False,4,11,False,829
+4:13,61:12,194,addition & subtraction,هداية,False,4,28,False,4669
+4:13,64:9,194,addition & subtraction,هداية,False,4,28,False,4702
+5:119,9:89,194,addition & subtraction,هداية,False,7,10,False,536
+5:119,61:12,194,addition & subtraction,هداية,False,7,28,False,4387
+9:89,9:100,194,addition & subtraction,هداية,True,10,11,False,11
+9:89,61:12,194,addition & subtraction,هداية,False,10,28,False,3851
+9:89,64:9,194,addition & subtraction,هداية,False,10,28,False,3884
+9:100,61:12,194,addition & subtraction,هداية,False,11,28,False,3840
+61:12,64:9,194,addition & subtraction,هداية,False,28,28,True,33
+7:82,27:56,196,replacement,هداية,False,8,20,False,2179
+11:19,12:37,197,addition & subtraction,هداية,False,12,12,True,141
+12:37,41:7,197,addition & subtraction,هداية,False,12,24,False,2592
+7:45,12:37,197,addition & subtraction,هداية,False,8,12,False,634
+11:19,41:7,197,addition & subtraction,هداية,False,12,24,False,2733
+7:45,11:19,197,addition & subtraction,هداية,False,8,12,False,493
+7:45,41:7,197,addition & subtraction,هداية,False,8,24,False,3226
+16:66,23:21,198,replacement,هداية,False,14,18,False,727
+22:62,31:30,199,addition & subtraction,هداية,False,17,21,False,842
+5:11,48:24,200,replacement,هداية,False,6,26,False,3927
+21:91,66:12,201,replacement,هداية,False,17,28,False,2667
+3:12,3:197,202,replacement,هداية,True,3,4,False,185
+3:12,13:18,202,replacement,هداية,False,3,13,False,1420
+3:12,14:29,202,replacement,هداية,False,3,13,False,1474
+2:206,3:12,202,replacement,هداية,False,2,3,False,92
+3:12,38:56,202,replacement,هداية,False,3,23,False,3721
+3:12,38:60,202,replacement,هداية,False,3,23,False,3725
+3:197,13:18,202,replacement,هداية,False,4,13,False,1235
+3:197,14:29,202,replacement,هداية,False,4,13,False,1289
+2:206,3:197,202,replacement,هداية,False,2,4,False,277
+3:197,38:56,202,replacement,هداية,False,4,23,False,3536
+3:197,38:60,202,replacement,هداية,False,4,23,False,3540
+13:18,14:29,202,replacement,هداية,False,13,13,True,54
+2:206,13:18,202,replacement,هداية,False,2,13,False,1512
+13:18,38:56,202,replacement,هداية,False,13,23,False,2301
+13:18,38:60,202,replacement,هداية,False,13,23,False,2305
+2:206,14:29,202,replacement,هداية,False,2,13,False,1566
+14:29,38:56,202,replacement,هداية,False,13,23,False,2247
+14:29,38:60,202,replacement,هداية,False,13,23,False,2251
+2:206,38:56,202,replacement,هداية,False,2,23,False,3813
+2:206,38:60,202,replacement,هداية,False,2,23,False,3817
+38:56,38:60,202,replacement,هداية,True,23,23,True,4
+3:40,3:47,203,replacement,هداية,True,3,3,True,7
+3:47,19:8,203,replacement,هداية,False,3,16,False,1918
+3:47,19:20,203,replacement,هداية,False,3,16,False,1930
+3:40,19:8,203,replacement,هداية,False,3,16,False,1925
+3:40,19:20,203,replacement,هداية,False,3,16,False,1937
+19:8,19:20,203,replacement,هداية,True,16,16,True,12
+4:81,4:132,204,replacement,هداية,True,5,5,True,51
+4:81,4:171,204,replacement,هداية,True,5,6,False,90
+4:81,33:3,204,replacement,هداية,False,5,21,False,2962
+4:81,33:48,204,replacement,هداية,False,5,22,False,3007
+4:6,4:81,204,replacement,هداية,True,4,5,False,75
+4:81,33:39,204,replacement,هداية,False,5,22,False,2998
+4:45,4:81,204,replacement,هداية,True,5,5,True,36
+4:79,4:81,204,replacement,هداية,True,5,5,True,2
+4:81,4:166,204,replacement,هداية,True,5,6,False,85
+4:81,10:29,204,replacement,هداية,False,5,11,False,819
+4:81,13:43,204,replacement,هداية,False,5,13,False,1176
+4:81,17:96,204,replacement,هداية,False,5,15,False,1551
+4:81,48:28,204,replacement,هداية,False,5,26,False,4037
+4:132,4:171,204,replacement,هداية,True,5,6,False,39
+4:132,33:3,204,replacement,هداية,False,5,21,False,2911
+4:132,33:48,204,replacement,هداية,False,5,22,False,2956
+4:6,4:132,204,replacement,هداية,True,4,5,False,126
+4:132,33:39,204,replacement,هداية,False,5,22,False,2947
+4:45,4:132,204,replacement,هداية,True,5,5,True,87
+4:79,4:132,204,replacement,هداية,True,5,5,True,53
+4:132,4:166,204,replacement,هداية,True,5,6,False,34
+4:132,10:29,204,replacement,هداية,False,5,11,False,768
+4:132,13:43,204,replacement,هداية,False,5,13,False,1125
+4:132,17:96,204,replacement,هداية,False,5,15,False,1500
+4:132,48:28,204,replacement,هداية,False,5,26,False,3986
+4:171,33:3,204,replacement,هداية,False,6,21,False,2872
+4:171,33:48,204,replacement,هداية,False,6,22,False,2917
+4:6,4:171,204,replacement,هداية,True,4,6,False,165
+4:171,33:39,204,replacement,هداية,False,6,22,False,2908
+4:45,4:171,204,replacement,هداية,True,5,6,False,126
+4:79,4:171,204,replacement,هداية,True,5,6,False,92
+4:166,4:171,204,replacement,هداية,True,6,6,True,5
+4:171,10:29,204,replacement,هداية,False,6,11,False,729
+4:171,13:43,204,replacement,هداية,False,6,13,False,1086
+4:171,17:96,204,replacement,هداية,False,6,15,False,1461
+4:171,48:28,204,replacement,هداية,False,6,26,False,3947
+33:3,33:48,204,replacement,هداية,True,21,22,False,45
+4:6,33:3,204,replacement,هداية,False,4,21,False,3037
+33:3,33:39,204,replacement,هداية,True,21,22,False,36
+4:45,33:3,204,replacement,هداية,False,5,21,False,2998
+4:79,33:3,204,replacement,هداية,False,5,21,False,2964
+4:166,33:3,204,replacement,هداية,False,6,21,False,2877
+10:29,33:3,204,replacement,هداية,False,11,21,False,2143
+13:43,33:3,204,replacement,هداية,False,13,21,False,1786
+17:96,33:3,204,replacement,هداية,False,15,21,False,1411
+33:3,48:28,204,replacement,هداية,False,21,26,False,1075
+4:6,33:48,204,replacement,هداية,False,4,22,False,3082
+33:39,33:48,204,replacement,هداية,True,22,22,True,9
+4:45,33:48,204,replacement,هداية,False,5,22,False,3043
+4:79,33:48,204,replacement,هداية,False,5,22,False,3009
+4:166,33:48,204,replacement,هداية,False,6,22,False,2922
+10:29,33:48,204,replacement,هداية,False,11,22,False,2188
+13:43,33:48,204,replacement,هداية,False,13,22,False,1831
+17:96,33:48,204,replacement,هداية,False,15,22,False,1456
+33:48,48:28,204,replacement,هداية,False,22,26,False,1030
+4:6,4:45,204,replacement,هداية,True,4,5,False,39
+4:6,4:79,204,replacement,هداية,True,4,5,False,73
+4:6,4:166,204,replacement,هداية,True,4,6,False,160
+4:6,10:29,204,replacement,هداية,False,4,11,False,894
+4:6,13:43,204,replacement,هداية,False,4,13,False,1251
+4:6,17:96,204,replacement,هداية,False,4,15,False,1626
+4:6,48:28,204,replacement,هداية,False,4,26,False,4112
+4:45,33:39,204,replacement,هداية,False,5,22,False,3034
+4:79,33:39,204,replacement,هداية,False,5,22,False,3000
+4:166,33:39,204,replacement,هداية,False,6,22,False,2913
+10:29,33:39,204,replacement,هداية,False,11,22,False,2179
+13:43,33:39,204,replacement,هداية,False,13,22,False,1822
+17:96,33:39,204,replacement,هداية,False,15,22,False,1447
+33:39,48:28,204,replacement,هداية,False,22,26,False,1039
+4:45,4:79,204,replacement,هداية,True,5,5,True,34
+4:45,4:166,204,replacement,هداية,True,5,6,False,121
+4:45,10:29,204,replacement,هداية,False,5,11,False,855
+4:45,13:43,204,replacement,هداية,False,5,13,False,1212
+4:45,17:96,204,replacement,هداية,False,5,15,False,1587
+4:45,48:28,204,replacement,هداية,False,5,26,False,4073
+4:79,4:166,204,replacement,هداية,True,5,6,False,87
+4:79,10:29,204,replacement,هداية,False,5,11,False,821
+4:79,13:43,204,replacement,هداية,False,5,13,False,1178
+4:79,17:96,204,replacement,هداية,False,5,15,False,1553
+4:79,48:28,204,replacement,هداية,False,5,26,False,4039
+4:166,10:29,204,replacement,هداية,False,6,11,False,734
+4:166,13:43,204,replacement,هداية,False,6,13,False,1091
+4:166,17:96,204,replacement,هداية,False,6,15,False,1466
+4:166,48:28,204,replacement,هداية,False,6,26,False,3952
+10:29,13:43,204,replacement,هداية,False,11,13,False,357
+10:29,17:96,204,replacement,هداية,False,11,15,False,732
+10:29,48:28,204,replacement,هداية,False,11,26,False,3218
+13:43,48:28,204,replacement,هداية,False,13,26,False,2861
+17:96,48:28,204,replacement,هداية,False,15,26,False,2486
+7:100,32:26,205,replacement,هداية,False,9,21,False,2475
+7:100,20:128,205,replacement,هداية,False,9,16,False,1422
+7:82,29:24,206,replacement,هداية,False,8,20,False,2328
+7:82,29:29,206,replacement,هداية,False,8,20,False,2333
+27:56,29:24,206,replacement,هداية,False,20,20,True,149
+27:56,29:29,206,replacement,هداية,False,20,20,True,154
+29:24,29:29,206,replacement,هداية,True,20,20,True,5
+7:113,10:80,207,replacement,هداية,False,9,11,False,377
+7:113,26:41,207,replacement,هداية,False,9,19,False,1906
+10:80,26:41,207,replacement,هداية,False,11,19,False,1529
+12:22,12:59,208,replacement,هداية,True,12,13,False,37
+12:22,12:65,208,replacement,هداية,True,12,13,False,43
+12:22,12:68,208,replacement,هداية,True,12,13,False,46
+12:22,12:69,208,replacement,هداية,True,12,13,False,47
+12:22,12:94,208,replacement,هداية,True,12,13,False,72
+12:59,12:65,208,replacement,هداية,True,13,13,True,6
+12:59,12:68,208,replacement,هداية,True,13,13,True,9
+12:59,12:69,208,replacement,هداية,True,13,13,True,10
+12:59,12:94,208,replacement,هداية,True,13,13,True,35
+12:65,12:68,208,replacement,هداية,True,13,13,True,3
+12:65,12:69,208,replacement,هداية,True,13,13,True,4
+12:65,12:94,208,replacement,هداية,True,13,13,True,29
+12:68,12:69,208,replacement,هداية,True,13,13,True,1
+12:68,12:94,208,replacement,هداية,True,13,13,True,26
+12:69,12:94,208,replacement,هداية,True,13,13,True,25
+28:60,42:36,210,multiple differences,هداية,False,20,25,False,996
+38:4,50:2,211,replacement,هداية,False,23,26,False,658
+30:33,39:8,212,replacement,هداية,False,21,23,False,624
+10:12,39:8,212,replacement,هداية,False,11,23,False,2690
+30:33,39:49,212,replacement,هداية,False,21,24,False,665
+10:12,39:49,212,replacement,هداية,False,11,24,False,2731
+10:12,30:33,212,replacement,هداية,False,11,21,False,2066
+26:8,26:67,215,replacement,هداية,True,19,19,True,59
+26:8,26:103,215,replacement,هداية,True,19,19,True,95
+26:8,26:121,215,replacement,هداية,True,19,19,True,113
+26:8,26:139,215,replacement,هداية,True,19,19,True,131
+26:8,26:158,215,replacement,هداية,True,19,19,True,150
+26:8,26:174,215,replacement,هداية,True,19,19,True,166
+26:8,26:190,215,replacement,هداية,True,19,19,True,182
+16:11,26:8,215,replacement,هداية,False,14,19,False,1028
+16:13,26:8,215,replacement,هداية,False,14,19,False,1026
+16:65,26:8,215,replacement,هداية,False,14,19,False,974
+16:67,26:8,215,replacement,هداية,False,14,19,False,972
+16:69,26:8,215,replacement,هداية,False,14,19,False,970
+2:248,26:8,215,replacement,هداية,False,2,19,False,2685
+3:49,26:8,215,replacement,هداية,False,3,19,False,2598
+11:103,26:8,215,replacement,هداية,False,12,19,False,1364
+15:77,26:8,215,replacement,هداية,False,14,19,False,1061
+26:8,27:52,215,replacement,هداية,False,19,19,True,271
+26:8,29:44,215,replacement,هداية,False,19,20,False,444
+26:8,34:9,215,replacement,هداية,False,19,22,False,675
+26:67,26:103,215,replacement,هداية,True,19,19,True,36
+26:67,26:121,215,replacement,هداية,True,19,19,True,54
+26:67,26:139,215,replacement,هداية,True,19,19,True,72
+26:67,26:158,215,replacement,هداية,True,19,19,True,91
+26:67,26:174,215,replacement,هداية,True,19,19,True,107
+26:67,26:190,215,replacement,هداية,True,19,19,True,123
+16:11,26:67,215,replacement,هداية,False,14,19,False,1087
+16:13,26:67,215,replacement,هداية,False,14,19,False,1085
+16:65,26:67,215,replacement,هداية,False,14,19,False,1033
+16:67,26:67,215,replacement,هداية,False,14,19,False,1031
+16:69,26:67,215,replacement,هداية,False,14,19,False,1029
+2:248,26:67,215,replacement,هداية,False,2,19,False,2744
+3:49,26:67,215,replacement,هداية,False,3,19,False,2657
+11:103,26:67,215,replacement,هداية,False,12,19,False,1423
+15:77,26:67,215,replacement,هداية,False,14,19,False,1120
+26:67,27:52,215,replacement,هداية,False,19,19,True,212
+26:67,29:44,215,replacement,هداية,False,19,20,False,385
+26:67,34:9,215,replacement,هداية,False,19,22,False,616
+26:103,26:121,215,replacement,هداية,True,19,19,True,18
+26:103,26:139,215,replacement,هداية,True,19,19,True,36
+26:103,26:158,215,replacement,هداية,True,19,19,True,55
+26:103,26:174,215,replacement,هداية,True,19,19,True,71
+26:103,26:190,215,replacement,هداية,True,19,19,True,87
+16:11,26:103,215,replacement,هداية,False,14,19,False,1123
+16:13,26:103,215,replacement,هداية,False,14,19,False,1121
+16:65,26:103,215,replacement,هداية,False,14,19,False,1069
+16:67,26:103,215,replacement,هداية,False,14,19,False,1067
+16:69,26:103,215,replacement,هداية,False,14,19,False,1065
+2:248,26:103,215,replacement,هداية,False,2,19,False,2780
+3:49,26:103,215,replacement,هداية,False,3,19,False,2693
+11:103,26:103,215,replacement,هداية,False,12,19,False,1459
+15:77,26:103,215,replacement,هداية,False,14,19,False,1156
+26:103,27:52,215,replacement,هداية,False,19,19,True,176
+26:103,29:44,215,replacement,هداية,False,19,20,False,349
+26:103,34:9,215,replacement,هداية,False,19,22,False,580
+26:121,26:139,215,replacement,هداية,True,19,19,True,18
+26:121,26:158,215,replacement,هداية,True,19,19,True,37
+26:121,26:174,215,replacement,هداية,True,19,19,True,53
+26:121,26:190,215,replacement,هداية,True,19,19,True,69
+16:11,26:121,215,replacement,هداية,False,14,19,False,1141
+16:13,26:121,215,replacement,هداية,False,14,19,False,1139
+16:65,26:121,215,replacement,هداية,False,14,19,False,1087
+16:67,26:121,215,replacement,هداية,False,14,19,False,1085
+16:69,26:121,215,replacement,هداية,False,14,19,False,1083
+2:248,26:121,215,replacement,هداية,False,2,19,False,2798
+3:49,26:121,215,replacement,هداية,False,3,19,False,2711
+11:103,26:121,215,replacement,هداية,False,12,19,False,1477
+15:77,26:121,215,replacement,هداية,False,14,19,False,1174
+26:121,27:52,215,replacement,هداية,False,19,19,True,158
+26:121,29:44,215,replacement,هداية,False,19,20,False,331
+26:121,34:9,215,replacement,هداية,False,19,22,False,562
+26:139,26:158,215,replacement,هداية,True,19,19,True,19
+26:139,26:174,215,replacement,هداية,True,19,19,True,35
+26:139,26:190,215,replacement,هداية,True,19,19,True,51
+16:11,26:139,215,replacement,هداية,False,14,19,False,1159
+16:13,26:139,215,replacement,هداية,False,14,19,False,1157
+16:65,26:139,215,replacement,هداية,False,14,19,False,1105
+16:67,26:139,215,replacement,هداية,False,14,19,False,1103
+16:69,26:139,215,replacement,هداية,False,14,19,False,1101
+2:248,26:139,215,replacement,هداية,False,2,19,False,2816
+3:49,26:139,215,replacement,هداية,False,3,19,False,2729
+11:103,26:139,215,replacement,هداية,False,12,19,False,1495
+15:77,26:139,215,replacement,هداية,False,14,19,False,1192
+26:139,27:52,215,replacement,هداية,False,19,19,True,140
+26:139,29:44,215,replacement,هداية,False,19,20,False,313
+26:139,34:9,215,replacement,هداية,False,19,22,False,544
+26:158,26:174,215,replacement,هداية,True,19,19,True,16
+26:158,26:190,215,replacement,هداية,True,19,19,True,32
+16:11,26:158,215,replacement,هداية,False,14,19,False,1178
+16:13,26:158,215,replacement,هداية,False,14,19,False,1176
+16:65,26:158,215,replacement,هداية,False,14,19,False,1124
+16:67,26:158,215,replacement,هداية,False,14,19,False,1122
+16:69,26:158,215,replacement,هداية,False,14,19,False,1120
+2:248,26:158,215,replacement,هداية,False,2,19,False,2835
+3:49,26:158,215,replacement,هداية,False,3,19,False,2748
+11:103,26:158,215,replacement,هداية,False,12,19,False,1514
+15:77,26:158,215,replacement,هداية,False,14,19,False,1211
+26:158,27:52,215,replacement,هداية,False,19,19,True,121
+26:158,29:44,215,replacement,هداية,False,19,20,False,294
+26:158,34:9,215,replacement,هداية,False,19,22,False,525
+26:174,26:190,215,replacement,هداية,True,19,19,True,16
+16:11,26:174,215,replacement,هداية,False,14,19,False,1194
+16:13,26:174,215,replacement,هداية,False,14,19,False,1192
+16:65,26:174,215,replacement,هداية,False,14,19,False,1140
+16:67,26:174,215,replacement,هداية,False,14,19,False,1138
+16:69,26:174,215,replacement,هداية,False,14,19,False,1136
+2:248,26:174,215,replacement,هداية,False,2,19,False,2851
+3:49,26:174,215,replacement,هداية,False,3,19,False,2764
+11:103,26:174,215,replacement,هداية,False,12,19,False,1530
+15:77,26:174,215,replacement,هداية,False,14,19,False,1227
+26:174,27:52,215,replacement,هداية,False,19,19,True,105
+26:174,29:44,215,replacement,هداية,False,19,20,False,278
+26:174,34:9,215,replacement,هداية,False,19,22,False,509
+16:11,26:190,215,replacement,هداية,False,14,19,False,1210
+16:13,26:190,215,replacement,هداية,False,14,19,False,1208
+16:65,26:190,215,replacement,هداية,False,14,19,False,1156
+16:67,26:190,215,replacement,هداية,False,14,19,False,1154
+16:69,26:190,215,replacement,هداية,False,14,19,False,1152
+2:248,26:190,215,replacement,هداية,False,2,19,False,2867
+3:49,26:190,215,replacement,هداية,False,3,19,False,2780
+11:103,26:190,215,replacement,هداية,False,12,19,False,1546
+15:77,26:190,215,replacement,هداية,False,14,19,False,1243
+26:190,27:52,215,replacement,هداية,False,19,19,True,89
+26:190,29:44,215,replacement,هداية,False,19,20,False,262
+26:190,34:9,215,replacement,هداية,False,19,22,False,493
+16:11,16:13,215,replacement,هداية,True,14,14,True,2
+16:11,16:65,215,replacement,هداية,True,14,14,True,54
+16:11,16:67,215,replacement,هداية,True,14,14,True,56
+16:11,16:69,215,replacement,هداية,True,14,14,True,58
+2:248,16:11,215,replacement,هداية,False,2,14,False,1657
+3:49,16:11,215,replacement,هداية,False,3,14,False,1570
+11:103,16:11,215,replacement,هداية,False,12,14,False,336
+15:77,16:11,215,replacement,هداية,False,14,14,True,33
+16:11,27:52,215,replacement,هداية,False,14,19,False,1299
+16:11,29:44,215,replacement,هداية,False,14,20,False,1472
+16:11,34:9,215,replacement,هداية,False,14,22,False,1703
+16:13,16:65,215,replacement,هداية,True,14,14,True,52
+16:13,16:67,215,replacement,هداية,True,14,14,True,54
+16:13,16:69,215,replacement,هداية,True,14,14,True,56
+2:248,16:13,215,replacement,هداية,False,2,14,False,1659
+3:49,16:13,215,replacement,هداية,False,3,14,False,1572
+11:103,16:13,215,replacement,هداية,False,12,14,False,338
+15:77,16:13,215,replacement,هداية,False,14,14,True,35
+16:13,27:52,215,replacement,هداية,False,14,19,False,1297
+16:13,29:44,215,replacement,هداية,False,14,20,False,1470
+16:13,34:9,215,replacement,هداية,False,14,22,False,1701
+16:65,16:67,215,replacement,هداية,True,14,14,True,2
+16:65,16:69,215,replacement,هداية,True,14,14,True,4
+2:248,16:65,215,replacement,هداية,False,2,14,False,1711
+3:49,16:65,215,replacement,هداية,False,3,14,False,1624
+11:103,16:65,215,replacement,هداية,False,12,14,False,390
+15:77,16:65,215,replacement,هداية,False,14,14,True,87
+16:65,27:52,215,replacement,هداية,False,14,19,False,1245
+16:65,29:44,215,replacement,هداية,False,14,20,False,1418
+16:65,34:9,215,replacement,هداية,False,14,22,False,1649
+16:67,16:69,215,replacement,هداية,True,14,14,True,2
+2:248,16:67,215,replacement,هداية,False,2,14,False,1713
+3:49,16:67,215,replacement,هداية,False,3,14,False,1626
+11:103,16:67,215,replacement,هداية,False,12,14,False,392
+15:77,16:67,215,replacement,هداية,False,14,14,True,89
+16:67,27:52,215,replacement,هداية,False,14,19,False,1243
+16:67,29:44,215,replacement,هداية,False,14,20,False,1416
+16:67,34:9,215,replacement,هداية,False,14,22,False,1647
+2:248,16:69,215,replacement,هداية,False,2,14,False,1715
+3:49,16:69,215,replacement,هداية,False,3,14,False,1628
+11:103,16:69,215,replacement,هداية,False,12,14,False,394
+15:77,16:69,215,replacement,هداية,False,14,14,True,91
+16:69,27:52,215,replacement,هداية,False,14,19,False,1241
+16:69,29:44,215,replacement,هداية,False,14,20,False,1414
+16:69,34:9,215,replacement,هداية,False,14,22,False,1645
+2:248,3:49,215,replacement,هداية,False,2,3,False,87
+2:248,11:103,215,replacement,هداية,False,2,12,False,1321
+2:248,15:77,215,replacement,هداية,False,2,14,False,1624
+2:248,27:52,215,replacement,هداية,False,2,19,False,2956
+2:248,29:44,215,replacement,هداية,False,2,20,False,3129
+2:248,34:9,215,replacement,هداية,False,2,22,False,3360
+3:49,11:103,215,replacement,هداية,False,3,12,False,1234
+3:49,15:77,215,replacement,هداية,False,3,14,False,1537
+3:49,27:52,215,replacement,هداية,False,3,19,False,2869
+3:49,29:44,215,replacement,هداية,False,3,20,False,3042
+3:49,34:9,215,replacement,هداية,False,3,22,False,3273
+11:103,15:77,215,replacement,هداية,False,12,14,False,303
+11:103,27:52,215,replacement,هداية,False,12,19,False,1635
+11:103,29:44,215,replacement,هداية,False,12,20,False,1808
+11:103,34:9,215,replacement,هداية,False,12,22,False,2039
+15:77,27:52,215,replacement,هداية,False,14,19,False,1332
+15:77,34:9,215,replacement,هداية,False,14,22,False,1736
+27:52,29:44,215,replacement,هداية,False,19,20,False,173
+27:52,34:9,215,replacement,هداية,False,19,22,False,404
+29:44,34:9,215,replacement,هداية,False,20,22,False,231
+2:48,2:123,216,multiple differences,هداية,True,1,1,True,75
+2:49,14:6,217,replacement,هداية,False,1,13,False,1700
+2:49,7:141,217,replacement,هداية,False,1,9,False,1039
+7:141,14:6,217,replacement,هداية,False,9,13,False,661
+2:54,5:20,218,addition & subtraction,هداية,False,1,6,False,628
+2:54,61:5,218,addition & subtraction,هداية,False,1,28,False,5107
+2:54,2:67,218,addition & subtraction,هداية,True,1,1,True,13
+2:54,14:6,218,addition & subtraction,هداية,False,1,13,False,1695
+5:20,61:5,218,addition & subtraction,هداية,False,6,28,False,4479
+2:67,5:20,218,addition & subtraction,هداية,False,1,6,False,615
+5:20,14:6,218,addition & subtraction,هداية,False,6,13,False,1067
+2:67,61:5,218,addition & subtraction,هداية,False,1,28,False,5094
+14:6,61:5,218,addition & subtraction,هداية,False,13,28,False,3412
+2:67,14:6,218,addition & subtraction,هداية,False,1,13,False,1682
+6:117,16:125,219,replacement,هداية,False,8,14,False,1120
+6:117,53:30,219,replacement,هداية,False,8,27,False,3908
+6:117,68:7,219,replacement,هداية,False,8,29,False,4372
+16:125,53:30,219,replacement,هداية,False,14,27,False,2788
+16:125,68:7,219,replacement,هداية,False,14,29,False,3252
+53:30,68:7,219,replacement,هداية,False,27,29,False,464
+6:100,23:91,220,replacement,هداية,False,7,18,False,1875
+6:100,37:159,220,replacement,هداية,False,7,23,False,3058
+23:91,37:159,220,replacement,هداية,False,18,23,False,1183
+6:130,7:35,221,replacement,هداية,False,8,8,True,70
+6:130,39:71,221,replacement,هداية,False,8,24,False,3210
+7:35,39:71,221,replacement,هداية,False,8,24,False,3140
+6:42,7:94,222,replacement,هداية,False,7,9,False,217
+6:37,7:131,223,replacement,هداية,False,7,9,False,259
+6:37,8:34,223,replacement,هداية,False,7,9,False,368
+6:37,10:55,223,replacement,هداية,False,7,11,False,593
+6:37,28:13,223,replacement,هداية,False,7,20,False,2439
+6:37,28:57,223,replacement,هداية,False,7,20,False,2483
+6:37,52:47,223,replacement,هداية,False,7,27,False,3956
+6:37,39:49,223,replacement,هداية,False,7,24,False,3281
+6:37,44:39,223,replacement,هداية,False,7,25,False,3627
+7:131,8:34,223,replacement,هداية,False,9,9,True,109
+7:131,10:55,223,replacement,هداية,False,9,11,False,334
+7:131,28:13,223,replacement,هداية,False,9,20,False,2180
+7:131,28:57,223,replacement,هداية,False,9,20,False,2224
+7:131,52:47,223,replacement,هداية,False,9,27,False,3697
+7:131,39:49,223,replacement,هداية,False,9,24,False,3022
+7:131,44:39,223,replacement,هداية,False,9,25,False,3368
+8:34,10:55,223,replacement,هداية,False,9,11,False,225
+8:34,28:13,223,replacement,هداية,False,9,20,False,2071
+8:34,28:57,223,replacement,هداية,False,9,20,False,2115
+8:34,52:47,223,replacement,هداية,False,9,27,False,3588
+8:34,39:49,223,replacement,هداية,False,9,24,False,2913
+8:34,44:39,223,replacement,هداية,False,9,25,False,3259
+10:55,28:13,223,replacement,هداية,False,11,20,False,1846
+10:55,28:57,223,replacement,هداية,False,11,20,False,1890
+10:55,52:47,223,replacement,هداية,False,11,27,False,3363
+10:55,39:49,223,replacement,هداية,False,11,24,False,2688
+10:55,44:39,223,replacement,هداية,False,11,25,False,3034
+28:13,28:57,223,replacement,هداية,True,20,20,True,44
+28:13,52:47,223,replacement,هداية,False,20,27,False,1517
+28:13,39:49,223,replacement,هداية,False,20,24,False,842
+28:13,44:39,223,replacement,هداية,False,20,25,False,1188
+28:57,52:47,223,replacement,هداية,False,20,27,False,1473
+28:57,39:49,223,replacement,هداية,False,20,24,False,798
+28:57,44:39,223,replacement,هداية,False,20,25,False,1144
+39:49,52:47,223,replacement,هداية,False,24,27,False,675
+44:39,52:47,223,replacement,هداية,False,25,27,False,329
+39:49,44:39,223,replacement,هداية,False,24,25,False,346
+11:17,13:1,224,replacement,هداية,False,12,13,False,218
+11:17,40:59,224,replacement,هداية,False,12,24,False,2702
+2:100,11:17,224,replacement,هداية,False,1,12,False,1383
+13:1,40:59,224,replacement,هداية,False,13,24,False,2484
+2:100,13:1,224,replacement,هداية,False,1,13,False,1601
+2:100,40:59,224,replacement,هداية,False,1,24,False,4085
+10:60,27:73,225,replacement,هداية,False,11,20,False,1808
+2:243,27:73,225,replacement,هداية,False,2,20,False,2982
+12:38,27:73,225,replacement,هداية,False,12,20,False,1598
+27:73,40:61,225,replacement,هداية,False,20,24,False,962
+2:243,10:60,225,replacement,هداية,False,2,11,False,1174
+10:60,12:38,225,replacement,هداية,False,11,12,False,210
+10:60,40:61,225,replacement,هداية,False,11,24,False,2770
+2:243,12:38,225,replacement,هداية,False,2,12,False,1384
+2:243,40:61,225,replacement,هداية,False,2,24,False,3944
+12:38,40:61,225,replacement,هداية,False,12,24,False,2560
+13:23,16:31,227,addition & subtraction,هداية,False,13,14,False,202
+16:31,35:33,227,addition & subtraction,هداية,False,14,22,False,1761
+13:23,35:33,227,addition & subtraction,هداية,False,13,22,False,1963
+9:60,24:22,228,addition & subtraction,هداية,False,10,18,False,1518
+21:31,23:49,229,replacement,هداية,False,17,18,False,208
+21:31,32:3,229,replacement,هداية,False,17,21,False,992
+14:37,21:31,229,replacement,هداية,False,13,17,False,727
+23:49,32:3,229,replacement,هداية,False,18,21,False,784
+14:37,23:49,229,replacement,هداية,False,13,18,False,935
+14:37,32:3,229,replacement,هداية,False,13,21,False,1719
+39:21,57:20,230,replacement,هداية,False,23,27,False,1016
+30:37,39:52,231,replacement,هداية,False,21,24,False,664
+2:170,31:21,232,replacement,تتمة,False,2,21,False,3313
+4:136,4:140,233,replacement,تتمة,True,5,5,True,4
+6:48,7:35,234,replacement,تتمة,False,7,8,False,152
+9:32,61:8,235,replacement,تتمة,False,10,28,False,3904
+9:86,9:124,236,addition & subtraction,تتمة,True,10,11,False,38
+9:86,9:127,236,addition & subtraction,تتمة,True,10,11,False,41
+9:124,9:127,236,addition & subtraction,تتمة,True,11,11,True,3
+7:34,10:49,237,order change,تتمة,False,8,11,False,425
+10:49,16:61,237,order change,تتمة,False,11,14,False,549
+7:34,16:61,237,order change,تتمة,False,8,14,False,974
+11:22,16:109,238,replacement,تتمة,False,12,14,False,515
+15:82,26:149,239,replacement,تتمة,False,14,19,False,1197
+2:36,2:38,240,replacement,تتمة,True,1,1,True,2
+2:36,7:24,240,replacement,تتمة,False,1,8,False,935
+2:36,20:123,240,replacement,تتمة,False,1,16,False,2428
+2:38,7:24,240,replacement,تتمة,False,1,8,False,933
+2:38,20:123,240,replacement,تتمة,False,1,16,False,2426
+7:24,20:123,240,replacement,تتمة,False,8,16,False,1493
+24:34,24:46,241,addition & subtraction,تتمة,True,18,18,True,12
+6:8,25:7,242,replacement,تتمة,False,7,18,False,2065
+26:106,26:124,243,addition & subtraction,تتمة,True,19,19,True,18
+26:106,26:142,243,addition & subtraction,تتمة,True,19,19,True,36
+26:106,26:161,243,addition & subtraction,تتمة,True,19,19,True,55
+26:106,26:177,243,addition & subtraction,تتمة,True,19,19,True,71
+26:124,26:142,243,addition & subtraction,تتمة,True,19,19,True,18
+26:124,26:161,243,addition & subtraction,تتمة,True,19,19,True,37
+26:124,26:177,243,addition & subtraction,تتمة,True,19,19,True,53
+26:142,26:161,243,addition & subtraction,تتمة,True,19,19,True,19
+26:142,26:177,243,addition & subtraction,تتمة,True,19,19,True,35
+26:161,26:177,243,addition & subtraction,تتمة,True,19,19,True,16
+27:53,41:18,244,replacement,تتمة,False,19,24,False,1024
+28:36,34:43,247,replacement,تتمة,False,20,22,False,361
+3:19,42:14,249,replacement,تتمة,False,3,25,False,3974
+3:19,45:17,249,replacement,تتمة,False,3,25,False,4178
+3:19,10:93,249,replacement,تتمة,False,3,11,False,1145
+42:14,45:17,249,replacement,تتمة,False,25,25,True,204
+10:93,42:14,249,replacement,تتمة,False,11,25,False,2829
+10:93,45:17,249,replacement,تتمة,False,11,25,False,3033
+2:126,14:35,250,replacement,تتمة,False,1,13,False,1652
+2:234,2:240,251,replacement,تتمة,True,2,2,True,6
+6:5,26:6,253,multiple differences,تتمة,False,7,19,False,2144
+6:5,50:5,253,multiple differences,تتمة,False,7,26,False,3841
+26:6,50:5,253,multiple differences,تتمة,False,19,26,False,1697
+3:126,8:10,254,multiple differences,تتمة,False,4,9,False,751
+9:54,9:80,255,addition & subtraction,تتمة,True,10,10,True,26
+9:54,9:84,255,addition & subtraction,تتمة,True,10,10,True,30
+9:80,9:84,255,addition & subtraction,تتمة,True,10,10,True,4
+7:110,26:35,256,addition & subtraction,تتمة,False,9,19,False,1903
+18:26,19:38,257,multiple differences,تتمة,False,15,16,False,122
+28:48,40:25,258,addition & subtraction,تتمة,False,20,24,False,858
+10:76,40:25,258,addition & subtraction,تتمة,False,11,24,False,2718
+10:76,28:48,258,addition & subtraction,تتمة,False,11,20,False,1860
+3:184,35:25,259,replacement,تتمة,False,4,22,False,3208
+2:121,2:146,260,replacement,تتمة,True,1,2,False,25
+2:121,6:20,260,replacement,تتمة,False,1,7,False,681
+2:146,6:20,260,replacement,تتمة,False,2,7,False,656
+16:28,16:32,261,addition & subtraction,تتمة,True,14,14,True,4
+4:97,16:28,261,addition & subtraction,تتمة,False,5,14,False,1339
+4:97,16:32,261,addition & subtraction,تتمة,False,5,14,False,1343
+7:193,7:198,262,multiple differences,تتمة,True,9,9,True,5
+7:193,35:14,262,multiple differences,تتمة,False,9,22,False,2527
+7:193,18:57,262,multiple differences,تتمة,False,9,15,False,1050
+7:198,35:14,262,multiple differences,تتمة,False,9,22,False,2522
+7:198,18:57,262,multiple differences,تتمة,False,9,15,False,1045
+18:57,35:14,262,multiple differences,تتمة,False,15,22,False,1477
+12:67,14:12,263,replacement,تتمة,False,13,13,True,99
+3:122,12:67,263,replacement,تتمة,False,4,13,False,1248
+3:160,12:67,263,replacement,تتمة,False,4,13,False,1210
+5:11,12:67,263,replacement,تتمة,False,6,13,False,983
+9:51,12:67,263,replacement,تتمة,False,10,13,False,377
+12:67,14:11,263,replacement,تتمة,False,13,13,True,98
+12:67,58:10,263,replacement,تتمة,False,13,28,False,3451
+12:67,64:13,263,replacement,تتمة,False,13,28,False,3549
+3:122,14:12,263,replacement,تتمة,False,4,13,False,1347
+3:160,14:12,263,replacement,تتمة,False,4,13,False,1309
+5:11,14:12,263,replacement,تتمة,False,6,13,False,1082
+9:51,14:12,263,replacement,تتمة,False,10,13,False,476
+14:11,14:12,263,replacement,تتمة,True,13,13,True,1
+14:12,58:10,263,replacement,تتمة,False,13,28,False,3352
+14:12,64:13,263,replacement,تتمة,False,13,28,False,3450
+3:122,3:160,263,replacement,تتمة,True,4,4,True,38
+3:122,5:11,263,replacement,تتمة,False,4,6,False,265
+3:122,9:51,263,replacement,تتمة,False,4,10,False,871
+3:122,14:11,263,replacement,تتمة,False,4,13,False,1346
+3:122,58:10,263,replacement,تتمة,False,4,28,False,4699
+3:122,64:13,263,replacement,تتمة,False,4,28,False,4797
+3:160,5:11,263,replacement,تتمة,False,4,6,False,227
+3:160,9:51,263,replacement,تتمة,False,4,10,False,833
+3:160,14:11,263,replacement,تتمة,False,4,13,False,1308
+3:160,58:10,263,replacement,تتمة,False,4,28,False,4661
+3:160,64:13,263,replacement,تتمة,False,4,28,False,4759
+5:11,9:51,263,replacement,تتمة,False,6,10,False,606
+5:11,14:11,263,replacement,تتمة,False,6,13,False,1081
+5:11,58:10,263,replacement,تتمة,False,6,28,False,4434
+5:11,64:13,263,replacement,تتمة,False,6,28,False,4532
+9:51,14:11,263,replacement,تتمة,False,10,13,False,475
+9:51,58:10,263,replacement,تتمة,False,10,28,False,3828
+9:51,64:13,263,replacement,تتمة,False,10,28,False,3926
+14:11,58:10,263,replacement,تتمة,False,13,28,False,3353
+14:11,64:13,263,replacement,تتمة,False,13,28,False,3451
+58:10,64:13,263,replacement,تتمة,False,28,28,True,98
+6:107,39:41,264,replacement,تتمة,False,7,24,False,3203
+39:41,42:6,264,replacement,تتمة,False,24,25,False,179
+6:66,39:41,264,replacement,تتمة,False,7,24,False,3244
+6:107,42:6,264,replacement,تتمة,False,7,25,False,3382
+6:107,10:108,264,replacement,تتمة,False,7,11,False,576
+6:66,6:107,264,replacement,تتمة,True,7,7,True,41
+10:108,42:6,264,replacement,تتمة,False,11,25,False,2806
+6:66,42:6,264,replacement,تتمة,False,7,25,False,3423
+6:66,10:108,264,replacement,تتمة,False,7,11,False,617
+7:189,39:6,265,replacement,تتمة,False,9,23,False,2921
+12:2,43:3,266,replacement,تتمة,False,12,25,False,2730
+56:65,56:70,267,replacement,تتمة,True,27,27,True,5
+11:40,23:27,268,replacement,تتمة,False,12,18,False,1187
+4:1,7:189,269,replacement,تتمة,False,4,9,False,649
+4:1,39:6,269,replacement,تتمة,False,4,23,False,3570
+4:149,33:54,270,replacement,تتمة,False,6,22,False,2945
+5:30,5:31,271,replacement,تتمة,True,6,6,True,1
+24:30,35:8,273,replacement,تتمة,False,18,22,False,847
+2:83,4:36,275,addition & subtraction,تتمة,False,1,5,False,439
+6:152,6:153,276,order similarity,تتمة,True,8,8,True,1
+6:152,23:85,276,order similarity,تتمة,False,8,18,False,1817
+6:152,23:87,276,order similarity,تتمة,False,8,18,False,1819
+6:153,23:85,276,order similarity,تتمة,False,8,18,False,1816
+6:153,23:87,276,order similarity,تتمة,False,8,18,False,1818
+23:85,23:87,276,order similarity,تتمة,True,18,18,True,2
+3:7,14:52,277,replacement,تتمة,False,3,13,False,1502
+3:7,38:29,277,replacement,تتمة,False,3,23,False,3699
+3:7,20:44,277,replacement,تتمة,False,3,16,False,2092
+3:7,13:19,277,replacement,تتمة,False,3,13,False,1426
+3:7,40:13,277,replacement,تتمة,False,3,24,False,3846
+14:52,38:29,277,replacement,تتمة,False,13,23,False,2197
+14:52,20:44,277,replacement,تتمة,False,13,16,False,590
+13:19,14:52,277,replacement,تتمة,False,13,13,True,76
+14:52,40:13,277,replacement,تتمة,False,13,24,False,2344
+20:44,38:29,277,replacement,تتمة,False,16,23,False,1607
+13:19,38:29,277,replacement,تتمة,False,13,23,False,2273
+38:29,40:13,277,replacement,تتمة,False,23,24,False,147
+13:19,20:44,277,replacement,تتمة,False,13,16,False,666
+20:44,40:13,277,replacement,تتمة,False,16,24,False,1754
+13:19,40:13,277,replacement,تتمة,False,13,24,False,2420
+2:35,2:58,278,multiple differences,تتمة,True,1,1,True,23
+6:17,10:107,279,replacement,تتمة,False,7,11,False,665
+11:28,11:63,280,multiple differences,تتمة,True,12,12,True,35
+15:11,43:7,281,replacement,تتمة,False,14,25,False,2519
+15:11,36:30,281,replacement,تتمة,False,14,23,False,1922
+36:30,43:7,281,replacement,تتمة,False,23,25,False,597
+2:231,65:2,283,replacement,تتمة,False,2,28,False,4981
+4:137,4:168,284,replacement,تتمة,True,5,6,False,31
+6:163,27:91,285,replacement,تتمة,False,8,20,False,2298
+6:163,10:72,285,replacement,تتمة,False,8,11,False,484
+6:163,39:12,285,replacement,تتمة,False,8,23,False,3118
+10:72,27:91,285,replacement,تتمة,False,11,20,False,1814
+27:91,39:12,285,replacement,تتمة,False,20,23,False,820
+10:72,39:12,285,replacement,تتمة,False,11,23,False,2634
+7:143,10:104,286,replacement,تتمة,False,9,11,False,371
+19:15,19:33,287,replacement,تتمة,True,16,16,True,18
+20:53,43:10,288,replacement,تتمة,False,16,25,False,1934
+6:99,6:141,289,replacement,تتمة,True,7,8,False,42
+15:73,15:83,290,replacement,تتمة,True,14,14,True,10
+29:68,39:32,291,replacement,تتمة,False,21,24,False,682
+16:61,35:45,292,replacement,تتمة,False,14,22,False,1743
+19:37,43:65,293,replacement,تتمة,False,16,25,False,2103
+2:18,2:171,294,replacement,تتمة,True,1,2,False,153
+9:42,9:107,295,replacement,تتمة,True,10,11,False,65
+9:42,63:1,295,replacement,تتمة,False,10,28,False,3912
+9:107,63:1,295,replacement,تتمة,False,11,28,False,3847
+11:36,12:69,296,replacement,تتمة,False,12,13,False,156
+19:14,19:32,297,replacement,تتمة,True,16,16,True,18
+22:55,26:135,298,replacement,تتمة,False,17,19,False,417
+22:55,26:156,298,replacement,تتمة,False,17,19,False,438
+22:55,26:189,298,replacement,تتمة,False,17,19,False,471
+11:3,22:55,298,replacement,تتمة,False,11,17,False,1174
+11:84,22:55,298,replacement,تتمة,False,12,17,False,1093
+7:73,22:55,298,replacement,تتمة,False,8,17,False,1623
+11:64,22:55,298,replacement,تتمة,False,12,17,False,1113
+26:135,26:156,298,replacement,تتمة,True,19,19,True,21
+26:135,26:189,298,replacement,تتمة,True,19,19,True,54
+11:3,26:135,298,replacement,تتمة,False,11,19,False,1591
+11:84,26:135,298,replacement,تتمة,False,12,19,False,1510
+7:73,26:135,298,replacement,تتمة,False,8,19,False,2040
+11:64,26:135,298,replacement,تتمة,False,12,19,False,1530
+26:156,26:189,298,replacement,تتمة,True,19,19,True,33
+11:3,26:156,298,replacement,تتمة,False,11,19,False,1612
+11:84,26:156,298,replacement,تتمة,False,12,19,False,1531
+7:73,26:156,298,replacement,تتمة,False,8,19,False,2061
+11:64,26:156,298,replacement,تتمة,False,12,19,False,1551
+11:3,26:189,298,replacement,تتمة,False,11,19,False,1645
+11:84,26:189,298,replacement,تتمة,False,12,19,False,1564
+7:73,26:189,298,replacement,تتمة,False,8,19,False,2094
+11:64,26:189,298,replacement,تتمة,False,12,19,False,1584
+11:3,11:84,298,replacement,تتمة,True,11,12,False,81
+7:73,11:3,298,replacement,تتمة,False,8,11,False,449
+11:3,11:64,298,replacement,تتمة,True,11,12,False,61
+7:73,11:84,298,replacement,تتمة,False,8,12,False,530
+11:64,11:84,298,replacement,تتمة,True,12,12,True,20
+7:73,11:64,298,replacement,تتمة,False,8,12,False,510
+28:78,39:49,299,addition & subtraction,تتمة,False,20,24,False,777
+37:59,44:35,300,replacement,تتمة,False,23,25,False,602
+5:14,5:64,301,replacement,تتمة,True,6,6,True,50
+2:60,7:160,302,replacement,تتمة,False,1,9,False,1047
+2:58,7:19,303,replacement,تتمة,False,1,8,False,908
+9:11,33:5,306,addition & subtraction,تتمة,False,10,21,False,2292
+2:220,9:11,306,addition & subtraction,تتمة,False,2,10,False,1019
+2:220,33:5,306,addition & subtraction,تتمة,False,2,21,False,3311
+26:32,26:45,308,addition & subtraction,تتمة,True,19,19,True,13
+7:107,26:32,308,addition & subtraction,تتمة,False,9,19,False,1903
+7:107,26:45,308,addition & subtraction,تتمة,False,9,19,False,1916
+20:70,26:46,309,replacement,تتمة,False,16,19,False,560
+7:120,26:46,309,replacement,تتمة,False,9,19,False,1904
+7:120,20:70,309,replacement,تتمة,False,9,16,False,1344
+18:57,32:22,310,replacement,تتمة,False,15,21,False,1328
+26:173,27:58,311,identical,تتمة,False,19,20,False,112
+10:48,32:28,312,replacement,تتمة,False,11,21,False,2119
+21:38,32:28,312,replacement,تتمة,False,17,21,False,1010
+27:71,32:28,312,replacement,تتمة,False,20,21,False,301
+32:28,34:29,312,replacement,تتمة,False,21,22,False,104
+32:28,36:48,312,replacement,تتمة,False,21,23,False,222
+32:28,67:25,312,replacement,تتمة,False,21,29,False,1735
+10:48,21:38,312,replacement,تتمة,False,11,17,False,1109
+10:48,27:71,312,replacement,تتمة,False,11,20,False,1818
+10:48,34:29,312,replacement,تتمة,False,11,22,False,2223
+10:48,36:48,312,replacement,تتمة,False,11,23,False,2341
+10:48,67:25,312,replacement,تتمة,False,11,29,False,3854
+21:38,27:71,312,replacement,تتمة,False,17,20,False,709
+21:38,34:29,312,replacement,تتمة,False,17,22,False,1114
+21:38,36:48,312,replacement,تتمة,False,17,23,False,1232
+21:38,67:25,312,replacement,تتمة,False,17,29,False,2745
+27:71,34:29,312,replacement,تتمة,False,20,22,False,405
+27:71,36:48,312,replacement,تتمة,False,20,23,False,523
+27:71,67:25,312,replacement,تتمة,False,20,29,False,2036
+34:29,36:48,312,replacement,تتمة,False,22,23,False,118
+34:29,67:25,312,replacement,تتمة,False,22,29,False,1631
+36:48,67:25,312,replacement,تتمة,False,23,29,False,1513
+37:174,37:178,313,replacement,تتمة,True,23,23,True,4
+51:59,52:47,314,replacement,تتمة,False,27,27,True,48
+68:48,76:24,315,replacement,تتمة,False,29,29,True,296
+52:48,76:24,315,replacement,تتمة,False,27,29,False,832
+52:48,68:48,315,replacement,تتمة,False,27,29,False,536
+84:25,95:6,316,addition & subtraction,تتمة,False,30,30,True,195
+9:70,22:43,318,addition & subtraction,تتمة,False,10,17,False,1333
+30:12,30:55,319,replacement,تتمة,True,21,21,True,43
+30:24,30:28,320,replacement,تتمة,True,21,21,True,4
+10:55,29:63,321,replacement,تتمة,False,11,21,False,1984
+29:63,31:25,321,replacement,تتمة,False,21,21,True,91
+10:55,31:25,321,replacement,تتمة,False,11,21,False,2075
+5:44,5:45,322,replacement,تتمة,True,6,6,True,1
+5:44,5:47,322,replacement,تتمة,True,6,6,True,3
+5:45,5:47,322,replacement,تتمة,True,6,6,True,2
+6:40,6:47,323,replacement,تتمة,True,7,7,True,7
+6:40,6:46,323,replacement,تتمة,True,7,7,True,6
+6:46,6:47,323,replacement,تتمة,True,7,7,True,1
+15:1,27:1,325,order change,تتمة,False,14,19,False,1357
+9:129,23:116,326,replacement,تتمة,False,11,18,False,1425
+23:86,23:116,326,replacement,تتمة,True,18,18,True,30
+23:116,27:26,326,replacement,تتمة,False,18,19,False,396
+9:129,23:86,326,replacement,تتمة,False,11,18,False,1395
+9:129,27:26,326,replacement,تتمة,False,11,19,False,1821
+23:86,27:26,326,replacement,تتمة,False,18,19,False,426
+29:47,29:49,327,replacement,تتمة,True,21,21,True,2
+3:133,57:21,330,replacement,تتمة,False,4,27,False,4670
+2:112,4:125,331,replacement,تتمة,False,1,5,False,499
+2:112,31:22,331,replacement,تتمة,False,1,21,False,3372
+4:125,31:22,331,replacement,تتمة,False,5,21,False,2873
+2:170,5:104,332,replacement,تتمة,False,2,7,False,596
+7:57,35:9,333,replacement,تتمة,False,8,22,False,2658
+7:60,11:27,334,addition & subtraction,تتمة,False,8,12,False,486
+7:60,23:24,334,addition & subtraction,تتمة,False,8,18,False,1683
+6:165,7:167,335,addition & subtraction,تتمة,False,8,9,False,167
+14:10,14:11,336,addition & subtraction,تتمة,True,13,13,True,1
+15:35,38:78,337,replacement,تتمة,False,14,23,False,2211
+35:12,45:12,338,addition & subtraction,تتمة,False,22,25,False,813
+16:14,45:12,338,addition & subtraction,تتمة,False,14,25,False,2570
+26:52,44:23,339,multiple differences,تتمة,False,19,25,False,1453
+7:125,26:50,340,addition & subtraction,تتمة,False,9,19,False,1903
+4:25,5:5,341,replacement,تتمة,False,5,6,False,156
+5:110,6:7,342,multiple differences,تتمة,False,7,7,True,17
+3:120,9:50,343,replacement,تتمة,False,4,10,False,872
+4:78,9:50,343,replacement,تتمة,False,5,10,False,714
+3:120,4:78,343,replacement,تتمة,False,4,5,False,158
+9:70,14:9,344,replacement,تتمة,False,10,13,False,454
+9:70,64:5,344,replacement,تتمة,False,10,28,False,3899
+14:9,64:5,344,replacement,تتمة,False,13,28,False,3445
+6:122,10:12,345,replacement,تتمة,False,8,11,False,465
+11:82,15:74,346,replacement,تتمة,False,12,14,False,321
+11:82,26:173,346,replacement,تتمة,False,12,19,False,1550
+11:82,27:58,346,replacement,تتمة,False,12,20,False,1662
+7:84,11:82,346,replacement,تتمة,False,8,12,False,517
+15:74,26:173,346,replacement,تتمة,False,14,19,False,1229
+15:74,27:58,346,replacement,تتمة,False,14,20,False,1341
+7:84,15:74,346,replacement,تتمة,False,8,14,False,838
+7:84,26:173,346,replacement,تتمة,False,8,19,False,2067
+7:84,27:58,346,replacement,تتمة,False,8,20,False,2179
+18:90,18:93,348,replacement,تتمة,True,16,16,True,3
+18:86,18:93,348,replacement,تتمة,True,16,16,True,7
+18:86,18:90,348,replacement,تتمة,True,16,16,True,4
+22:5,40:67,349,addition & subtraction,تتمة,False,17,24,False,1600
+31:18,31:32,350,replacement,تتمة,True,21,21,True,14
+4:36,31:18,350,replacement,تتمة,False,5,21,False,2958
+31:18,57:23,350,replacement,تتمة,False,21,27,False,1611
+22:38,31:18,350,replacement,تتمة,False,17,21,False,854
+4:36,31:32,350,replacement,تتمة,False,5,21,False,2972
+31:32,57:23,350,replacement,تتمة,False,21,27,False,1597
+22:38,31:32,350,replacement,تتمة,False,17,21,False,868
+4:36,57:23,350,replacement,تتمة,False,5,27,False,4569
+4:36,22:38,350,replacement,تتمة,False,5,17,False,2104
+22:38,57:23,350,replacement,تتمة,False,17,27,False,2465
+23:37,45:24,351,multiple differences,تتمة,False,18,25,False,1787
+6:29,45:24,351,multiple differences,تتمة,False,7,25,False,3679
+6:29,23:37,351,multiple differences,تتمة,False,7,18,False,1892
+2:232,65:2,352,addition & subtraction,تتمة,False,2,28,False,4980
+2:95,62:7,353,replacement,تتمة,False,1,28,False,5082
+3:52,5:111,354,addition & subtraction,تتمة,False,3,7,False,435
+2:233,6:152,355,replacement,تتمة,False,2,8,False,701
+6:152,7:42,355,replacement,تتمة,False,8,8,True,55
+6:152,23:62,355,replacement,تتمة,False,8,18,False,1794
+2:233,7:42,355,replacement,تتمة,False,2,8,False,756
+2:233,23:62,355,replacement,تتمة,False,2,18,False,2495
+7:42,23:62,355,replacement,تتمة,False,8,18,False,1739
+9:39,11:57,356,replacement,تتمة,False,10,12,False,256
+6:22,10:45,357,multiple differences,تتمة,False,7,11,False,598
+18:86,18:94,358,replacement,تتمة,True,16,16,True,8
+5:60,18:103,359,replacement,تتمة,False,6,16,False,1514
+3:15,18:103,359,replacement,تتمة,False,3,16,False,1935
+3:15,5:60,359,replacement,تتمة,False,3,6,False,421
+11:17,32:23,360,addition & subtraction,تتمة,False,12,21,False,2036
+11:109,32:23,360,addition & subtraction,تتمة,False,12,21,False,1944
+3:136,29:58,361,addition & subtraction,تتمة,False,4,21,False,2969
+2:278,6:120,362,replacement,تتمة,False,3,8,False,624
+2:278,7:180,362,replacement,تتمة,False,3,9,False,849
+2:278,62:9,362,replacement,تتمة,False,3,28,False,4901
+2:278,6:70,362,replacement,تتمة,False,3,7,False,574
+6:120,7:180,362,replacement,تتمة,False,8,9,False,225
+6:120,62:9,362,replacement,تتمة,False,8,28,False,4277
+6:70,6:120,362,replacement,تتمة,True,7,8,False,50
+7:180,62:9,362,replacement,تتمة,False,9,28,False,4052
+6:70,7:180,362,replacement,تتمة,False,7,9,False,275
+6:70,62:9,362,replacement,تتمة,False,7,28,False,4327
+6:25,10:42,364,replacement,تتمة,False,7,11,False,592
+10:42,47:16,364,replacement,تتمة,False,11,26,False,3155
+6:25,47:16,364,replacement,تتمة,False,7,26,False,3747
+11:58,11:94,365,replacement,تتمة,True,12,12,True,36
+11:58,11:66,365,replacement,تتمة,True,12,12,True,8
+11:58,11:82,365,replacement,تتمة,True,12,12,True,24
+11:66,11:94,365,replacement,تتمة,True,12,12,True,28
+11:82,11:94,365,replacement,تتمة,True,12,12,True,12
+11:66,11:82,365,replacement,تتمة,True,12,12,True,16
+15:13,26:201,366,replacement,تتمة,False,14,19,False,1318
+11:81,15:65,367,addition & subtraction,تتمة,False,12,14,False,313
+23:19,37:42,368,multiple differences,تتمة,False,18,23,False,1138
+23:19,77:42,368,multiple differences,تتمة,False,18,29,False,2972
+2:219,23:19,368,multiple differences,تتمة,False,2,18,False,2466
+16:5,23:19,368,multiple differences,تتمة,False,14,18,False,786
+22:28,23:19,368,multiple differences,تتمة,False,17,18,False,69
+22:33,23:19,368,multiple differences,تتمة,False,17,18,False,64
+23:19,23:21,368,multiple differences,تتمة,True,18,18,True,2
+23:19,36:73,368,multiple differences,تتمة,False,18,23,False,1086
+23:19,40:80,368,multiple differences,تتمة,False,18,24,False,1521
+23:19,57:25,368,multiple differences,تتمة,False,18,27,False,2408
+37:42,77:42,368,multiple differences,تتمة,False,23,29,False,1834
+2:219,37:42,368,multiple differences,تتمة,False,2,23,False,3604
+16:5,37:42,368,multiple differences,تتمة,False,14,23,False,1924
+22:28,37:42,368,multiple differences,تتمة,False,17,23,False,1207
+22:33,37:42,368,multiple differences,تتمة,False,17,23,False,1202
+23:21,37:42,368,multiple differences,تتمة,False,18,23,False,1136
+36:73,37:42,368,multiple differences,تتمة,False,23,23,True,52
+37:42,40:80,368,multiple differences,تتمة,False,23,24,False,383
+37:42,57:25,368,multiple differences,تتمة,False,23,27,False,1270
+2:219,77:42,368,multiple differences,تتمة,False,2,29,False,5438
+16:5,77:42,368,multiple differences,تتمة,False,14,29,False,3758
+22:28,77:42,368,multiple differences,تتمة,False,17,29,False,3041
+22:33,77:42,368,multiple differences,تتمة,False,17,29,False,3036
+23:21,77:42,368,multiple differences,تتمة,False,18,29,False,2970
+36:73,77:42,368,multiple differences,تتمة,False,23,29,False,1886
+40:80,77:42,368,multiple differences,تتمة,False,24,29,False,1451
+57:25,77:42,368,multiple differences,تتمة,False,27,29,False,564
+2:219,16:5,368,multiple differences,تتمة,False,2,14,False,1680
+2:219,22:28,368,multiple differences,تتمة,False,2,17,False,2397
+2:219,22:33,368,multiple differences,تتمة,False,2,17,False,2402
+2:219,23:21,368,multiple differences,تتمة,False,2,18,False,2468
+2:219,36:73,368,multiple differences,تتمة,False,2,23,False,3552
+2:219,40:80,368,multiple differences,تتمة,False,2,24,False,3987
+2:219,57:25,368,multiple differences,تتمة,False,2,27,False,4874
+16:5,22:28,368,multiple differences,تتمة,False,14,17,False,717
+16:5,22:33,368,multiple differences,تتمة,False,14,17,False,722
+16:5,23:21,368,multiple differences,تتمة,False,14,18,False,788
+16:5,36:73,368,multiple differences,تتمة,False,14,23,False,1872
+16:5,40:80,368,multiple differences,تتمة,False,14,24,False,2307
+16:5,57:25,368,multiple differences,تتمة,False,14,27,False,3194
+22:28,22:33,368,multiple differences,تتمة,True,17,17,True,5
+22:28,23:21,368,multiple differences,تتمة,False,17,18,False,71
+22:28,36:73,368,multiple differences,تتمة,False,17,23,False,1155
+22:28,40:80,368,multiple differences,تتمة,False,17,24,False,1590
+22:28,57:25,368,multiple differences,تتمة,False,17,27,False,2477
+22:33,23:21,368,multiple differences,تتمة,False,17,18,False,66
+22:33,36:73,368,multiple differences,تتمة,False,17,23,False,1150
+22:33,40:80,368,multiple differences,تتمة,False,17,24,False,1585
+22:33,57:25,368,multiple differences,تتمة,False,17,27,False,2472
+23:21,36:73,368,multiple differences,تتمة,False,18,23,False,1084
+23:21,40:80,368,multiple differences,تتمة,False,18,24,False,1519
+23:21,57:25,368,multiple differences,تتمة,False,18,27,False,2406
+36:73,40:80,368,multiple differences,تتمة,False,23,24,False,435
+36:73,57:25,368,multiple differences,تتمة,False,23,27,False,1322
+40:80,57:25,368,multiple differences,تتمة,False,24,27,False,887
+12:22,28:14,369,addition & subtraction,تتمة,False,12,20,False,1648
+29:22,42:31,370,addition & subtraction,تتمة,False,20,25,False,941
+16:55,30:34,371,replacement,تتمة,False,14,21,False,1487
+29:66,30:34,371,replacement,تتمة,False,21,21,True,37
+16:55,29:66,371,replacement,تتمة,False,14,21,False,1450
+10:3,32:4,372,addition & subtraction,تتمة,False,11,21,False,2140
+11:7,32:4,372,addition & subtraction,تتمة,False,12,21,False,2027
+32:4,57:4,372,addition & subtraction,تتمة,False,21,27,False,1572
+7:54,32:4,372,addition & subtraction,تتمة,False,8,21,False,2499
+32:4,50:38,372,addition & subtraction,تتمة,False,21,26,False,1161
+25:59,32:4,372,addition & subtraction,تتمة,False,19,21,False,593
+10:3,11:7,372,addition & subtraction,تتمة,False,11,12,False,113
+10:3,57:4,372,addition & subtraction,تتمة,False,11,27,False,3712
+7:54,10:3,372,addition & subtraction,تتمة,False,8,11,False,359
+10:3,50:38,372,addition & subtraction,تتمة,False,11,26,False,3301
+10:3,25:59,372,addition & subtraction,تتمة,False,11,19,False,1547
+11:7,57:4,372,addition & subtraction,تتمة,False,12,27,False,3599
+7:54,11:7,372,addition & subtraction,تتمة,False,8,12,False,472
+11:7,50:38,372,addition & subtraction,تتمة,False,12,26,False,3188
+11:7,25:59,372,addition & subtraction,تتمة,False,12,19,False,1434
+7:54,57:4,372,addition & subtraction,تتمة,False,8,27,False,4071
+50:38,57:4,372,addition & subtraction,تتمة,False,26,27,False,411
+25:59,57:4,372,addition & subtraction,تتمة,False,19,27,False,2165
+7:54,50:38,372,addition & subtraction,تتمة,False,8,26,False,3660
+7:54,25:59,372,addition & subtraction,تتمة,False,8,19,False,1906
+25:59,50:38,372,addition & subtraction,تتمة,False,19,26,False,1754
+50:23,50:27,373,addition & subtraction,تتمة,True,26,26,True,4
+71:21,71:26,374,addition & subtraction,تتمة,True,29,29,True,5
+2:120,6:71,375,multiple differences,تتمة,False,1,7,False,733
+2:120,3:73,375,multiple differences,تتمة,False,1,3,False,239
+3:73,6:71,375,multiple differences,تتمة,False,3,7,False,494
+7:62,7:79,376,replacement,تتمة,True,8,8,True,17
+7:68,7:79,376,replacement,تتمة,True,8,8,True,11
+7:79,7:93,376,replacement,تتمة,True,8,9,False,14
+7:62,7:68,376,replacement,تتمة,True,8,8,True,6
+7:62,7:93,376,replacement,تتمة,True,8,9,False,31
+7:68,7:93,376,replacement,تتمة,True,8,9,False,25
+19:90,42:5,377,replacement,تتمة,False,16,25,False,1937
+21:31,31:10,378,replacement,تتمة,False,17,21,False,965
+16:15,21:31,378,replacement,تتمة,False,14,17,False,598
+16:15,31:10,378,replacement,تتمة,False,14,21,False,1563
+22:45,22:48,379,replacement,تتمة,True,17,17,True,3
+22:45,47:13,379,replacement,تتمة,False,17,26,False,1918
+22:45,65:8,379,replacement,تتمة,False,17,28,False,2585
+22:48,47:13,379,replacement,تتمة,False,17,26,False,1915
+22:48,65:8,379,replacement,تتمة,False,17,28,False,2582
+47:13,65:8,379,replacement,تتمة,False,26,28,False,667
+17:41,25:50,380,replacement,تتمة,False,15,19,False,835
+17:89,25:50,380,replacement,تتمة,False,15,19,False,787
+18:54,25:50,380,replacement,تتمة,False,15,19,False,711
+17:41,17:89,380,replacement,تتمة,True,15,15,True,48
+17:41,18:54,380,replacement,تتمة,False,15,15,True,124
+37:175,37:179,382,addition & subtraction,تتمة,True,23,23,True,4
+43:22,43:23,383,replacement,تتمة,True,25,25,True,1
+3:51,43:64,384,addition & subtraction,تتمة,False,3,25,False,4045
+19:36,43:64,384,addition & subtraction,تتمة,False,16,25,False,2103
+3:51,19:36,384,addition & subtraction,تتمة,False,3,16,False,1942
+2:129,2:151,385,multiple differences,تتمة,True,1,2,False,22
+2:129,62:2,385,multiple differences,تتمة,False,1,28,False,5043
+2:129,3:164,385,multiple differences,تتمة,False,1,4,False,321
+2:151,62:2,385,multiple differences,تتمة,False,2,28,False,5021
+2:151,3:164,385,multiple differences,تتمة,False,2,4,False,299
+3:164,62:2,385,multiple differences,تتمة,False,4,28,False,4722
+7:150,20:94,386,addition & subtraction,تتمة,False,9,16,False,1338

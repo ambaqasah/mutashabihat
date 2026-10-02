@@ -1,0 +1,23 @@
+method,family,pool,MRR,P@1,R@5,R@10,nDCG@10,MAP
+TF-IDF word (baseline),surface,"full Quran (6,236)",0.7152,0.6192,0.5487,0.6507,0.6106,0.5474
+TF-IDF word (baseline),surface,"closed (1,044 gold verses)",0.871,0.8217,0.6859,0.7811,0.7754,0.7252
+TF-IDF word 1-2gram,surface,"full Quran (6,236)",0.74,0.6463,0.5826,0.691,0.6462,0.5817
+TF-IDF word 1-2gram,surface,"closed (1,044 gold verses)",0.8865,0.8382,0.7152,0.8107,0.8045,0.7565
+TF-IDF char 2-5gram,surface,"full Quran (6,236)",0.7087,0.6192,0.544,0.6412,0.6028,0.5428
+TF-IDF char 2-5gram,surface,"closed (1,044 gold verses)",0.853,0.7946,0.6865,0.7905,0.7683,0.7157
+Jaccard word,surface,"full Quran (6,236)",0.6907,0.6047,0.5,0.5831,0.5623,0.4971
+Jaccard word,surface,"closed (1,044 gold verses)",0.824,0.7645,0.6214,0.705,0.7022,0.6452
+BM25 word,surface,"full Quran (6,236)",0.7517,0.6618,0.5762,0.6751,0.6427,0.5806
+BM25 word,surface,"closed (1,044 gold verses)",0.8845,0.8362,0.6975,0.7943,0.7907,0.7405
+TF-IDF stem,morphological,"full Quran (6,236)",0.6559,0.5601,0.4963,0.5855,0.5473,0.4858
+TF-IDF stem,morphological,"closed (1,044 gold verses)",0.8229,0.7578,0.6425,0.7354,0.7204,0.6664
+TF-IDF stem 1-2gram,morphological,"full Quran (6,236)",0.7158,0.6182,0.5586,0.6691,0.6217,0.5585
+TF-IDF stem 1-2gram,morphological,"closed (1,044 gold verses)",0.8776,0.8266,0.7003,0.8007,0.7915,0.7425
+BM25 stem,morphological,"full Quran (6,236)",0.7028,0.6143,0.5376,0.6321,0.5921,0.5282
+BM25 stem,morphological,"closed (1,044 gold verses)",0.8419,0.7762,0.6608,0.7511,0.7402,0.6885
+LSA stem (300d),latent semantic,"full Quran (6,236)",0.6144,0.5349,0.4383,0.5174,0.4926,0.4373
+LSA stem (300d),latent semantic,"closed (1,044 gold verses)",0.7683,0.6986,0.58,0.6764,0.6595,0.6077
+Fusion (BM25 word + BM25 stem + char),hybrid,"full Quran (6,236)",0.7535,0.6657,0.5772,0.6818,0.6463,0.5853
+Fusion (BM25 word + BM25 stem + char),hybrid,"closed (1,044 gold verses)",0.893,0.8479,0.7109,0.8113,0.8031,0.7528
+Dense embedding (multilingual-e5-base),dense neural,"full Quran (6,236)",0.5372,0.4593,0.3907,0.4521,0.4267,0.3737
+Dense embedding (multilingual-e5-base),dense neural,"closed (1,044 gold verses)",0.671,0.5988,0.4884,0.5637,0.5426,0.4854

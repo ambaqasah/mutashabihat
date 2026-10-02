@@ -1,0 +1,115 @@
+surah_no,surah,verses,mutashabih,links,pct_mutashabih,top_partner_surahs
+1,Al-Fatiha,7,0,0,0.0,
+2,Al-Baqara,286,76,257,26.6,"Al Imran (35), An-Nahl (17), Al-A'raf (13)"
+3,Al Imran,200,46,201,23.0,"Al-Baqara (35), An-Nahl (12), Ibrahim (11)"
+4,An-Nisa',176,38,205,21.6,"Al-Ahzab (25), At-Tawba (13), Al Imran (10)"
+5,Al-Ma'ida,120,27,97,22.5,"Al-Baqara (10), Al Imran (8), An-Nisa' (8)"
+6,Al-An'am,165,54,200,32.7,"Al-A'raf (20), Yunus (18), Al-Mu'minoon (11)"
+7,Al-A'raf,206,66,222,32.0,"Ash-Shu'ara (20), Al-An'am (20), Al-Baqara (13)"
+8,Al-Anfal,75,10,41,13.3,"Al-Baqara (6), Al Imran (5), Al-Hadid (4)"
+9,At-Tawba,129,29,122,22.5,"An-Nisa' (13), Al-Ma'ida (7), At-Taghabun (7)"
+10,Yunus,109,31,179,28.4,"Al-An'am (18), Al-A'raf (11), Az-Zumar (11)"
+11,Hud,123,33,131,26.8,"Ash-Shu'ara (19), Al-A'raf (13), An-Nahl (8)"
+12,Yusuf,111,17,70,15.3,"Al-An'am (3), Al-Qasas (3), Ghafir (3)"
+13,Ar-Ra'd,43,14,93,32.6,"Yunus (7), Al Imran (7), An-Nisa' (7)"
+14,Ibrahim,52,12,65,23.1,"Al Imran (11), Al-Baqara (7), Ar-Ra'd (3)"
+15,Al-Hijr,99,18,58,18.2,"Ash-Shu'ara (12), Sad (7), Al-A'raf (7)"
+16,An-Nahl,128,36,218,28.1,"Ash-Shu'ara (40), Al-Baqara (17), Al Imran (12)"
+17,Al-Isra',111,9,42,8.1,"An-Nisa' (7), Yunus (3), An-Naml (3)"
+18,Al-Kahf,110,15,33,13.6,"Al-An'am (4), Al-A'raf (4), Yunus (2)"
+19,Maryam,98,15,50,15.3,"Al Imran (6), Ya Seen (3), Hud (2)"
+20,Ta-Ha,135,15,61,11.1,"Al-A'raf (7), Yunus (4), Al-Qasas (4)"
+21,Al-Anbiya',112,14,60,12.5,"Yunus (5), Al-Mu'minoon (4), As-Sajda (3)"
+22,Al-Hajj,78,22,122,28.2,"Al-Baqara (10), Al-Hadid (7), Yunus (7)"
+23,Al-Mu'minoon,118,20,79,16.9,"Al-An'am (11), Al-A'raf (5), An-Naml (5)"
+24,An-Nur,64,11,47,17.2,"Al Imran (4), Al-Ma'ida (3), At-Taghabun (3)"
+25,Al-Furqan,77,7,45,9.1,"Yunus (7), Al-Hajj (4), Al-Isra' (3)"
+26,Ash-Shu'ara,227,43,271,18.9,"An-Nahl (40), Al-A'raf (20), Hud (19)"
+27,An-Naml,93,29,128,31.2,"An-Nahl (11), Al-A'raf (10), Ash-Shu'ara (10)"
+28,Al-Qasas,88,18,52,20.5,"Al-An'am (7), An-Naml (6), Ta-Ha (4)"
+29,Al-Ankabut,69,24,100,34.8,"An-Nahl (11), Al-A'raf (10), Ash-Shu'ara (9)"
+30,Ar-Rum,60,11,42,18.3,"An-Nahl (4), Az-Zumar (4), Al Imran (3)"
+31,Luqman,34,15,53,44.1,"An-Nahl (7), An-Nisa' (5), Al-Baqara (5)"
+32,As-Sajda,30,9,42,30.0,"Al-A'raf (4), Al-Anbiya' (3), Hud (3)"
+33,Al-Ahzab,73,9,63,12.3,"An-Nisa' (25), Al-Fath (5), At-Tawba (3)"
+34,Saba',54,9,59,16.7,"Ash-Shu'ara (9), Yunus (5), An-Nahl (5)"
+35,Fatir,45,12,30,26.7,"Al-Hadid (3), An-Nahl (3), Al-A'raf (3)"
+36,Ya Seen,83,7,43,8.4,"Al-Hadid (4), Al-Hajj (3), Maryam (3)"
+37,As-Saffat,182,15,35,8.2,"Al-Mu'minoon (5), Ar-Ra'd (2), An-Naml (2)"
+38,Sad,88,15,48,17.0,"Al-Hijr (7), Al-A'raf (5), Al Imran (5)"
+39,Az-Zumar,75,21,87,28.0,"Yunus (11), Al-An'am (8), Al-A'raf (5)"
+40,Ghafir,85,19,82,22.4,"Al-Baqara (5), Al-Hajj (5), Al Imran (4)"
+41,Fussilat,54,7,19,13.0,"Az-Zumar (3), Ta-Ha (2), Al-Ahqaf (1)"
+42,Ash-Shura,53,8,24,15.1,"Az-Zumar (3), Yunus (2), Al-An'am (2)"
+43,Az-Zukhruf,89,10,23,11.2,"Al-An'am (3), Al-A'raf (3), Al-Hijr (2)"
+44,Ad-Dukhan,59,7,34,11.9,"Ash-Shu'ara (9), At-Tawba (4), Yunus (2)"
+45,Al-Jathiya,37,9,26,24.3,"Al Imran (3), An-Nahl (3), Al-Ankabut (3)"
+46,Al-Ahqaf,35,5,14,14.3,"Al-Ankabut (3), Ar-Ra'd (1), Al-Isra' (1)"
+47,Muhammad,38,7,26,18.4,"Al Imran (4), Al-Hajj (3), An-Nisa' (2)"
+48,Al-Fath,29,4,33,13.8,"An-Nisa' (7), Al-Ahzab (5), Yunus (4)"
+49,Al-Hujurat,18,1,4,5.6,"An-Nisa' (1), Al Imran (1), An-Nahl (1)"
+50,Qaf,45,9,37,20.0,"As-Saffat (2), Al-Baqara (2), Al-Hajj (2)"
+51,Adh-Dhariyat,60,6,12,10.0,"Al-An'am (3), At-Tur (3), Al-Hijr (2)"
+52,At-Tur,49,7,18,14.3,"Adh-Dhariyat (3), Al-Insan (2), Al-Qasas (2)"
+53,An-Najm,62,2,5,3.2,"Yusuf (1), Al-A'raf (1), Al-An'am (1)"
+54,Al-Qamar,55,2,2,3.6,"Sad (1), An-Nisa' (1)"
+55,Ar-Rahman,78,1,12,1.3,"An-Naml (2), Yunus (1), Al-Hajj (1)"
+56,Al-Waqi'a,96,4,10,4.2,"As-Saffat (2), Ar-Ra'd (1), An-Naml (1)"
+57,Al-Hadid,29,11,82,37.9,"Al-Hajj (7), Hud (5), Ya Seen (4)"
+58,Al-Mujadila,22,5,14,22.7,"Al-Hajj (2), Ibrahim (2), Al Imran (2)"
+59,Al-Hashr,24,2,12,8.3,"An-Nisa' (2), Al-Anfal (1), Al-Baqara (1)"
+60,Al-Mumtahana,13,0,0,0.0,
+61,As-Saff,14,4,23,28.6,"At-Tawba (6), An-Nisa' (2), Ibrahim (2)"
+62,Al-Jumu'a,11,3,8,27.3,"Al-Baqara (4), Al-An'am (2), Al-A'raf (1)"
+63,Al-Munafiqun,11,1,2,9.1,At-Tawba (2)
+64,At-Taghabun,18,6,51,33.3,"At-Tawba (7), An-Nisa' (6), Al Imran (4)"
+65,At-Talaq,12,3,15,25.0,"An-Nisa' (3), At-Tawba (2), Al-Baqara (2)"
+66,At-Tahrim,12,2,5,16.7,"Al-Baqara (1), An-Nisa' (1), Al-Ma'ida (1)"
+67,Al-Mulk,30,4,24,13.3,"Al-Hadid (3), Al-A'raf (3), Ya Seen (2)"
+68,Al-Qalam,52,5,12,9.6,"As-Saffat (1), Ar-Ra'd (1), Ta-Ha (1)"
+69,Al-Haqqa,52,2,18,3.8,"Al-A'raf (4), Al-Mu'minoon (2), As-Sajda (2)"
+70,Al-Ma'arij,44,2,3,4.5,"At-Tur (1), Az-Zukhruf (1), Adh-Dhariyat (1)"
+71,Nuh,28,4,8,14.3,"Luqman (1), Ibrahim (1), Al-Ahqaf (1)"
+72,Al-Jinn,28,1,10,3.6,"An-Nisa' (3), At-Tawba (2), Al-Ma'ida (1)"
+73,Al-Muzzammil,20,0,0,0.0,
+74,Al-Muddathir,56,2,10,3.6,"Al Imran (2), Al-A'raf (2), Ghafir (1)"
+75,Al-Qiyama,40,0,0,0.0,
+76,Al-Insan,31,2,4,6.5,"At-Tur (2), Al-Waqi'a (1), Al-Qalam (1)"
+77,Al-Mursalat,50,1,10,2.0,"Al-Mu'minoon (2), Al-Hajj (2), As-Saffat (1)"
+78,An-Naba',40,0,0,0.0,
+79,An-Nazi'at,46,0,0,0.0,
+80,Abasa,42,0,0,0.0,
+81,At-Takwir,29,1,3,3.4,"Al-An'am (1), Yusuf (1), Sad (1)"
+82,Al-Infitar,19,0,0,0.0,
+83,Al-Mutaffifin,36,0,0,0.0,
+84,Al-Inshiqaq,25,1,1,4.0,At-Teen (1)
+85,Al-Buruj,22,0,0,0.0,
+86,At-Tariq,17,0,0,0.0,
+87,Al-A'la,19,0,0,0.0,
+88,Al-Ghashiya,26,0,0,0.0,
+89,Al-Fajr,30,0,0,0.0,
+90,Al-Balad,20,0,0,0.0,
+91,Ash-Shams,15,0,0,0.0,
+92,Al-Lail,21,0,0,0.0,
+93,Ad-Duha,11,0,0,0.0,
+94,Ash-Sharh,8,0,0,0.0,
+95,At-Teen,8,1,1,12.5,Al-Inshiqaq (1)
+96,Al-Alaq,19,0,0,0.0,
+97,Al-Qadr,5,0,0,0.0,
+98,Al-Bayyina,8,1,10,12.5,"An-Nisa' (3), At-Tawba (2), Al-Ma'ida (1)"
+99,Az-Zalzala,8,0,0,0.0,
+100,Al-Adiyat,11,0,0,0.0,
+101,Al-Qari'a,11,0,0,0.0,
+102,At-Takathur,8,0,0,0.0,
+103,Al-Asr,3,0,0,0.0,
+104,Al-Humaza,9,0,0,0.0,
+105,Al-Fil,5,0,0,0.0,
+106,Quraish,4,0,0,0.0,
+107,Al-Ma'un,7,0,0,0.0,
+108,Al-Kawthar,3,0,0,0.0,
+109,Al-Kafirun,6,0,0,0.0,
+110,An-Nasr,3,0,0,0.0,
+111,Al-Masad,5,0,0,0.0,
+112,Al-Ikhlas,4,0,0,0.0,
+113,Al-Falaq,5,0,0,0.0,
+114,An-Nas,6,0,0,0.0,

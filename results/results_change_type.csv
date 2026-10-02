@@ -1,0 +1,5 @@
+,accuracy,macro_F1,weighted_F1
+Majority class,0.6403,0.1952,0.4999
+Rules (pairwise diff vote),0.2888,0.1595,0.3433
+Logistic regression,0.4659,0.3022,0.5015
+Gradient boosting (HGB),0.5368,0.3314,0.5434

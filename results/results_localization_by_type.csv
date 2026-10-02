@@ -1,0 +1,7 @@
+change_type,L0 whole-verse diff,L1 divergence point,L2 group anchor + divergence
+addition & subtraction,0.1518,0.1864,0.6418
+identical,0.0,0.0,0.8
+multiple differences,0.3493,0.3272,0.3793
+order change,0.2215,0.2509,0.4438
+order similarity,0.1489,0.1545,0.6465
+replacement,0.1715,0.202,0.5917

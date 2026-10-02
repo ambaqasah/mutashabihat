@@ -1,0 +1,4 @@
+method,P,R,F1,hit,n_pred
+L0 whole-verse diff,0.1852,0.3087,0.1813,0.6219,11.6866
+L1 divergence point,0.272,0.2452,0.2088,0.5589,6.9394
+L2 group anchor + divergence,0.5649,0.6577,0.5817,0.8445,3.8633
