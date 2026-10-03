@@ -1,6 +1,6 @@
 # Quran-Similarities: Verbally Similar Verses (al-Mutashābih al-Lafẓī) in the Quran
 
-Data released with the paper *Detecting and Localizing Verbally Similar Verses (Mutashabihat) in the Quran: An Expert-Derived Benchmark and Alignment-Aware Methods for Memorization Support*.
+Data released with the paper *Detecting and Localizing Verbally Similar Verses (Mutashabihat) in the Quran: An Expert-Derived Benchmark and Alignment-Aware Retrieval Framework for Memorization Support*.
 
 ## Data files
 
